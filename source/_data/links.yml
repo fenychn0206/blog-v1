@@ -1,0 +1,32 @@
+- links_category: 最重要的人
+  has_thumbnail: false
+  list: 
+    - name: EvanNotFound's Blog
+      link: https://ohevan.com
+      description: 用香港记者的速度更新文章，也是本博客主题Redefine作者
+      avatar: https://evan.beee.top/avatar.png
+    - name: Efu
+      link: https://www.efu.me
+      description: An Open Source worker.
+      avatar: https://7.isyangs.cn/1/65eb27e69bcff-1.png
+    - name: isYangs
+      link: https://isyangs.cn
+      description: 一个前端Bug构造师的博客
+      avatar: https://7.isyangs.cn/8/655c9835780a0-8.jpg
+    - name: Rayminn
+      link: https://blog.rayminn.top
+      description: 怀揣理想 拥抱时代
+      avatar: https://avatars.githubusercontent.com/u/98998872
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      description: 分享设计与科技生活
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+    - name: 小冰博客
+      link: https://zfe.one
+      description: 做个有梦想的人！
+      avatar: https://zfe.space/images/headimage.png
+    - name: Akilarの糖果屋
+      link: https://akilar.top/
+      description : 欢迎光临糖果屋
+      avatar: https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
+      

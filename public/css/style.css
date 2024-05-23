@@ -1544,7 +1544,7 @@ pre,
 }
 pre,
 code {
-  font-family: 'Ubuntu Mono', Courier, monospace;
+  font-family: 'Source Code Pro', 'Ubuntu Mono', Courier, monospace !important;
 }
 pre.mermaid {
   background-color: var(--background-color);
