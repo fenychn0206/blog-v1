@@ -10,9 +10,10 @@ date: 2024-05-26 21:07:49
 
 
 | 类型 | `waline` 用户名 | `waline` 标签显示名称 | `waline` 跳转网址 / 标签展示网址           | 截图                                                         |
-| ---- | ------------------------------- | ------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
-| 博主 | 磅豆龙                        | 磅豆龙                        | [setbun.com](https://www.setbun.com) | <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405262121041.png" alt="磅豆龙评论示例" style="zoom:25%;" /> |
+| :--: | ------------------------------- | ------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| 本人 | 磅豆龙                        | 磅豆龙                        | [setbun.com](https://www.setbun.com) | <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405262121041.png" alt="磅豆龙评论示例" style="zoom:25%;" /> |
 | 朋友 | Yiming Lei                    | Rayminn                       | [rayminn.top](https://rayminn.top)   | <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405262117408.png" alt="image-20240526下午91736296" alt="Yiming Lei评论示例" style="zoom:33%;" /> |
+| 博主 | Teacher Du | 杜老师 | [dusays.com](https://dusays.com) | <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405262215265.png" alt="杜老师评论示例" style="zoom:25%;" /> |
 
 
 
