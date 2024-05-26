@@ -113,7 +113,7 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /imges/light-c.jpg # light mode
+    light: /images/light-c.jpg # light mode
     dark: /images/dark.jpg # dark mode
   # Home banner title
   title: 写代码、做笔记
@@ -432,7 +432,7 @@ plugins:
       # .... you can add more audios here
   # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
   mermaid:
-    enable: false # enable mermaid or not
+    enable: true # enable mermaid or not
     version: "9.3.0" # default v9.3.0
 # PLUGINS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
@@ -466,3 +466,11 @@ developer:
   # Whether to enable developer mode (only for developers who want to modify the theme source code, not for ordinary users)
   enable: false
 # DEVELOPER MODE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
+
+mathjax:
+  tags: all               # or 'ams' or 'all'
+  single_dollars: true     # enable single dollar signs as in-line math delimiters
+  cjk_width: 0.9           # relative CJK char width
+  normal_width: 0.6        # relative normal (monospace) width
+  append_css: true         # add CSS to every page
+  every_page: false        # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article

@@ -1,6 +1,10 @@
 ---
 title: Hello World
 thumbnail: "https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405222155023.jpg"
+tags: 
+ - 新的开始
+ - 成长日记
+categories: 站点日志
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
