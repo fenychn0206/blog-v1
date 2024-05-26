@@ -202,6 +202,8 @@ navbar:
       icon: fa-solid fa-server
       submenus: 
         状态监控: https://status.setbun.com/
+        认证: /bunverify
+        统计服务: https://vercount.one/
     关于: 
       icon: fa-solid fa-user
       submenus: 
