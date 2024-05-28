@@ -196,7 +196,7 @@ navbar:
       icon: fa-solid fa-book
       submenus:
         隧道: /archives
-        专栏&分类: /Categories
+        专栏&分类: /categories
         标签: /tags
     服务: 
       icon: fa-solid fa-server
