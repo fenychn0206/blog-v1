@@ -52,7 +52,7 @@ comment: true
 
 本站建于 2023 年，始终秉持着为爱发电，如果各位觉得哪个作品不错，欢迎去对应的仓库点个赞，或者在对应的文章下面留言互动一下。
 
-所有文章若无特殊生命均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) 协议，转载时请注明原文链接与原作者，谢谢配合！
+所有文章若无特殊声明均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) 协议，转载时请注明原文链接与原作者，谢谢配合！
 
 ![⬇️有关开源项目⬇️](https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatattentionreverse.png)
 
