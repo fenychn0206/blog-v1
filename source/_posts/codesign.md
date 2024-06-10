@@ -18,7 +18,7 @@ date: 2024-05-01 20:24:34
 
 ![Codesign主界面](https://s2.loli.net/2024/06/10/du4nNjt7yWCE1fx.png)在“项目”这一板块中，可以看到正在设计的许多项目。这大多为设计网页/APP这类产品而提供的功能，包括统一的UI设计、交互设计。
 
-![Codesign产品设计页](/private/var/folders/1y/wj8164v17h707l8rkztfhv4m0000gn/T/29f6eed42d2a228d44a34e8b4fa1b3bc/Kapture 2024-06-10 at 21.26.57.gif)
+![Codesign产品设计页](/Users/se7entin/Library/Application Support/typora-user-images/截屏2024-06-10 下午10.20.57.png)
 
 ## 素材板块
 
