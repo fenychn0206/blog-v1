@@ -19,7 +19,7 @@ date: 2024-05-01 20:24:34
 
 ![Codesign主界面](https://s2.loli.net/2024/06/10/du4nNjt7yWCE1fx.png)在“项目”这一板块中，可以看到正在设计的许多项目。这大多为设计网页/APP这类产品而提供的功能，包括统一的UI设计、交互设计。
 
-
+![Codesign产品设计页](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122215562.png)
 
 ## 素材板块
 
