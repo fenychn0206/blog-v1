@@ -8,7 +8,7 @@ tags:
 categories: 
  - 人工智能
  - 智能体
-thumbnal: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122128922.png
+thumbnail: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122128922.png
 sticky: 1
 ---
 
