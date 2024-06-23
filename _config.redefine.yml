@@ -455,7 +455,7 @@ cdn:
   # Whether to enable CDN
   enable: false
   # CDN Provider
-  provider: zstatic # staticfile, bootcdn, cdnjs, jsdelivr, unpkg, custom
+  provider: npmmirror # staticfile, bootcdn, cdnjs, jsdelivr, unpkg, custom
   # Custom CDN URL
   # format example: https://cdn.custom.com/hexo-theme-redefine/${version}/source/${path}
   # The ${path} must be in the source folder of the theme
