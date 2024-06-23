@@ -287,6 +287,38 @@
       </tags>
   </entry>
   <entry>
+    <title>我的豆包AI智能体上线啦！！！</title>
+    <url>//p/20240612.html</url>
+    <content><![CDATA[<p>在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！</p>
+<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2>
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>AI模型内容仅供学习和参考使用，请勿用于其他内容。也请带着辩证思维理性看待AI生成内容，因为没有人可以保证其内容可靠性与真实性！！！</p>
+
+  </div>
+
+<h2 id="模型简介"><a href="#模型简介" class="headerlink" title="模型简介"></a>模型简介</h2><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122129186.png"
+                      alt="模型缩略图" width="300" 
+                ><figcaption>模型缩略图</figcaption></figure>
+
+<p>首先呢得说明一点，这个模型未经充分测试，还是请大家帮忙训练一下哦！</p>
+<p>他的主要功能是你可以尝试将题目链接或者题目markdown喂给它（先尝试后者），然后它会生成对应代码和题解。</p>
+<h2 id="模型愿景"><a href="#模型愿景" class="headerlink" title="模型愿景"></a>模型愿景</h2><p>希望能够越来越准确吧，也不知道能对他说点啥。。。</p>
+<h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><p>打开<kbd>豆包AI</kbd> ➔ <kbd>登陆</kbd> ➔ 点击<kbd>发现AI智能体</kbd> ➔ 在搜索框中输入<kbd>OI做题能手</kbd> ➔ 找到和上方信息相同（热度除外）的智能体并点击使用就可以开始体验啦！</p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>智能体</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>人工智能</tag>
+        <tag>豆包AI智能体</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Github：设置两步验证（2FA）</title>
     <url>//p/20240426.html</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天准备上Github传项目，结果收到要求两步验证的提示。于是我翻了一下Github博客</p>
@@ -365,38 +397,6 @@
         <tag>分享</tag>
         <tag>Github</tag>
         <tag>两步验证</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的豆包AI智能体上线啦！！！</title>
-    <url>//p/20240612.html</url>
-    <content><![CDATA[<p>在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！</p>
-<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2>
-  <div class="note p-4 mb-4 rounded-small warning">
-    <p>AI模型内容仅供学习和参考使用，请勿用于其他内容。也请带着辩证思维理性看待AI生成内容，因为没有人可以保证其内容可靠性与真实性！！！</p>
-
-  </div>
-
-<h2 id="模型简介"><a href="#模型简介" class="headerlink" title="模型简介"></a>模型简介</h2><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122129186.png"
-                      alt="模型缩略图" width="300" 
-                ><figcaption>模型缩略图</figcaption></figure>
-
-<p>首先呢得说明一点，这个模型未经充分测试，还是请大家帮忙训练一下哦！</p>
-<p>他的主要功能是你可以尝试将题目链接或者题目markdown喂给它（先尝试后者），然后它会生成对应代码和题解。</p>
-<h2 id="模型愿景"><a href="#模型愿景" class="headerlink" title="模型愿景"></a>模型愿景</h2><p>希望能够越来越准确吧，也不知道能对他说点啥。。。</p>
-<h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><p>打开<kbd>豆包AI</kbd> ➔ <kbd>登陆</kbd> ➔ 点击<kbd>发现AI智能体</kbd> ➔ 在搜索框中输入<kbd>OI做题能手</kbd> ➔ 找到和上方信息相同（热度除外）的智能体并点击使用就可以开始体验啦！</p>
-]]></content>
-      <categories>
-        <category>人工智能</category>
-        <category>智能体</category>
-      </categories>
-      <tags>
-        <tag>AI</tag>
-        <tag>人工智能</tag>
-        <tag>豆包AI智能体</tag>
       </tags>
   </entry>
 </search>
