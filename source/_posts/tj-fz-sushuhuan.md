@@ -9,6 +9,7 @@ tags:
 categories:
  - 信息竞赛OI
  - 题解
+mathjax: true
 ---
 
 ## 前言：
