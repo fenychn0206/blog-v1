@@ -15,8 +15,43 @@
     <atom:link href="http://setbun.com/atom.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个专注编程的OIer的博客，在这里你可以找到适合你的内容！</description>
-    <pubDate>Wed, 12 Jun 2024 14:06:02 GMT</pubDate>
+    <pubDate>Thu, 27 Jun 2024 14:16:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>「题解」 素数环</title>
+      <link>http://setbun.com/p/20240627.html</link>
+      <guid>http://setbun.com/p/20240627.html</guid>
+      <pubDate>Thu, 27 Jun 2024 13:25:16 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言：&quot;&gt;&lt;a href=&quot;#前言：&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://setbun.com/categories/%E4%BF%A1%E6%81%AF%E7%AB%9E%E8%B5%9BOI/">信息竞赛OI</category>
+      
+      <category domain="http://setbun.com/categories/%E4%BF%A1%E6%81%AF%E7%AB%9E%E8%B5%9BOI/%E9%A2%98%E8%A7%A3/">题解</category>
+      
+      
+      <category domain="http://setbun.com/tags/%E4%BF%A1%E6%81%AF%E7%AB%9E%E8%B5%9B/">信息竞赛</category>
+      
+      <category domain="http://setbun.com/tags/OI/">OI</category>
+      
+      <category domain="http://setbun.com/tags/%E9%A2%98%E8%A7%A3/">题解</category>
+      
+      <category domain="http://setbun.com/tags/C/">C++</category>
+      
+      
+      <comments>http://setbun.com/p/20240627.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>我的豆包AI智能体上线啦！！！</title>
