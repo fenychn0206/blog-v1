@@ -10,6 +10,7 @@ category:
  - 介绍
 thumbnail: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406282016701.png
 permalink: /REDEFINE-UNOFFICIAL-README
+sticky: 3
 ---
 
 {% notel yellow fa-lightbulb 提示 tips %}
