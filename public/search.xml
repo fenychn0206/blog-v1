@@ -1,6 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【双语 Two Language】Welcome to use hexo-theme-redefine</title>
+    <url>//REDEFINE-UNOFFICIAL-README</url>
+    <content><![CDATA[
+  <div class="note-large yellow">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-lightbulb"></i><p>tips</p>
+
+    </div>
+    <div class="notel-content">
+      <p>本文是由 <code>hexo-theme-redefine</code> 主题的其中一名贡献者维护，不代表官方立场，官方信息请转移<a class="link"   href="https://redefine.ohevan.com/" >官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>查看</p>
+<p>This article is made up of <code>hexo-theme-redefine</code> theme of one of the contributors to maintain, does not represent the official position, the official information please check on the <a class="link"   href="https://redefine.ohevan.com/" >Offcial Website <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+
+    </div>
+  </div>
+
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://github.com/EvanNotFound/hexo-theme-redefine/assets/68590232/f2ff10f6-a740-4120-ba04-1b2a518fb019"
+                     
+                ></p>
+<h2 id="hexo-theme-redefine"><a href="#hexo-theme-redefine" class="headerlink" title="hexo-theme-redefine"></a>hexo-theme-redefine</h2><p><code>Redefine</code> 是一款简洁、快速、纯粹的 Hexo 主题，其简约之美遥非平凡，让人领略到设计的力量。本主题不仅包含诸多实用丰富的功能，而且赋予了精致而出色的设计理念。</p>
+<p><code>Redefine</code> is a simple, fast, pure Hexo theme, its simple beauty is far from ordinary, let people appreciate the power of design. This theme not only contains many practical and rich functions, but also gives a refined and excellent design concept.</p>
+<p>本主题源自 <a class="link"   href="https://github.com/XPoet/hexo-theme-keep" >hexo-theme-keep <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的早期版本，进一步进行了精心打磨和扩展。在保留了原主题的精炼基础上，我们优化了整体样式，引入了丰富的写作模块，并增添了多种插件支持。同时，大幅提高了自定义的灵活度，旨在让您能够更加便捷、顺畅地运用本主题，打造出独具匠心的个人博客。</p>
+<p>Theme Building on the solid foundation of <a class="link"   href="https://github.com/XPoet/hexo-theme-keep" >hexo-theme-keep <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <code>Redefine</code> elevates the style and incorporates valuable writing tools and plugins. It offers extensive customization options, allowing you to tailor every detail to your preferences. With Redefine, your blogging experience becomes unique and effortless, showcasing your personal style and needs.</p>
+<h2 id="官方站点-Official-Website"><a href="#官方站点-Official-Website" class="headerlink" title="官方站点 &#x2F;&#x2F; Official Website"></a>官方站点 &#x2F;&#x2F; Official Website</h2><a class="button  regular" href='https://www.ohevan.com' title='Github'><i class='fa-solid fa-github'></i> Github</a>
+
+<a class="button  regular" href='https://redefine.ohevan.com' title='官网'><i class='fa-solid fa-browswer'></i> 官网</a>
+
+<a class="button  regular" href='https://redefine-docs.ohevan.com' title='文档'><i class='fa-solid fa-book'></i> 文档</a>
+
+<h2 id="其他信息-Other-Information"><a href="#其他信息-Other-Information" class="headerlink" title="其他信息 &#x2F;&#x2F; Other Information"></a>其他信息 &#x2F;&#x2F; Other Information</h2><a href="https://www.npmjs.com/package/hexo-theme-redefine">
+        <figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.shields.io/npm/v/hexo-theme-redefine?color=F38181&amp;label=version&amp;logo=npm&amp;logoColor=F38181&amp;style=for-the-badge"
+                      referrerpolicy="no-referrer" alt="NPM version" 
+                ><figcaption>NPM version</figcaption></figure>
+    </a><a href="https://www.npmjs.com/package/hexo-theme-redefine"><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.shields.io/npm/dm/hexo-theme-redefine?color=FCE38A&amp;logo=npm&amp;logoColor=FCE38A&amp;style=for-the-badge"
+                      referrerpolicy="no-referrer" alt="npm downloads" 
+                ><figcaption>npm downloads</figcaption></figure></a><a href="https://www.npmjs.com/package/hexo-theme-redefine">        <figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.shields.io/npm/dt/hexo-theme-redefine?color=95E1D3&amp;label=total&amp;logo=npm&amp;logoColor=95E1D3&amp;style=for-the-badge"
+                      referrerpolicy="no-referrer" alt="npm-total" 
+                ><figcaption>npm-total</figcaption></figure>
+    </a><a href="https://hexo.io"><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.shields.io/badge/hexo-%3E=5.0.0-8caaee?style=for-the-badge&amp;logo=hexo&amp;logoColor=8caaee"
+                      referrerpolicy="no-referrer" alt="Required Hexo version" 
+                ><figcaption>Required Hexo version</figcaption></figure></a><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.shields.io/badge/node-%3E=12.0-a6d189?style=for-the-badge&amp;logo=node.js&amp;logoColor=a6d189"
+                      referrerpolicy="no-referrer" alt="NodeJS Version" 
+                ><figcaption>NodeJS Version</figcaption></figure>
+
+<h2 id="主题介绍"><a href="#主题介绍" class="headerlink" title="主题介绍"></a>主题介绍</h2><p>Redefine主题考虑到用户的交互方面，在侧边栏、工具栏等位置均设有灵活的调整模块</p>
+<p>The Redefine theme takes into account the user’s interaction, and has flexible adjustment modules in the sidebar, toolbar, etc</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406282040889.webp"
+                      alt="丰富的侧边栏控件 Abundant sidebar control"
+                ><figcaption>丰富的侧边栏控件 Abundant sidebar control</figcaption></figure></p>
+<p>针对不熟悉代码的朋友，我们准备了精美的页面模板，将来也将添加更多的页面模板供大家使用。这样可以通过yaml文件减少用户自行编写代码的情况</p>
+<p>For those who are not familiar with the code, we have prepared beautiful page templates, and we will add more page templates for everyone to use in the future. This reduces the need for users to write their own page by yaml files</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406282043633.webp"
+                      alt="美观的内置页面 Beautiful built-in pages"
+                ><figcaption>美观的内置页面 Beautiful built-in pages</figcaption></figure></p>
+<p>为了让用户在主题部署上更加顺利，主题团队编写了一套可读性极高的文档，秉承着“手把手教”的信念，使文档更加完善</p>
+<p>In order to make theme deployment smoother for users, the theme team has written a highly readable set of documents, with the belief of “teaching by hand” to improve the documentation</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://s2.loli.net/2024/06/28/8pSfMcBNgRIbHXn.webp"
+                      alt="可读性极高的文档 Hightly readable documentation"
+                ><figcaption>可读性极高的文档 Hightly readable documentation</figcaption></figure></p>
+<p>当然，还有不少用户对我们的支持，这是截止2024&#x2F;06&#x2F;28日的star情况，我们在Github拥有1.3k+的Stars。所以，你还没心动吗？</p>
+<p>Of course, there is also a lot of user support for us, this is the star situation as of 2024&#x2F;06&#x2F;28, we have 1.3k+ Stars on Github. So, you’re not tempted yet?</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://s2.loli.net/2024/06/28/pJTvmetDgR21U6I.webp"
+                      alt="拥有1.3k+ Stars"
+                ><figcaption>拥有1.3k+ Stars</figcaption></figure></p>
+<h2 id="支持主题"><a href="#支持主题" class="headerlink" title="支持主题"></a>支持主题</h2><p>欢迎 <strong>pull request</strong> 或者 提交 <strong>issues</strong>.</p>
+<p>如有问题，请发邮件到 <a class="link"   href="mailto:contact@ohevan.com" >contact@ohevan.com  <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. 作者会及时回复</p>
+<p>如果主题还不错的话，欢迎给我 Github 点个 Star，谢谢</p>
+]]></content>
+      <categories>
+        <category>开发</category>
+        <category>介绍</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>主题</tag>
+        <tag>Redefine</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>macOS：选择合适的清理软件</title>
     <url>//p/20240428.html</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直都是用的腾讯柠檬清理，可总觉得功能有那么一点点少，决定买一个CleanMyMacX。</p>

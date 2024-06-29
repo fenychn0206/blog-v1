@@ -60,7 +60,7 @@ The Redefine theme takes into account the user's interaction, and has flexible a
 
 For those who are not familiar with the code, we have prepared beautiful page templates, and we will add more page templates for everyone to use in the future. This reduces the need for users to write their own page by yaml files
 
-![美观的内置页面 Beautiful built-in pages](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406282043633.webp)
+![美观的内置页面 Beautiful built-in pages](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406290819065.webp)
 
 为了让用户在主题部署上更加顺利，主题团队编写了一套可读性极高的文档，秉承着“手把手教”的信念，使文档更加完善
 
