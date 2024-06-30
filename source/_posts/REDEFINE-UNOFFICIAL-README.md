@@ -35,11 +35,11 @@ Theme Building on the solid foundation of [hexo-theme-keep](https://github.com/X
 
 ## 官方站点 // Official Website
 
-{% btn regular::Github::https://www.ohevan.com::fa-solid fa-github %}
+{% btn regular::Github::https://www.ohevan.com::fa-brands fa-github %}
 
 {% btn regular::官网::https://redefine.ohevan.com::fa-solid fa-browswer %}
 
-{% btn regular::文档::https://redefine-docs.ohevan.com::fa-solid fa-book %}
+{% btn regular::文档::https://redefine-docs.ohevan.com::fa-duotone fa-book %}
 
 ## 其他信息 // Other Information 
 
@@ -80,4 +80,4 @@ Of course, there is also a lot of user support for us, this is the star situatio
 
 如有问题，请发邮件到 [contact@ohevan.com ](mailto:contact@ohevan.com). 作者会及时回复
 
-如果主题还不错的话，欢迎给我 Github 点个 Star，谢谢
+如果主题还不错的话，欢迎给主题在 Github 点个 Star，谢谢
