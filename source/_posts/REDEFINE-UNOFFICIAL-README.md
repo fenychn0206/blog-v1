@@ -1,5 +1,5 @@
 ---
-title: 【双语 Two Language】Welcome to use hexo-theme-redefine
+title: 【双语 Two Language】 Welcome to use hexo-theme-redefine
 date: 2024-06-28 20:12:45
 tags:
  - hexo
