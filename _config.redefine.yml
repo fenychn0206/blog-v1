@@ -182,7 +182,7 @@ navbar:
   color:
     left: "#DCE2F1" #left side 
     right: "#FAF9DE"  #right side
-    transparency: 47 #percent (10-99)
+    transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
     home: 1200px #home page
