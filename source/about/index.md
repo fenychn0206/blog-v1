@@ -8,7 +8,7 @@ comment: true
 
 # 关于本人
 
-![](https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405261739325.svg)
+![](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202405261739325.svg)
 
 👋嗨，这里是 [@Frederick Chen](/) 的个人站，采用 [hexo](https://hexo.io) 框架与 [Redefine](https://redefine.ohevan.com) 主题进行搭建。目前采用 [Github](https://github.com) + [Vercel](https://vercel.com) 的方式进行部署，今后可能切换服务器部署～
 
@@ -48,7 +48,7 @@ comment: true
 
 # 关于本站
 
-![](https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405261808847.svg)
+![](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202405261808847.svg)
 
 本站建于 2023 年，始终秉持着为爱发电，如果各位觉得哪个作品不错，欢迎去对应的仓库点个赞，或者在对应的文章下面留言互动一下。
 
