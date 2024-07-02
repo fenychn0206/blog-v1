@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【双语 Two Language】Welcome to use hexo-theme-redefine</title>
+    <title>【双语 Two Language】 Welcome to use hexo-theme-redefine</title>
     <url>//REDEFINE-UNOFFICIAL-README</url>
     <content><![CDATA[
   <div class="note-large yellow">
@@ -26,11 +26,11 @@
 <p><code>Redefine</code> is a simple, fast, pure Hexo theme, its simple beauty is far from ordinary, let people appreciate the power of design. This theme not only contains many practical and rich functions, but also gives a refined and excellent design concept.</p>
 <p>本主题源自 <a class="link"   href="https://github.com/XPoet/hexo-theme-keep" >hexo-theme-keep <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的早期版本，进一步进行了精心打磨和扩展。在保留了原主题的精炼基础上，我们优化了整体样式，引入了丰富的写作模块，并增添了多种插件支持。同时，大幅提高了自定义的灵活度，旨在让您能够更加便捷、顺畅地运用本主题，打造出独具匠心的个人博客。</p>
 <p>Theme Building on the solid foundation of <a class="link"   href="https://github.com/XPoet/hexo-theme-keep" >hexo-theme-keep <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <code>Redefine</code> elevates the style and incorporates valuable writing tools and plugins. It offers extensive customization options, allowing you to tailor every detail to your preferences. With Redefine, your blogging experience becomes unique and effortless, showcasing your personal style and needs.</p>
-<h2 id="官方站点-Official-Website"><a href="#官方站点-Official-Website" class="headerlink" title="官方站点 &#x2F;&#x2F; Official Website"></a>官方站点 &#x2F;&#x2F; Official Website</h2><a class="button  regular" href='https://www.ohevan.com' title='Github'><i class='fa-solid fa-github'></i> Github</a>
+<h2 id="官方站点-Official-Website"><a href="#官方站点-Official-Website" class="headerlink" title="官方站点 &#x2F;&#x2F; Official Website"></a>官方站点 &#x2F;&#x2F; Official Website</h2><a class="button  regular" href='https://www.ohevan.com' title='Github'><i class='fa-brands fa-github'></i> Github</a>
 
 <a class="button  regular" href='https://redefine.ohevan.com' title='官网'><i class='fa-solid fa-browswer'></i> 官网</a>
 
-<a class="button  regular" href='https://redefine-docs.ohevan.com' title='文档'><i class='fa-solid fa-book'></i> 文档</a>
+<a class="button  regular" href='https://redefine-docs.ohevan.com' title='文档'><i class='fa-duotone fa-book'></i> 文档</a>
 
 <h2 id="其他信息-Other-Information"><a href="#其他信息-Other-Information" class="headerlink" title="其他信息 &#x2F;&#x2F; Other Information"></a>其他信息 &#x2F;&#x2F; Other Information</h2><a href="https://www.npmjs.com/package/hexo-theme-redefine">
         <figure class="image-caption"><img  
@@ -75,7 +75,7 @@
 <p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406282043633.webp"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406290819065.webp"
                       alt="美观的内置页面 Beautiful built-in pages"
                 ><figcaption>美观的内置页面 Beautiful built-in pages</figcaption></figure></p>
 <p>为了让用户在主题部署上更加顺利，主题团队编写了一套可读性极高的文档，秉承着“手把手教”的信念，使文档更加完善</p>
@@ -96,7 +96,7 @@
                 ><figcaption>拥有1.3k+ Stars</figcaption></figure></p>
 <h2 id="支持主题"><a href="#支持主题" class="headerlink" title="支持主题"></a>支持主题</h2><p>欢迎 <strong>pull request</strong> 或者 提交 <strong>issues</strong>.</p>
 <p>如有问题，请发邮件到 <a class="link"   href="mailto:contact@ohevan.com" >contact@ohevan.com  <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. 作者会及时回复</p>
-<p>如果主题还不错的话，欢迎给我 Github 点个 Star，谢谢</p>
+<p>如果主题还不错的话，欢迎给主题在 Github 点个 Star，谢谢</p>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -395,38 +395,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我的豆包AI智能体上线啦！！！</title>
-    <url>//p/20240612.html</url>
-    <content><![CDATA[<p>在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！</p>
-<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2>
-  <div class="note p-4 mb-4 rounded-small warning">
-    <p>AI模型内容仅供学习和参考使用，请勿用于其他内容。也请带着辩证思维理性看待AI生成内容，因为没有人可以保证其内容可靠性与真实性！！！</p>
-
-  </div>
-
-<h2 id="模型简介"><a href="#模型简介" class="headerlink" title="模型简介"></a>模型简介</h2><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122129186.png"
-                      alt="模型缩略图" width="300" 
-                ><figcaption>模型缩略图</figcaption></figure>
-
-<p>首先呢得说明一点，这个模型未经充分测试，还是请大家帮忙训练一下哦！</p>
-<p>他的主要功能是你可以尝试将题目链接或者题目markdown喂给它（先尝试后者），然后它会生成对应代码和题解。</p>
-<h2 id="模型愿景"><a href="#模型愿景" class="headerlink" title="模型愿景"></a>模型愿景</h2><p>希望能够越来越准确吧，也不知道能对他说点啥。。。</p>
-<h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><p>打开<kbd>豆包AI</kbd> ➔ <kbd>登陆</kbd> ➔ 点击<kbd>发现AI智能体</kbd> ➔ 在搜索框中输入<kbd>OI做题能手</kbd> ➔ 找到和上方信息相同（热度除外）的智能体并点击使用就可以开始体验啦！</p>
-]]></content>
-      <categories>
-        <category>人工智能</category>
-        <category>智能体</category>
-      </categories>
-      <tags>
-        <tag>AI</tag>
-        <tag>人工智能</tag>
-        <tag>豆包AI智能体</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Github：设置两步验证（2FA）</title>
     <url>//p/20240426.html</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天准备上Github传项目，结果收到要求两步验证的提示。于是我翻了一下Github博客</p>
@@ -505,6 +473,38 @@
         <tag>分享</tag>
         <tag>Github</tag>
         <tag>两步验证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的豆包AI智能体上线啦！！！</title>
+    <url>//p/20240612.html</url>
+    <content><![CDATA[<p>在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！</p>
+<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2>
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>AI模型内容仅供学习和参考使用，请勿用于其他内容。也请带着辩证思维理性看待AI生成内容，因为没有人可以保证其内容可靠性与真实性！！！</p>
+
+  </div>
+
+<h2 id="模型简介"><a href="#模型简介" class="headerlink" title="模型简介"></a>模型简介</h2><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122129186.png"
+                      alt="模型缩略图" width="300" 
+                ><figcaption>模型缩略图</figcaption></figure>
+
+<p>首先呢得说明一点，这个模型未经充分测试，还是请大家帮忙训练一下哦！</p>
+<p>他的主要功能是你可以尝试将题目链接或者题目markdown喂给它（先尝试后者），然后它会生成对应代码和题解。</p>
+<h2 id="模型愿景"><a href="#模型愿景" class="headerlink" title="模型愿景"></a>模型愿景</h2><p>希望能够越来越准确吧，也不知道能对他说点啥。。。</p>
+<h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><p>打开<kbd>豆包AI</kbd> ➔ <kbd>登陆</kbd> ➔ 点击<kbd>发现AI智能体</kbd> ➔ 在搜索框中输入<kbd>OI做题能手</kbd> ➔ 找到和上方信息相同（热度除外）的智能体并点击使用就可以开始体验啦！</p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>智能体</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>人工智能</tag>
+        <tag>豆包AI智能体</tag>
       </tags>
   </entry>
   <entry>
