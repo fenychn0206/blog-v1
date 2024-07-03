@@ -316,7 +316,7 @@ articles:
     # Whether to enable article recommendation
     enable: true
     # Article recommendation title
-    title: Recommend Pot
+    title: Recommend Post
     # Max number of articles to display
     limit: 3
     # Max number of articles to display mobile
