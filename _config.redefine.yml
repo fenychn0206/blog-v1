@@ -116,7 +116,7 @@ home_banner:
     light: /images/light.png # light mode
     dark: /images/dark.png # dark mode
   # Home banner title
-  title: <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407021609478.svg" alt="logo" width="300px" />
+  title: <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407021609478.svg" alt="Buntalk Universe" width="300px" />
   # Home banner subtitle
   subtitle:
     text:  # subtitle text, array
