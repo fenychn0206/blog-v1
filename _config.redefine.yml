@@ -398,15 +398,13 @@ footer:
 # Docs: https://redefine-docs.ohevan.com/inject
 inject:
   # Whether to enable inject
-  enable: false
+  enable: true
   # Inject custom head html code
   head: 
-    -
-    -
+    - <script defer src="https://cloud.umami.is/script.js" data-website-id="cfd52f71-d9a3-4035-b376-80edfc656808"></script>
   # Inject custom footer html code
   footer:
-    -
-    -
+    
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
