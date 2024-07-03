@@ -47,7 +47,7 @@ Theme Building on the solid foundation of [hexo-theme-keep](https://github.com/X
     </a><a href="https://www.npmjs.com/package/hexo-theme-redefine"><img src="https://img.shields.io/npm/dm/hexo-theme-redefine?color=FCE38A&amp;logo=npm&amp;logoColor=FCE38A&amp;style=for-the-badge" referrerpolicy="no-referrer" alt="npm downloads" /></a><a href="https://www.npmjs.com/package/hexo-theme-redefine">        <img src="https://img.shields.io/npm/dt/hexo-theme-redefine?color=95E1D3&amp;label=total&amp;logo=npm&amp;logoColor=95E1D3&amp;style=for-the-badge" referrerpolicy="no-referrer" alt="npm-total" />
     </a><a href="https://hexo.io"><img src="https://img.shields.io/badge/hexo-%3E=5.0.0-8caaee?style=for-the-badge&amp;logo=hexo&amp;logoColor=8caaee" referrerpolicy="no-referrer" alt="Required Hexo version" /></a><img src="https://img.shields.io/badge/node-%3E=12.0-a6d189?style=for-the-badge&amp;logo=node.js&amp;logoColor=a6d189" referrerpolicy="no-referrer" alt="NodeJS Version" />
 
-## 主题介绍
+## 主题介绍 // Introduction
 
 Redefine主题考虑到用户的交互方面，在侧边栏、工具栏等位置均设有灵活的调整模块
 
@@ -73,7 +73,7 @@ Of course, there is also a lot of user support for us, this is the star situatio
 
 ![拥有1.3k+ Stars](https://s2.loli.net/2024/06/28/pJTvmetDgR21U6I.webp)
 
-## 支持主题
+## 支持主题 // Support
 
 欢迎 **pull request** 或者 提交 **issues**.
 
