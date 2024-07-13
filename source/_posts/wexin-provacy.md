@@ -28,3 +28,9 @@ thumbnail: https://wechat.design/uploads/ff362520e08c269a581fb4fe147ae0d2/%E5%BE
 所以说，对于这个点，你有什么看法？
 
 ![《微信隐私保护指引》中提到上文内容的部分（高亮）直达链接：https://arc.net/l/quote/rfcrcgqz）](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407131127093.png)
+
+# Ad
+
+想要知道更多微信与WeChat隐私协议的不同，请观看下面的视频
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1755876387&bvid=BV1z4421S77K&cid=1587655687&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
