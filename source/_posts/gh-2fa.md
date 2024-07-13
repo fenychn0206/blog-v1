@@ -7,6 +7,7 @@ tags:
 categories:
  - '账户安全'
 date: '2024-04-26'
+thumbnail: https://github.blog/wp-content/uploads/2022/12/2fa-blog-banner.png?resize=1600%2C850
 ---
 
 ## 前言
@@ -15,7 +16,7 @@ date: '2024-04-26'
 
 ![Github官方博客指明了必须添加两步验证](https://picx.zhimg.com/80/v2-16d73cc24793146f8f43c6981517f87d_1440w.png?source=d16d100b)
 
-[博客链接](github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
+[博客链接](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
 
 这篇新闻总的意思来说就是要求用户必须添加“两步验证”方式，否则无法访问某些功能
 
