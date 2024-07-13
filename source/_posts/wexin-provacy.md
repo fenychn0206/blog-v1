@@ -8,7 +8,7 @@ tags:
 categories:
  - 随笔
  - 当代软件
-thunbnail: https://wechat.design/uploads/ff362520e08c269a581fb4fe147ae0d2/%E5%BE%AE%E4%BF%A1%E6%8B%9B%E7%89%8C.jpg
+thumbnail: https://wechat.design/uploads/ff362520e08c269a581fb4fe147ae0d2/%E5%BE%AE%E4%BF%A1%E6%8B%9B%E7%89%8C.jpg
 ---
 
 {% note  %}本文仅代表本人观点，如有问题请评论指出，但请不要使用过激语言！{% endnote %}
