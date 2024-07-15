@@ -9,7 +9,6 @@ categories:
  - 人工智能
  - 智能体
 thumbnail: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122128922.png
-sticky: 1
 ---
 
 在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！
