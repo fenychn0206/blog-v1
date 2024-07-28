@@ -1,6 +1,6 @@
 ---
 title: Pixel-Chat Boom项目介绍
-date: 2024-07-28 22:20:24
+date: 2024-07-29 22:20:24
 tags:
  - Python
  - Pixel-Chat
@@ -8,6 +8,7 @@ category:
  - 开发
  - 个人项目
  - Pixel-Chat
+sticky: 9999999999
 ---
 
 ## Pixel-Chat是啥？
