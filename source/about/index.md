@@ -4,8 +4,6 @@ date: 2024-05-26 17:38:31
 comment: true
 ---
 
-<script src="https://gist.github.com/FrederickBun/33375fc8d8639d6947aa9d8ff85b1de2.js"></script>
-
 # 关于本人
 
 ![](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202405261739325.svg)
@@ -57,3 +55,5 @@ comment: true
 ![⬇️有关开源项目⬇️](https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatattentionreverse.png)
 
 开源项目无任何盈利目的，只在学习闲暇时间进行维护，有相关需求请前往对应项目提 Issue 进行反馈，通过私人邮件询问开源项目问题可能得不到答复。
+
+<script src="https://gist.github.com/FrederickBun/33375fc8d8639d6947aa9d8ff85b1de2.js"></script>
