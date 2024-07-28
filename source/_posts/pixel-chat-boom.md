@@ -18,7 +18,7 @@ thumbnail: https://repository-images.githubusercontent.com/832191338/b1042f2c-3c
 
 这是我最近和朋友写的一个[即时聊天](https://www.bing.com/search?q=%E5%8D%B3%E6%97%B6%E8%81%8A%E5%A4%A9&PC=U316&FORM=CHROMN)项目，项目地址：[https://github.com/AlignPixel/Pixel-Chat-App](https://github.com/AlignPixel/Pixel-Chat-App)
 
-，欢迎点Star支持
+欢迎点Star支持
 
 具体说明请阅读项目的 `README.md`，这里就不过多赘述
 
