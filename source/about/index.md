@@ -4,7 +4,7 @@ date: 2024-05-26 17:38:31
 comment: true
 ---
 
-
+<script src="https://gist.github.com/FrederickBun/33375fc8d8639d6947aa9d8ff85b1de2.js"></script>
 
 # 关于本人
 
