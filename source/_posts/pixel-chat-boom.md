@@ -9,6 +9,7 @@ category:
  - 个人项目
  - Pixel-Chat
 sticky: 9999999999
+thumbnail: https://repository-images.githubusercontent.com/832191338/b1042f2c-3c1a-4756-b061-732923b776cd
 ---
 
 ## Pixel-Chat是啥？
