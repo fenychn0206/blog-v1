@@ -385,7 +385,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a>'
+  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/setbun.com"></img></a>'
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: true # Whether to enable
