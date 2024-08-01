@@ -164,6 +164,7 @@ home_banner:
       mastodon: https://mastodon.social/@frederickay
       facebook: https://www.facebook.com/FrederickBun
       youtube: https://www.youtube.com/@Fredgg0017
+      fa-solid fa-train-subway: https://www.travellings.cn/go.html
       email: seventeen@ohdragonboi.cn # your email
       # ...... # you can add more
     # Social links with QRcode drawers
@@ -211,6 +212,9 @@ navbar:
         Links: /links
         Essays: /essays
         Photos: /masonry
+    Travelling:
+      icon: fa-solid fa-train-subway
+      path: https://www.travellings.cn/go.html
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
@@ -229,7 +233,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: 欢迎来到磅说，快来留下你的足迹吧！ # Announcement text
+    announcement: 营火，噼啪作响…… # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
       Timeline: 
@@ -385,7 +389,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/setbun.com"></img></a>'
+  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a href="https://www.travellings.cn/go.html" align="center" title="开往-友链接力">开往-友链接力</a>'
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: true # Whether to enable
