@@ -251,6 +251,9 @@ home:
       Photos: 
         path: /masonry
         icon: fa-regular fa-images
+      Travelling:
+        icon: fa-solid fa-train-subway
+        path: https://www.travellings.cn/go.html
       # ...... # you can add more
   # Article date format
   article_date_format: relative # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
