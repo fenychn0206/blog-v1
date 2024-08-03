@@ -18,8 +18,6 @@ mathjax: true
 
 ## 信息队原题
 
-
-
 ![原题图片](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272146771.png)
 
 ## 1.题目分析

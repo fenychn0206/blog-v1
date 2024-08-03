@@ -49,13 +49,13 @@ $$\begin{pmatrix}
 
 ### 样例输入 #1
 
-```
+```Plaintext
 4 2 3
 ```
 
 ### 样例输出 #1
 
-```
+```Plaintext
 14
 ```
 
