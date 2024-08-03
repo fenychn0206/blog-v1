@@ -11,6 +11,8 @@ categories:
  - 题解
 mathjax: true
 password: aklsdhfsklfhsklhfaslkfhyo4q29qoriwhefkjdy9ioqewhf@#!$%#^$&%
+abstract: 比赛赛题，题解暂不支持查看！
+message: 比赛赛题，题解暂不支持查看！
 ---
 
 # Problem
