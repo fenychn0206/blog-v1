@@ -212,6 +212,7 @@ navbar:
         Links: /links
         Essays: /essays
         Photos: /masonry
+        Porfolio: https://frederication.work
     Travelling:
       icon: fa-solid fa-train-subway
       path: https://www.travellings.cn/go.html
@@ -233,7 +234,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: '营火，噼啪作响……<br /><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img src="https://boringbay.com/api/badge/setbun.com" width="90"></img></a><a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="90"></a>' # Announcement text
+    announcement: '营火，噼啪作响……<br /><br /><div><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img src="https://boringbay.com/api/badge/setbun.com"></img></a></div>' # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
       Timeline: 
