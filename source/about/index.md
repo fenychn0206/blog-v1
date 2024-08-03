@@ -10,7 +10,7 @@ comment: true
 
 <a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://www.travellings.cn/assets/logo.svg" alt="开往-友链接力" width="120"></a>
 
-<a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/setbun.com"></img></a>
+<a title="无聊湾 🥱 The Boring Bay" width="90" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/setbun.com"></img></a>
 
 👋嗨，这里是 [@Frederick Chen](/) 的个人站，采用 [hexo](https://hexo.io) 框架与 [Redefine](https://redefine.ohevan.com) 主题进行搭建。目前采用 [Github](https://github.com) + [Vercel](https://vercel.com) 的方式进行部署，今后可能切换服务器部署～
 
