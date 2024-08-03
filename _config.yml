@@ -129,6 +129,6 @@ encrypt: # hexo-blog-encrypt
   - {name: 加密-普通, password: ChFY120206}
   - {name: 加密-高级, password: ChFY120206!@)@)^}
   - {name: 加密-特级, password: ChFY-120206-!@)@)^~`}
-  theme: Wave
+  theme: wave
   wrong_pass_message: 抱歉, 密码错误, 请重新尝试。
   wrong_hash_message: 抱歉, 这个文章不能被Hash校验, 不过您还是能看看解密后的内容～
