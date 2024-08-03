@@ -14,7 +14,7 @@ mathjax: true
 
 # Problem
 
-[题目传送门]()
+[题目传送门](https://www.luogu.com.cn/problem/P10835)
 
 # Solution
 
