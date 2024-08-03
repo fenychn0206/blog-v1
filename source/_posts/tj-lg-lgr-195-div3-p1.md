@@ -10,7 +10,6 @@ categories:
  - 信息竞赛OI
  - 题解
 mathjax: true
-description: 比赛尚未结束！
 password: aklsdhfsklfhsklhfaslkfhyo4q29qoriwhefkjdy9ioqewhf@#!$%#^$&%
 ---
 
