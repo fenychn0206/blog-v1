@@ -165,6 +165,7 @@ home_banner:
       facebook: https://www.facebook.com/FrederickBun
       youtube: https://www.youtube.com/@Fredgg0017
       fa-solid fa-train-subway: https://www.travellings.cn/go.html
+      fa-solid fa-bell: https://follow.it/buntalk?leanpub
       email: seventeen@ohdragonboi.cn # your email
       # ...... # you can add more
     # Social links with QRcode drawers
@@ -255,6 +256,9 @@ home:
       Travelling:
         icon: fa-solid fa-train-subway
         path: https://www.travellings.cn/go.html
+      Subscibe: 
+        icon: fa-solid fa-bell
+        path: https://follow.it/buntalk?leanpub
       # ...... # you can add more
   # Article date format
   article_date_format: relative # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
@@ -393,7 +397,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a href="https://www.travellings.cn/go.html" align="center" title="开往-友链接力">开往-友链接力</a> | <a href="https://travel.moe/go?travel=on">萌备-异次元之旅</a> | <a href="https://www.foreverblog.cn/go.html">十年之约-虫洞穿梭</a><a href="https://follow.it/buntalk?leanpub"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408032157433.png" /></a>'
+  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a href="https://www.travellings.cn/go.html" align="center" title="开往-友链接力">开往-友链接力</a> | <a href="https://travel.moe/go?travel=on">萌备-异次元之旅</a> | <a href="https://www.foreverblog.cn/go.html">十年之约-虫洞穿梭</a>'
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: true # Whether to enable
@@ -409,7 +413,7 @@ inject:
   enable: true
   # Inject custom head html code
   head: 
-    - <meta name="follow.it-verification-code" content="CuLH6eh2SaFQ9vFJpRk7"/>
+    - <meta name="follow.it-verification-code" content="CuLH6eh2SaFQ9vFJpRk7"/> 
     - <script defer src="https://cloud.umami.is/script.js" data-website-id="cfd52f71-d9a3-4035-b376-80edfc656808"></script>
   # Inject custom footer html code
   footer:
