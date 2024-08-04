@@ -212,6 +212,7 @@ navbar:
         Links: /links
         Essays: /essays
         Photos: /masonry
+        Subscribe: /subscribe
         Porfolio: https://frederication.work
     Travelling:
       icon: fa-solid fa-train-subway
@@ -257,7 +258,7 @@ home:
         path: https://www.travellings.cn/go.html
       Subscibe: 
         icon: fa-solid fa-bell
-        path: https://follow.it/buntalk?leanpub
+        path: /subscribe
       # ...... # you can add more
   # Article date format
   article_date_format: relative # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
