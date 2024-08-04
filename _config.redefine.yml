@@ -204,7 +204,6 @@ navbar:
       icon: fa-solid fa-server
       submenus: 
         Uptime status: https://status.setbun.com/
-        Verify: /bunverify
         Count Service: https://vercount.one/
     About: 
       icon: fa-solid fa-mug-hot
