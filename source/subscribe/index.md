@@ -88,13 +88,6 @@ comment: true
 {% btn center large::如果上面的表单无法使用，请点击这个备用按钮订阅::https://follow.it/buntalk?leanpub::fa-solid fa-bell %}
 {% endnotel %}
 
-{% notel purple fa-browser 『网站订阅』爱发电 %}
-**「推荐选择本订阅模式」**
-推送全部文章更新
-推送全文内容（可能会因为盈利问题转成文章概括）
-{% btn center large::点击订阅::https://afdian.com/album/d72d44ba525911efa6b252540025c377::fa-solid fa-bell %}
-{% endnotel %}
-
 {% notel yellow fa-rss 『RSS』使用您的RSS客户端订阅atom.xml %}
 **「备选订阅模式」**
 推送全部文章更新
