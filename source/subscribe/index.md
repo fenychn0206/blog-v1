@@ -11,7 +11,7 @@ comment: true
 {% notel blue fa-envelope 『邮件订阅』follow.it %}
 **「推荐选择本订阅模式」**
 推送全部文章更新
-推送文章部分内容
+推送全文内容
 继续阅读请点击邮件中 `Continue reading` 按钮
 <style>
     .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
@@ -91,7 +91,7 @@ comment: true
 {% notel yellow fa-rss 『RSS』使用您的RSS客户端订阅atom.xml %}
 **「备选订阅模式」**
 推送全部文章更新
-推送文章部分内容
+推送全文内容
 {% btn center large::点击订阅::https://www.setbun.com/atom.xml::fa-solid fa-bell %}
 {% endnotel %}
 
