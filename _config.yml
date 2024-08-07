@@ -125,10 +125,7 @@ encrypt: # hexo-blog-encrypt
   message: 请键入密码后访问……
   tags:
   - {name: 比赛进行中不支持访问此题解, password: sjfa;ljflaskjhfa;fupeo;2#@fldskjhleouwialekjhf892ho#@hfawdlikheuiowfakdfwizh}
-  - {name: 加密-初级, password: 120206}
-  - {name: 加密-普通, password: ChFY120206}
-  - {name: 加密-高级, password: ChFY120206!@)@)^}
-  - {name: 加密-特级, password: ChFY-120206-!@)@)^~`}
+  - {name: 撰写中的文章, password: ChFY120206}
   theme: xray
   wrong_pass_message: 抱歉, 密码错误, 请重新尝试。
   wrong_hash_message: 抱歉, 这个文章不能被Hash校验, 不过您还是能看看解密后的内容～
