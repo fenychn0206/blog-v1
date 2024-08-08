@@ -69,8 +69,8 @@ Hi，好久没有写跟学习没有关系的内容了 ~~（这篇跟学习额额
 
 <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082015186.png" width="800" />
 
+<img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082029973.png" width="800" />
 
-
-
+<img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082032201.png" width="800" />
 
 {% endnotel %}
