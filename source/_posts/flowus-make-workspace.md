@@ -85,4 +85,6 @@ Hi，好久没有写跟学习没有关系的内容了 ~~（这篇跟学习额额
 
 选择好之后为空间取一个名字
 
-![为空间去一个名字](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082049426.png)
+![为空间取一个名字](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082049426.png)
+
+点击“完成”就OK了
