@@ -36,3 +36,10 @@ Hi，好久没有写跟学习没有关系的内容了 ~~（这篇跟学习额额
 先来看几张图
 
 ![本人的信息学竞赛知识分享站，使用Notion搭建，网址：oi.ohdragonboi.cn](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408072120585.png)
+
+![使用FlowUs创建一个收集表](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408081956243.png)
+
+![使用FlowUs管理文件](../../../../../Library/Application%20Support/typora-user-images/%E6%88%AA%E5%B1%8F2024-08-08%20%E4%B8%8B%E5%8D%887.57.24.png)
+
+除了这些，还有更多……
+
