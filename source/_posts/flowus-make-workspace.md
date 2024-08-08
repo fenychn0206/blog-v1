@@ -63,6 +63,10 @@ Hi，好久没有写跟学习没有关系的内容了 ~~（这篇跟学习额额
 
 {% notel default fa-info 这里说一下两个选项的区别 %}
 
+个人使用，默认为“个人版”，付费后为“个人专业版”；团队使用默认为“小组使用版”功能相对于小组版来说受限很多。个人使用就选择“个人使用”这一项，支持协作
+
+下面是权益对比
+
 <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082014888.png" width="800"/>
 
 <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082014819.png" width="800" />
@@ -73,4 +77,12 @@ Hi，好久没有写跟学习没有关系的内容了 ~~（这篇跟学习额额
 
 <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082032201.png" width="800" />
 
+<img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082037883.png" width="800" />
+
 {% endnotel %}
+
+这里根据个人需求选择，我这里以“个人使用”为例
+
+选择好之后为空间取一个名字
+
+![为空间去一个名字](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082049426.png)
