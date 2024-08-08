@@ -41,5 +41,36 @@ Hi，好久没有写跟学习没有关系的内容了 ~~（这篇跟学习额额
 
 ![使用FlowUs管理文件](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408081957255.png)
 
-除了这些，还有更多……
+除了这些，还有很多这样的事例，这里就不全部展示了
 
+## 2. 怎么做到的
+
+别急，本片文章就是为你介绍他们，并做一个教学来告诉大家如何通过这类Apps搭建自己的个人工作台
+
+由于FlowUs与Notion功能类似且都是非常优秀的笔记软件，~~然后为了支持国产~~本片文章就选择其中之一FlowUs来做教程（因为中文大家看得懂）
+
+## 3. 教程，开始
+
+### 1. 注册一个FlowUs账号
+
+访问[FlowUs官网](htttps://flowus.cn)并注册一个账号，这里就不过多赘述
+
+### 2. 创建一个新的空间
+
+注册好之后，你应该会看到这样一个界面，那么也就意味着我们开始了！
+
+![创建新的FlowUs空间](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082010795.png)
+
+{% notel default fa-info 这里说一下两个选项的区别 %}
+
+<img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082014888.png" width="800"/>
+
+<img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082014819.png" width="800" />
+
+<img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408082015186.png" width="800" />
+
+
+
+
+
+{% endnotel %}
