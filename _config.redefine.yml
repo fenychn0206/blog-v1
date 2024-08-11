@@ -169,7 +169,7 @@ home_banner:
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
-      fa-solid fa-circle-dollar-to-slot: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408072013562.jpeg # your Wechat QRcode image URL
+      fa-solid fa-circle-dollar-to-slot: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202408110944048.png
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 

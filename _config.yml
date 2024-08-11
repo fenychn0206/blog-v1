@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: <Buntalk /> 写代码、做笔记
+title: Buntalk Universe
 subtitle: '欢迎来到磅说，在这里你可以找到适合你的内容！'
 description: '一个专注编程的OIer的博客，在这里你可以找到适合你的内容！'
 keywords: ['C++,Python,算法,代码,博客,竞赛,OI,CSP,NOIP,NOI,ICPC,Hexo,Oktica,Frederick Chen,Frederick,生活日记,Oktica,Setbun,BunTalk']
-author: Mr. Frederick
+author: 磅豆龙
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://setbun.com
+url: https://www.setbun.com
 permalink: p/:year:month:day.html
 permalink_defaults:
 pretty_urls:
