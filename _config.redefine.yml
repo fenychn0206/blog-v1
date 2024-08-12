@@ -359,7 +359,7 @@ comment:
       locale: {
         nick: '昵称',
         mail: '邮箱',
-        link: '你的网站',
+        link: '你的网站（可选）',
         placeholder: '本站会通过您的邮箱获取您的Gravatar头像',
         requiredMeta: [],
         sofa: '评论区空空如也！快来做第一个评论的人吧～',
