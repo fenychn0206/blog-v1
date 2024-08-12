@@ -356,7 +356,6 @@ comment:
       recaptchaV3Key: 6LenIuYpAAAAAB7WoD1iptn3bcUNs2zEF4dVlJVV # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
       turnstileKey: # Turnstile key. See https://waline.js.org/reference/client/props.html#turnstilekey
       reaction: true
-      login: 'force'
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
       clientID: # GitHub Application Client ID
