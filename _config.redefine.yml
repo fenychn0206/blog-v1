@@ -360,7 +360,7 @@ comment:
         'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_joy.png',
         'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_consider.png',
         'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_sob.png',
-      ],
+      ]
       locale: [
         nick: '昵称',
         mail: '邮箱',
