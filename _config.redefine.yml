@@ -356,17 +356,7 @@ comment:
       recaptchaV3Key:  # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
       turnstileKey: 0x4AAAAAAAhC1XCSi1I8HnNu # Turnstile key. See https://waline.js.org/reference/client/props.html#turnstilekey
       reaction: ['https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_heart_eyes.png', 'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_joy.png', 'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_consider.png', 'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_sob.png']
-      locale: [
-        nick: '昵称',
-        mail: '邮箱',
-        link: '你的网站（可选）',
-        submit: '发射',
-        placeholder: '本站会通过您的邮箱获取您的Gravatar头像',
-        requiredMeta: [],
-        sofa: '评论区空空如也！快来做第一个评论的人吧～',
-        anonymous: '匿名的大龙',
-        login: '登录/注册'
-      ]
+      locale: [nick: '昵称', mail: '邮箱', link: '你的网站（可选）', submit: '发射', placeholder: '本站会通过您的邮箱获取您的Gravatar头像', requiredMeta: [], sofa: '评论区空空如也！快来做第一个评论的人吧～', anonymous: '匿名的大龙', login: '登录/注册']
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
       clientID: # GitHub Application Client ID
