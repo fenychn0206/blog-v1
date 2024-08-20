@@ -59,3 +59,42 @@ categories:
 普通快读：使用 `<cstdio>`库中的 `fread()`，`fwrite()`，先统一读入，再返回。
 
 高速快读：使用 `<iostream>`库中的 `std::streambuf()`，直接访问cin，cout缓存。
+
+## BigNumber.h
+
+一个简单的封装整数高精度库。
+
+### 食用方法
+
+需要使用 `using namespace BigNumber;`
+
+使用 `bignumber a`来定义一个高精度数字。
+
+目前支持的运算符：
+
+- `a+b`普通的加法
+- `a-b`普通的减法
+- `a*b`乘法(使用FFT加速)
+- `a/b`普通的除法
+- `a%b`普通的模法
+- `abs(a)`返回绝对值
+- `to_int(a)`转化为 `int`
+- `to_long_long`转化为 `long long`
+
+同时直接兼容 `cin cout`与 `FastIOS.h`中的快读快写！
+
+### ExSort.h
+
+一个对排序方法的追加。
+
+#### 食用方法
+
+类似于 `std::sort`（~~[你不知道？](https://zh.cppreference.com/w/cpp/algorithm/sort)~~）。
+
+但是暂不支持自定义比较函数，想要排序结构体需要重载小于运算符（~~[你不知道？](https://zh.cppreference.com/w/cpp/language/overload_resolution)~~）。
+
+### InMath.h
+
+开发中……
+
+目前只有矩阵、快速幂、逆元、exgcd
