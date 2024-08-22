@@ -41,3 +41,12 @@
       link: https://xaoxuu.com
       description: 风暴前夕
       avatar: https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png
+
+- links_category: 技术
+  has_thumbnail: true
+  list: 
+    - name: Kegongteng
+      link: https://kegongteng.cn/
+      description: 	Blogger / Technophile / Student
+      thumbnail: https://bu.dusays.com/2024/01/23/65af22a5013e1.jpeg
+      avatar: 	https://bu.dusays.com/2023/12/23/65867c3357bb6.jpg
