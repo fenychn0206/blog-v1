@@ -20,7 +20,7 @@ comment: true
 
 - 华语流行
 - 摇滚/金属
-- 孙燕姿/周杰伦/陈奕迅/**五月天**/蔡依林/邓紫棋/Linking Park/迈克尔杰克逊（好像是这么写的吧）
+- 孙燕姿/周杰伦/陈奕迅/**五月天**/蔡依林/邓紫棋/Linkin Park/迈克尔杰克逊（好像是这么写的吧）
 
 <!-- endtab --> 
 
@@ -38,7 +38,7 @@ comment: true
 
 <!-- tab 开发/技能-->
 
-目前在研究 `前端开发` ，喜欢用 `VSCode` `SublimeText` `GHDesktop` `Git` 曾在某年某时说过「抱紧Github大腿不放」这一狂言。目前会 `HTML` `CSS` `NEXTJS` `Python` `C++` 。
+目前在研究 `前端开发` ，喜欢用 `VSCode` `Jetbrains` `GHDesktop` `Git` 曾在某年某时说过「抱紧Github大腿不放」这一狂言。目前会 `HTML` `CSS` `NextJS` `Python` `C++` 。
 
 <!-- endtab -->
 
