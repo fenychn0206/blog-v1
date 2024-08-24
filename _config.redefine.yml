@@ -204,7 +204,7 @@ navbar:
       submenus: 
         Uptime status: https://status.setbun.com/
         Count Service: https://vercount.one/
-        Whois Search: https://whois.setbun.com/
+        Whois Search: https://whois.api.setbun.com/
     About: 
       icon: fa-solid fa-mug-hot
       submenus: 
@@ -223,7 +223,7 @@ navbar:
     # Whether to enable
     enable: true
     # Preload search data when the page loads
-    preload: false
+    preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
