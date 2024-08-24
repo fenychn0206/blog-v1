@@ -204,6 +204,7 @@ navbar:
       submenus: 
         Uptime status: https://status.setbun.com/
         Count Service: https://vercount.one/
+        Whois Search: https://whois.setbun.com/
     About: 
       icon: fa-solid fa-mug-hot
       submenus: 
