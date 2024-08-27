@@ -214,7 +214,7 @@ navbar:
         Photos: /masonry
         Subscribe: /subscribe
         Porfolio: https://frederication.work
-     Travelling:
+    Travelling:
       icon: fa-solid fa-train-subway
       path: https://www.travellings.cn/go.html
     # ...... # you can add more
