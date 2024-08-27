@@ -25,7 +25,7 @@ defaults:
   # Favicon
   favicon: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202405182223432.png
   # Site logo
-  logo: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/%E5%AE%87%E5%AE%99-20240827-1724750034214-90055d7ec5d00fb5.png
+  logo: # https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/%E5%AE%87%E5%AE%99-20240827-1724750034214-90055d7ec5d00fb5.png
   # Site avatar
   avatar: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272229074.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
