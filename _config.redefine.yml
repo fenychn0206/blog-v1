@@ -51,7 +51,7 @@ global:
     # Chinese fonts
     chinese: 
       enable: true # Whether to enable custom chinese fonts
-      family: LXGW WenKai # Font family
+      family: font-lxgw-wenkai # Font family
       url: https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreen.css # Font URL to CSS file
     # English fonts
     english: 
