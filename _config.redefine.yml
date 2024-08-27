@@ -25,7 +25,7 @@ defaults:
   # Favicon
   favicon: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202405182223432.png
   # Site logo
-  logo: 
+  logo: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/%E5%AE%87%E5%AE%99-20240827-1724750034214-90055d7ec5d00fb5.png
   # Site avatar
   avatar: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272229074.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -214,9 +214,6 @@ navbar:
         Photos: /masonry
         Subscribe: /subscribe
         Porfolio: https://frederication.work
-    Travelling:
-      icon: fa-solid fa-train-subway
-      path: https://www.travellings.cn/go.html
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
