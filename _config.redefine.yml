@@ -50,14 +50,14 @@ global:
   fonts:
     # Chinese fonts
     chinese: 
-      enable: true # Whether to enable custom chinese fonts
+      enable: false # Whether to enable custom chinese fonts
       family: LXGW WenKai TC # Font family
-      url: https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@300;400;700&display=swap # Font URL to CSS file
+      url: https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreen.css # Font URL to CSS file
     # English fonts
     english: 
       enable: false # Whether to enable custom english fonts
-      family:  # Font family
-      url:  # Font URL to CSS file
+      family: LXGW WenKai TC # Font family
+      url: https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreen.css # Font URL to CSS file
   # Content max width
   content_max_width: 1000px
   # Sidebar width
@@ -305,8 +305,8 @@ articles:
     style: mac # mac | simple
     font: # Custom font
       enable: false # Whether to enable
-      family: Source Code Pro # Font family
-      url: https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&display=swap # Font URL to CSS file
+      family: LXGW WenKai Mono TC # Font family
+      url: https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=LXGW+WenKai+TC&display=swap # Font URL to CSS file
   # Table of contents settings
   toc:
     enable: true # Whether to enable TOC

@@ -8,7 +8,7 @@ comment: false
 
 本政策应与我的[隐私政策](/privacy)一起阅读，该隐私政策解释了我如何使用个人信息。
 
-如果你对我使用你的个人信息或 Cookies 的方式有任何疑问，请通过 `seventeen@ohdragonboi.cn` 与我联系。
+如果你对我使用你的个人信息或 Cookies 的方式有任何疑问，请通过 `i@setbun.com` 与我联系。
 
 如果你想管理你的 Cookies，请按照下面“如何管理 Cookies”部分中的说明进行操作。
 
@@ -79,7 +79,7 @@ Cookies 提供许多功能。例如，他们可以帮助我记住你喜欢深色
 [wikipedia.org](https://zh.wikipedia.org/wiki/Cookie)、[allaboutcookies.org](https://www.allaboutcookies.org/)或[aboutcookies.org](https://www.aboutcookies.org/)
 
 ## 更多信息
-有关我数据处理的更多信息，请参阅我的[隐私政策](/privacy/)。如果你对此Cookie政策有任何疑问，请通过`seventeen@ohdragonboi.cn`与我联系。
+有关我数据处理的更多信息，请参阅我的[隐私政策](/privacy/)。如果你对此Cookie政策有任何疑问，请通过`i@setbun.com`与我联系。
 
 ## 对此Cookie政策的更改
 我可能对此Cookie政策所做的任何更改都将发布在此页面上。如果更改很重要，我会在我的主页或应用上明确指出该政策已更新。
