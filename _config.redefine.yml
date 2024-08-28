@@ -158,10 +158,10 @@ home_banner:
     # Social links
     links:
       github: https://github.com/FrederickBun # your GitHub URL
-      zhihu: https://www.zhihu.com/people/frederick-Bun # your ZhiHu URL
+      zhihu: https://www.zhihu.com/people/frederick-asyou # your ZhiHu URL
       bilibili: https://space.bilibili.com/689929775?from=buntalk # your Bilibili URL
-      twitter: https://twitter.com/FrederickBun # your twitter URL
-      facebook: https://www.facebook.com/FrederickBun
+      twitter: https://twitter.com/FrederickAsYou # your twitter URL
+      facebook: https://www.facebook.com/FrederickAsYou
       youtube: https://www.youtube.com/@Fredgg0017
       fa-solid fa-train-subway: https://www.travellings.cn/go.html
       fa-solid fa-bell: https://follow.it/buntalk?leanpub
@@ -304,7 +304,7 @@ articles:
     copy: true # Whether to enable code block copy button
     style: mac # mac | simple
     font: # Custom font
-      enable: false # Whether to enable
+      enable: true # Whether to enable
       family: LXGW WenKai Mono TC # Font family
       url: https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=LXGW+WenKai+TC&display=swap # Font URL to CSS file
   # Table of contents settings
