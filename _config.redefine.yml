@@ -304,7 +304,7 @@ articles:
     copy: true # Whether to enable code block copy button
     style: mac # mac | simple
     font: # Custom font
-      enable: true # Whether to enable
+      enable: false # Whether to enable
       family: LXGW WenKai Mono TC # Font family
       url: https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=LXGW+WenKai+TC&display=swap # Font URL to CSS file
   # Table of contents settings
