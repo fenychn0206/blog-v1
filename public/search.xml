@@ -270,6 +270,35 @@
       </tags>
   </entry>
   <entry>
+    <title>「随笔」 云盘太重要了</title>
+    <url>/p/20240828.html</url>
+    <content><![CDATA[<p>最近不是从新加坡回来了吗，整理照片的时候照片都备份在了 iCloud 上，然后整理的时候不小心删了一部分，急了一晚上。</p>
+<p>第二天早上起来花钱预约个数据恢复，准备去找照片。</p>
+<p>结果当我在中午无意中打开 iCloud 的时候，发现我的照片都在里面。</p>
+<p>你不知道我当时的心情真的是有多那啥。</p>
+<p>（然后灰溜溜的把钱退了）</p>
+<p>所以提醒了大家：数据无价，备份无忧</p>
+<p>找一个靠谱的、性价比较高的、传输较快的云盘，备份、储存都非常方便，关键时刻可以帮到你！</p>
+<h6 id="顺便提一嘴"><a href="#顺便提一嘴" class="headerlink" title="顺便提一嘴"></a>顺便提一嘴</h6><p>由于太高兴了，创建文章的时候手抖写了个这</p>
+<p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082831947077%E2%80%AFPM-20240828-1724829587266-d3d43c17625bb904.png" alt="命令行输了很多 o"><figcaption>命令行输了很多 o</figcaption></figure></p>
+<p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082832019287%E2%80%AFPM-20240828-1724829619348-3f1fd03b4c71e711.png" alt="结果文件名长这样（真的，没有改）"><figcaption>结果文件名长这样（真的，没有改）</figcaption></figure></p>
+<p>今天就这样啦，<del>水了一篇</del>，拜拜👋</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+        <tag>效率</tag>
+        <tag>办公</tag>
+        <tag>评测</tag>
+        <tag>随笔</tag>
+        <tag>文件整理</tag>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Pixel-Chat Boom项目介绍</title>
     <url>/p/20240729.html</url>
     <content><![CDATA[<h2 id="Pixel-Chat是啥？"><a href="#Pixel-Chat是啥？" class="headerlink" title="Pixel-Chat是啥？"></a>Pixel-Chat是啥？</h2><p>哎，最近在集训，本来说发了项目就更博，结果拖到<kbd>Boom</kbd>项目还没发</p>
@@ -295,67 +324,6 @@
       <tags>
         <tag>Python</tag>
         <tag>Pixel-Chat</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>推荐几个适用于竞赛的 C++ 模板库</title>
-    <url>/p/20240820.html</url>
-    <content><![CDATA[<p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/Screenshot%202024-08-20%20at%2012.15.40%E2%80%AFPM-20240820-1724130945920-0e1932e3c82a17fe.png" alt="干货们"><figcaption>干货们</figcaption></figure></p>
-<p>这些就是我今天将会介绍的四个朋友，让我们一一介绍吧</p>
-<h2 id="FastIOS-h"><a href="#FastIOS-h" class="headerlink" title="FastIOS.h"></a>FastIOS.h</h2><p>你还在因背不下来快读快写而烦恼吗？</p>
-<p>你还在因突然发现代码需要快读快写，然而改起来很麻烦而烦恼吗？</p>
-<p>你还在因为普通快读快写难以获得最优解而烦恼吗？</p>
-<p>快使用封装快读，用仿 <code>cin cout</code> 的方式避免更改困难！！！</p>
-<p>目前支持：<strong>整形（你能想到的都可以），浮点数（你能想到的都可以），string，c风格字符串……</strong></p>
-<h4 id="食用方法"><a href="#食用方法" class="headerlink" title="食用方法"></a>食用方法</h4><p>需要使用 <code>using namespace FastIOS;</code>。</p>
-<p>如果您需要本地调试，在代码编译选项里加入 <code>-DLOCAL</code>。</p>
-<p>粘贴代码，更改您的 <code>cin cout</code>为 <code>qin qout</code>。</p>
-<p>运行、调试、提交代码，祝您rp++，轻松AC，拿下最优解！！！</p>
-<h4 id="高级"><a href="#高级" class="headerlink" title="高级"></a>高级</h4><h5 id="使用自定义的快读类型"><a href="#使用自定义的快读类型" class="headerlink" title="使用自定义的快读类型"></a>使用自定义的快读类型</h5><p>默认的 <code>qin qout</code> 是自动推断的产物，规则：</p>
-<ul>
-<li>当定义 <code>LACAL</code> 宏时（编译代码选项里加入 <code>-DLOCAL</code>），使用 <code>qins qouts</code>。</li>
-<li>当定义 <code>NORMAL</code> 宏时（编译代码选项里加入 <code>-DNORMAL</code>），使用 <code>qinn qoutn</code>。</li>
-<li>否则使用 <code>qinf qoutf</code>。</li>
-</ul>
-<p>其实有三对输入输出：<code>qins qouts</code>，<code>qinn qoutn</code>，<code>qinf qoutf</code>。只能任选一种，不能混用它们！！！</p>
-<ul>
-<li><code>qins qouts</code> 是慢速快读，可以用于<strong>OJ提交&amp;本地调试&amp;文件输入输出</strong>。</li>
-<li><code>qinn qoutn</code> 是普通快读，可以用于<strong>OJ提交&amp;文件输入输出</strong>（本地调试困难，结束需要反复输入 <code>Ctrl+Z</code>)。</li>
-<li><code>qinf qoutf</code> 是高速快读，可以用于<strong>OJ提交&amp;文件输入输出</strong>（本地调试困难，结束需要反复输入 <code>Ctrl+Z</code>)。</li>
-</ul>
-<p>快读的原理如出一辙，都是利用单个字符的输入。</p>
-<p>慢速快读：使用 <code>&lt;cstdio&gt;</code>库中的 <code>std::getchar()</code>，<code>std::putchar()</code>。</p>
-<p>普通快读：使用 <code>&lt;cstdio&gt;</code>库中的 <code>fread()</code>，<code>fwrite()</code>，先统一读入，再返回。</p>
-<p>高速快读：使用 <code>&lt;iostream&gt;</code>库中的 <code>std::streambuf()</code>，直接访问cin，cout缓存。</p>
-<h2 id="BigNumber-h"><a href="#BigNumber-h" class="headerlink" title="BigNumber.h"></a>BigNumber.h</h2><p>一个简单的封装整数高精度库。</p>
-<h3 id="食用方法-1"><a href="#食用方法-1" class="headerlink" title="食用方法"></a>食用方法</h3><p>需要使用 <code>using namespace BigNumber;</code></p>
-<p>使用 <code>bignumber a</code>来定义一个高精度数字。</p>
-<p>目前支持的运算符：</p>
-<ul>
-<li><code>a+b</code>普通的加法</li>
-<li><code>a-b</code>普通的减法</li>
-<li><code>a*b</code>乘法(使用FFT加速)</li>
-<li><code>a/b</code>普通的除法</li>
-<li><code>a%b</code>普通的模法</li>
-<li><code>abs(a)</code>返回绝对值</li>
-<li><code>to_int(a)</code>转化为 <code>int</code></li>
-<li><code>to_long_long</code>转化为 <code>long long</code></li>
-</ul>
-<p>同时直接兼容 <code>cin cout</code>与 <code>FastIOS.h</code>中的快读快写！</p>
-<h3 id="ExSort-h"><a href="#ExSort-h" class="headerlink" title="ExSort.h"></a>ExSort.h</h3><p>一个对排序方法的追加。</p>
-<h4 id="食用方法-2"><a href="#食用方法-2" class="headerlink" title="食用方法"></a>食用方法</h4><p>类似于 <code>std::sort</code>（<del><a class="link"   href="https://zh.cppreference.com/w/cpp/algorithm/sort" >你不知道？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del>）。</p>
-<p>但是暂不支持自定义比较函数，想要排序结构体需要重载小于运算符（<del><a class="link"   href="https://zh.cppreference.com/w/cpp/language/overload_resolution" >你不知道？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del>）。</p>
-<h3 id="InMath-h"><a href="#InMath-h" class="headerlink" title="InMath.h"></a>InMath.h</h3><p>开发中……</p>
-<p>目前只有矩阵、快速幂、逆元、exgcd</p>
-]]></content>
-      <categories>
-        <category>信息竞赛OI</category>
-        <category>C++实用工具</category>
-      </categories>
-      <tags>
-        <tag>信息竞赛</tag>
-        <tag>OI</tag>
-        <tag>C++</tag>
       </tags>
   </entry>
   <entry>
@@ -437,6 +405,67 @@
         <tag>攻略</tag>
         <tag>新加坡</tag>
         <tag>🇸🇬</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>推荐几个适用于竞赛的 C++ 模板库</title>
+    <url>/p/20240820.html</url>
+    <content><![CDATA[<p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/Screenshot%202024-08-20%20at%2012.15.40%E2%80%AFPM-20240820-1724130945920-0e1932e3c82a17fe.png" alt="干货们"><figcaption>干货们</figcaption></figure></p>
+<p>这些就是我今天将会介绍的四个朋友，让我们一一介绍吧</p>
+<h2 id="FastIOS-h"><a href="#FastIOS-h" class="headerlink" title="FastIOS.h"></a>FastIOS.h</h2><p>你还在因背不下来快读快写而烦恼吗？</p>
+<p>你还在因突然发现代码需要快读快写，然而改起来很麻烦而烦恼吗？</p>
+<p>你还在因为普通快读快写难以获得最优解而烦恼吗？</p>
+<p>快使用封装快读，用仿 <code>cin cout</code> 的方式避免更改困难！！！</p>
+<p>目前支持：<strong>整形（你能想到的都可以），浮点数（你能想到的都可以），string，c风格字符串……</strong></p>
+<h4 id="食用方法"><a href="#食用方法" class="headerlink" title="食用方法"></a>食用方法</h4><p>需要使用 <code>using namespace FastIOS;</code>。</p>
+<p>如果您需要本地调试，在代码编译选项里加入 <code>-DLOCAL</code>。</p>
+<p>粘贴代码，更改您的 <code>cin cout</code>为 <code>qin qout</code>。</p>
+<p>运行、调试、提交代码，祝您rp++，轻松AC，拿下最优解！！！</p>
+<h4 id="高级"><a href="#高级" class="headerlink" title="高级"></a>高级</h4><h5 id="使用自定义的快读类型"><a href="#使用自定义的快读类型" class="headerlink" title="使用自定义的快读类型"></a>使用自定义的快读类型</h5><p>默认的 <code>qin qout</code> 是自动推断的产物，规则：</p>
+<ul>
+<li>当定义 <code>LACAL</code> 宏时（编译代码选项里加入 <code>-DLOCAL</code>），使用 <code>qins qouts</code>。</li>
+<li>当定义 <code>NORMAL</code> 宏时（编译代码选项里加入 <code>-DNORMAL</code>），使用 <code>qinn qoutn</code>。</li>
+<li>否则使用 <code>qinf qoutf</code>。</li>
+</ul>
+<p>其实有三对输入输出：<code>qins qouts</code>，<code>qinn qoutn</code>，<code>qinf qoutf</code>。只能任选一种，不能混用它们！！！</p>
+<ul>
+<li><code>qins qouts</code> 是慢速快读，可以用于<strong>OJ提交&amp;本地调试&amp;文件输入输出</strong>。</li>
+<li><code>qinn qoutn</code> 是普通快读，可以用于<strong>OJ提交&amp;文件输入输出</strong>（本地调试困难，结束需要反复输入 <code>Ctrl+Z</code>)。</li>
+<li><code>qinf qoutf</code> 是高速快读，可以用于<strong>OJ提交&amp;文件输入输出</strong>（本地调试困难，结束需要反复输入 <code>Ctrl+Z</code>)。</li>
+</ul>
+<p>快读的原理如出一辙，都是利用单个字符的输入。</p>
+<p>慢速快读：使用 <code>&lt;cstdio&gt;</code>库中的 <code>std::getchar()</code>，<code>std::putchar()</code>。</p>
+<p>普通快读：使用 <code>&lt;cstdio&gt;</code>库中的 <code>fread()</code>，<code>fwrite()</code>，先统一读入，再返回。</p>
+<p>高速快读：使用 <code>&lt;iostream&gt;</code>库中的 <code>std::streambuf()</code>，直接访问cin，cout缓存。</p>
+<h2 id="BigNumber-h"><a href="#BigNumber-h" class="headerlink" title="BigNumber.h"></a>BigNumber.h</h2><p>一个简单的封装整数高精度库。</p>
+<h3 id="食用方法-1"><a href="#食用方法-1" class="headerlink" title="食用方法"></a>食用方法</h3><p>需要使用 <code>using namespace BigNumber;</code></p>
+<p>使用 <code>bignumber a</code>来定义一个高精度数字。</p>
+<p>目前支持的运算符：</p>
+<ul>
+<li><code>a+b</code>普通的加法</li>
+<li><code>a-b</code>普通的减法</li>
+<li><code>a*b</code>乘法(使用FFT加速)</li>
+<li><code>a/b</code>普通的除法</li>
+<li><code>a%b</code>普通的模法</li>
+<li><code>abs(a)</code>返回绝对值</li>
+<li><code>to_int(a)</code>转化为 <code>int</code></li>
+<li><code>to_long_long</code>转化为 <code>long long</code></li>
+</ul>
+<p>同时直接兼容 <code>cin cout</code>与 <code>FastIOS.h</code>中的快读快写！</p>
+<h3 id="ExSort-h"><a href="#ExSort-h" class="headerlink" title="ExSort.h"></a>ExSort.h</h3><p>一个对排序方法的追加。</p>
+<h4 id="食用方法-2"><a href="#食用方法-2" class="headerlink" title="食用方法"></a>食用方法</h4><p>类似于 <code>std::sort</code>（<del><a class="link"   href="https://zh.cppreference.com/w/cpp/algorithm/sort" >你不知道？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del>）。</p>
+<p>但是暂不支持自定义比较函数，想要排序结构体需要重载小于运算符（<del><a class="link"   href="https://zh.cppreference.com/w/cpp/language/overload_resolution" >你不知道？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del>）。</p>
+<h3 id="InMath-h"><a href="#InMath-h" class="headerlink" title="InMath.h"></a>InMath.h</h3><p>开发中……</p>
+<p>目前只有矩阵、快速幂、逆元、exgcd</p>
+]]></content>
+      <categories>
+        <category>信息竞赛OI</category>
+        <category>C++实用工具</category>
+      </categories>
+      <tags>
+        <tag>信息竞赛</tag>
+        <tag>OI</tag>
+        <tag>C++</tag>
       </tags>
   </entry>
   <entry>

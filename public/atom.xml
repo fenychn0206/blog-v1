@@ -15,8 +15,51 @@
     <atom:link href="https://www.setbun.com/atom.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个专注编程的OIer的博客，在这里你可以找到适合你的内容！</description>
-    <pubDate>Tue, 20 Aug 2024 10:51:56 GMT</pubDate>
+    <pubDate>Wed, 28 Aug 2024 07:27:24 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>「随笔」 云盘太重要了</title>
+      <link>https://www.setbun.com/p/20240828.html</link>
+      <guid>https://www.setbun.com/p/20240828.html</guid>
+      <pubDate>Wed, 28 Aug 2024 07:14:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description></description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>最近不是从新加坡回来了吗，整理照片的时候照片都备份在了 iCloud 上，然后整理的时候不小心删了一部分，急了一晚上。</p><p>第二天早上起来花钱预约个数据恢复，准备去找照片。</p><p>结果当我在中午无意中打开 iCloud 的时候，发现我的照片都在里面。</p><p>你不知道我当时的心情真的是有多那啥。</p><p>（然后灰溜溜的把钱退了）</p><p>所以提醒了大家：数据无价，备份无忧</p><p>找一个靠谱的、性价比较高的、传输较快的云盘，备份、储存都非常方便，关键时刻可以帮到你！</p><h6 id="顺便提一嘴"><a href="#顺便提一嘴" class="headerlink" title="顺便提一嘴"></a>顺便提一嘴</h6><p>由于太高兴了，创建文章的时候手抖写了个这</p><p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082831947077%E2%80%AFPM-20240828-1724829587266-d3d43c17625bb904.png" alt="命令行输了很多 o"><figcaption>命令行输了很多 o</figcaption></figure></p><p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082832019287%E2%80%AFPM-20240828-1724829619348-3f1fd03b4c71e711.png" alt="结果文件名长这样（真的，没有改）"><figcaption>结果文件名长这样（真的，没有改）</figcaption></figure></p><p>今天就这样啦，<del>水了一篇</del>，拜拜👋</p>]]></content:encoded>
+      
+      
+      <category domain="https://www.setbun.com/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      <category domain="https://www.setbun.com/categories/%E9%9A%8F%E7%AC%94/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://www.setbun.com/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      <category domain="https://www.setbun.com/tags/%E6%95%88%E7%8E%87/">效率</category>
+      
+      <category domain="https://www.setbun.com/tags/%E5%8A%9E%E5%85%AC/">办公</category>
+      
+      <category domain="https://www.setbun.com/tags/%E8%AF%84%E6%B5%8B/">评测</category>
+      
+      <category domain="https://www.setbun.com/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      <category domain="https://www.setbun.com/tags/%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86/">文件整理</category>
+      
+      <category domain="https://www.setbun.com/tags/%E6%8A%80%E5%B7%A7/">技巧</category>
+      
+      
+      <comments>https://www.setbun.com/p/20240828.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>推荐几个适用于竞赛的 C++ 模板库</title>
