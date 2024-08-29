@@ -232,7 +232,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: '营火，噼啪作响……<br /><br /><div><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img src="https://boringbay.com/api/badge/setbun.com"></img></a></div>' # Announcement text
+    announcement: '营火，噼啪作响……<br /><br /><div><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img src="https://boringbay.com/api/badge/www.setbun.com"></img></a></div>' # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
       Timeline: 
@@ -414,7 +414,7 @@ inject:
     - <meta name="follow.it-verification-code" content="CuLH6eh2SaFQ9vFJpRk7"/> 
     - <script defer src="https://cloud.umami.is/script.js" data-website-id="cfd52f71-d9a3-4035-b376-80edfc656808"></script>
     - <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="8c710e3d-ed8f-4617-b8fb-91d8590f642d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-    - <script src="/js/reverse-proxy-jumps.js?1"></script>
+    - <script src="/js/reverse-proxy-jumps.js"></script>
   # Inject custom footer html code
   footer:
     
