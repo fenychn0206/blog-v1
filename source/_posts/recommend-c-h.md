@@ -83,7 +83,7 @@ categories:
 
 同时直接兼容 `cin cout`与 `FastIOS.h`中的快读快写！
 
-### ExSort.h
+## ExSort.h
 
 一个对排序方法的追加。
 
@@ -93,7 +93,7 @@ categories:
 
 但是暂不支持自定义比较函数，想要排序结构体需要重载小于运算符（~~[你不知道？](https://zh.cppreference.com/w/cpp/language/overload_resolution)~~）。
 
-### InMath.h
+## InMath.h
 
 开发中……
 
