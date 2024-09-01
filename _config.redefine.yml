@@ -361,7 +361,7 @@ comment:
   config:
     # Waline comment system. See https://waline.js.org/
     waline:
-      serverUrl: https://example.example.com # Waline server URL. e.g. https://example.example.com
+      serverUrl: https://comment.setbun.com # Waline server URL. e.g. https://example.example.com
       lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
       emoji: ['https://unpkg.com/@waline/emojis@1.2.0/alus', 'https://unpkg.com/@waline/emojis@1.2.0/bilibili', 'https://unpkg.com/@waline/emojis@1.2.0/bmoji', 'https://unpkg.com/@waline/emojis@1.2.0/qq', 'https://unpkg.com/@waline/emojis@1.2.0/qq', 'https://unpkg.com/@waline/emojis@1.2.0/tieba', 'https://unpkg.com/@waline/emojis@1.2.0/tw-emoji', 'https://unpkg.com/@waline/emojis@1.2.0/weibo', 'https://unpkg.com/@waline/emojis@1.2.0/soul-emoji'] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
       recaptchaV3Key:  # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
