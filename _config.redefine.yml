@@ -408,7 +408,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a href="https://www.travellings.cn/go.html" align="center" title="开往-友链接力">开往-友链接力</a> | <a href="https://travel.moe/go?travel=on">萌备-异次元之旅</a> | <a href="https://www.foreverblog.cn/go.html">十年之约-虫洞穿梭</a>'
+  customize: '你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界RPG。<br /><a href="/privacy">隐私政策</a> · <a href="/cookies">Cookies</a> · <a href="/cc">版权政策</a><br /><a href="https://www.travellings.cn/go.html" align="center" title="开往-友链接力">开往-友链接力</a> | <a href="https://travel.moe/go?travel=on">萌备-异次元之旅</a> | <a href="https://www.foreverblog.cn/go.html">十年之约-虫洞穿梭</a> <iframe src="https://store.steampowered.com/widget/2358720/847489/" frameborder="0" width="646" height="190"></iframe>'
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: true # Whether to enable
