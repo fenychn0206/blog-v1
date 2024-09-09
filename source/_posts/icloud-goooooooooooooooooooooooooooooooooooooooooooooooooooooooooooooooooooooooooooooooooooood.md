@@ -37,3 +37,15 @@ categories:
 ![结果文件名长这样（真的，没有改）](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082832019287%E2%80%AFPM-20240828-1724829619348-3f1fd03b4c71e711.png)
 
 今天就这样啦，~~水了一篇~~，拜拜👋
+
+###### AD
+
+最近《黑神话：悟空》火了，有人入库了吗？
+
+想买戳⬇️
+
+<iframe src="https://store.steampowered.com/widget/2358720/847489/" frameborder="0" width="646" height="190"></iframe>
+
+> **为什么没有其他平台？**
+> 
+> WeGame 似乎被某讯阉割，不推荐；蒸汽平台未上架
