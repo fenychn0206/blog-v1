@@ -240,7 +240,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: '营火，噼啪作响……<br /><br /><div><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img src="https://boringbay.com/api/badge/blog.setbun.com"></img></a></div>' # Announcement text
+    announcement: '营火，噼啪作响……<br /><br /><div><a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img src="https://boringbay.com/api/badge/blog.setbun.com"></img></a></div><iframe src="https://buneye.instatus.com/embed-status/da9f249b/light-sm" width="230" height="61" frameBorder="0" scrolling="no" style="border: none;"></iframe>' # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
       Timeline: 
