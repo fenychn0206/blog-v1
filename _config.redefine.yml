@@ -123,7 +123,7 @@ home_banner:
     light: /images/light.png # light mode
     dark: /images/dark.png # dark mode
   # Home banner title
-  title: <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407021609478.svg" alt="Buntalk Universe" width="300px" />
+  title: <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/SetBun-Logo-Candy%402x%5BWebkit%5D-20240917-1726544741124-bde82f7fe4fa8c39.webp" alt="🐲's 博客" width="300px" />
   # Home banner subtitle
   subtitle:
     text: ["Loading..."] # subtitle text, array
