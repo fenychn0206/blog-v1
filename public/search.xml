@@ -1,6 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>macOS：选择合适的清理软件</title>
+    <url>/p/20240428.html</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直都是用的腾讯柠檬清理，可总觉得功能有那么一点点少，决定买一个CleanMyMacX。</p>
+<p>![Tencent Lemon与CleanmymacX][image-1]</p>
+<p>首先需要说明，CleanmymacX是Macpaw公司的，官网是以下两个</p>
+<p>国外官网：[macpaw.com&#x2F;cleanmymac][1]</p>
+<p>![macpaw官网截图][image-2]</p>
+<p>[mac杀毒软件|mac删除软件|mac清理缓存|Cleanmymac X官网][2]</p>
+<p>![Cleanmymac中国🇨🇳官网][image-3]</p>
+<p>看完以上内容，咱们就开始进入正题吧～～</p>
+<blockquote>
+<p>🔔提示：本文含有部分个人观点！！</p>
+</blockquote>
+<h2 id="项目一：快速扫描"><a href="#项目一：快速扫描" class="headerlink" title="项目一：快速扫描"></a>项目一：快速扫描</h2><p>一个清理软件最需要的功能就是快速扫描，它应该算是用户使用频率最高的功能，让我们来看看两款软件的这个功能表现如何吧！！</p>
+<p>CleanmymacX</p>
+<p>![CleanmymacX智能扫描][image-4]</p>
+<p>![Tencent Lemon 一键扫描][image-5]</p>
+<p>可以看到，在扫描方向上，CleanmymacX分成了清理、保护、速度三个方面，而腾讯清理则是指扫描清理项目～</p>
+<p>让我们再看看扫描结果：</p>
+<p>![CleanmymacX结果][image-6]</p>
+<p>![Tencent Lemon结果][image-7]</p>
+<p>到这了可以明显地看出，CleanmymacX的结果实际上并没有Lemon多。那这时候就有人要问了，CleanmymacX是不是有点逊色了呀？其实并不是的，CleanmymacX真正干这事的不是这个功能，仔细观察侧边栏，会发现有一个“系统垃圾”功能～</p>
+<p>![系统垃圾][image-8]</p>
+<p>这个系统垃圾功能才是真正深度扫描系统垃圾的功能，让我们来看一看！</p>
+<p>![CleanmymacX系统垃圾检查器][image-9]</p>
+<p>可以看到，这个功能同样扫描出了系统垃圾，而且扫描总计大小比Lemon大得多（上面腾讯只有1点几个G，CleanmymacX有足足三个G）！！</p>
+<p>且CleanmymacX的检查项目也很多，除了上图展示出的以外，还有以下这些：</p>
+<p>![其他可清理项目][image-10]</p>
+<p>所以，单从系统垃圾这一块的清理上，CleanmymacX是略胜一筹的！！</p>
+<h2 id="项目二：系统保护"><a href="#项目二：系统保护" class="headerlink" title="项目二：系统保护"></a>项目二：系统保护</h2><p>对于macOS系统的安全问题虽然不大，但也不能忽视，这里带大家看看</p>
+<p>![ClanmymacX清理页面][image-11]</p>
+<p>很可惜，腾讯柠檬清理并没有这个功能！！</p>
+<p>![Tencent Lemon主页][image-12]</p>
+<p>所以来看看CleanmymacX吧</p>
+<p>![保护功能设置界面][image-13]</p>
+<p>可以看到，CleanmymacX的保护功能做的还是比较到位，这里扫描模式推荐选深层扫描，毕竟你肯定不想只知道个大概吧～</p>
+<h2 id="项目三：隐私保护功能"><a href="#项目三：隐私保护功能" class="headerlink" title="项目三：隐私保护功能"></a>项目三：隐私保护功能</h2><p>隐私保护功能主要涵盖了个人网络隐私保护，快来瞅瞅</p>
+<p>![CleanmymacX隐私保护功能][image-14]</p>
+<p>![Tencent Lemon隐私清理功能][image-15]</p>
+<p>看看效果👀</p>
+<p>![CleanmymacX结果][image-16]</p>
+<p>![Tencent Lemon结果][image-17]</p>
+<p>可以看到，CleanmymacX不仅扫描了浏览器记录，还扫描了其他系统功能，比Lemon详细的多</p>
+<h2 id="功能三：应用管理"><a href="#功能三：应用管理" class="headerlink" title="功能三：应用管理"></a>功能三：应用管理</h2><p>mac的传统卸载应用方式一般是无法卸载残留项目，这是需借助其他工具</p>
+<p>![CleanmymacX应用管理工具][image-18]</p>
+<p>![Tencent Lemon应用管理工具][image-19]</p>
+<p>这里可以看到CleanmymacX除了对应用有卸载功能以外，还有更新与Safari扩展管理等功能，且还对卸载应用做了分类，也添加了重置软件功能！！</p>
+<p>![CleanmymacX卸载器][image-20]</p>
+<p>![CleanmymacX更新工具][image-21]</p>
+<p>![CleanmymacX扩展管理][image-22]</p>
+<h2 id="功能四：空间分析"><a href="#功能四：空间分析" class="headerlink" title="功能四：空间分析"></a>功能四：空间分析</h2><p>有的时候个人文件不知道怎么整理删除，现在有了最优解</p>
+<p>![CleanmymacX空间透镜功能][image-23]</p>
+<p>![Tencent Lemon磁盘空间分析功能][image-24]</p>
+<p>利用两个软件的可视化储存图，再利用“抓大放小”的点击策略，可以快速找到大的及不需要的文件。如果你只是想找找大文件，也可以试试大文件查找的功能。</p>
+<p>而且很细节化的是，CleanmymacX有一个移除按钮，移除前还会再次确认，细节满满！！</p>
+<p>![CleanmymacX移除文件][image-25]</p>
+<h2 id="功能四：菜单栏"><a href="#功能四：菜单栏" class="headerlink" title="功能四：菜单栏"></a>功能四：菜单栏</h2><p>这个功能怎么说，就是主打一个方便，利用mac独有的菜单栏，你可以干很多需要打开窗口做的事情</p>
+<p>两款软件在菜单栏上都做了不同的设计，来看看</p>
+<h3 id="CleanmymacX-Menu"><a href="#CleanmymacX-Menu" class="headerlink" title="CleanmymacX Menu"></a>CleanmymacX Menu</h3><p>![CleanmymacX Menu Logo][image-26]</p>
+<p>从它的图标中可以看出，这是一个功能丰富的菜单。让我们看一下～</p>
+<p>![CleanmymacX Menu 主界面][image-27]</p>
+<p>这个面板显示出了你当前设备的状况，可以监测到你mac的实时状况（玩原神呢CPU101ºC哈哈😄）。也可以快速打开CleanMyMacX的一些工具</p>
+<h3 id="Tencent-Lemon"><a href="#Tencent-Lemon" class="headerlink" title="Tencent Lemon"></a>Tencent Lemon</h3><p>这个面板相对简洁，不过有一个功能值得一提……</p>
+<p>![Tencent Lemon Menu][image-28]</p>
+<p>这家伙可以一键清理垃圾，释放内存。点击“系统功能可以看到”更多系统信息</p>
+<p>![第二页菜单][image-29]</p>
+<p>你可以在这一页面开启隐私保护，这是CleanmymacX没有的功能～</p>
+<p>还有，Lemon还可以显示更多</p>
+<p>![Lemon信息显示][image-30]</p>
+<p>他可以直接在显示你的系统信息（2020后的mac book小心你的菜单栏不够哈），就是很碍事而已🤔。</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>这两款应用其实还有很多Different的地方，这里附一张图，是由Lemon Blog提供的</p>
+<p>![对比图，来源：Lemon blog][image-31]</p>
+<p>这张图展示了三款（其中Mac booster是今天没提到的，其功能类似且需付费）清理软件的不同功能，大家可以按需选择～</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>终于到总结啦！总的来说，CleanmymacX毕竟是一个付费软件，其功能是比Lemon多得多的，但Lemon也能满足大部分用户的需求，而且CleanmymacX的价格也不菲，且这种软件不推荐大家使用破解版，所以经费不足的可以先用Lemon，等攒够钱了再去购买CleanmymacX！</p>
+<p>[1]:	macpaw.com&#x2F;cleanmymac<br>[2]:	<a class="link"   href="http://www.cleanmymac.cn/" >www.cleanmymac.cn/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>[image-1]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-6f19fa512ffbd7d7dd77894137d9710b_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-6f19fa512ffbd7d7dd77894137d9710b_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-2]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-3f5a1195e7f927df8cdf994ab2af49dd_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-3f5a1195e7f927df8cdf994ab2af49dd_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-3]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-d6276c663e16d1e1ef1aeb7ec2b6b7cc_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-d6276c663e16d1e1ef1aeb7ec2b6b7cc_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-4]:	<a class="link"   href="https://picx.zhimg.com/80/v2-53583000f684743eb32c556c859671a2_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-53583000f684743eb32c556c859671a2_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-5]:	<a class="link"   href="https://picx.zhimg.com/80/v2-4f011b5e86d9043878d67c221a4fd503_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-4f011b5e86d9043878d67c221a4fd503_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-6]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-373ff5810bec0e6f548b98613d1c6d9d_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-373ff5810bec0e6f548b98613d1c6d9d_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-7]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-7239c612104e4bdb2ff5805913162a9b_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-7239c612104e4bdb2ff5805913162a9b_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-8]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-5737da39f52cc8a4ab12bb9ac9b67b98_1440w.webp" >https://pic1.zhimg.com/80/v2-5737da39f52cc8a4ab12bb9ac9b67b98_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-9]:	<a class="link"   href="https://pic4.zhimg.com/80/v2-1969d33c05e121e23b4d6d8b564fa61f_1440w.webp" >https://pic4.zhimg.com/80/v2-1969d33c05e121e23b4d6d8b564fa61f_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-10]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-60edb4d0511ae1ba073950c98d3b5cd1_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-60edb4d0511ae1ba073950c98d3b5cd1_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-11]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-91c9e07fcb1f9228bd0613616f259014_1440w.webp" >https://pic1.zhimg.com/80/v2-91c9e07fcb1f9228bd0613616f259014_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-12]:	<a class="link"   href="https://pic4.zhimg.com/v2-9ef4a79fede69a94ddc72af60e54ecdb_r.jpg" >https://pic4.zhimg.com/v2-9ef4a79fede69a94ddc72af60e54ecdb_r.jpg <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-13]:	<a class="link"   href="https://pica.zhimg.com/80/v2-718ed3229fbe63460b4bf9a0055294c3_1440w.png?source=d16d100b" >https://pica.zhimg.com/80/v2-718ed3229fbe63460b4bf9a0055294c3_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-14]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-50774c5b955e58aad4d292ed014921d0_1440w.webp" >https://pic1.zhimg.com/80/v2-50774c5b955e58aad4d292ed014921d0_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-15]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-e274a3ad3582bffb4625e212a2c5e9a8_1440w.webp" >https://pic1.zhimg.com/80/v2-e274a3ad3582bffb4625e212a2c5e9a8_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-16]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-f55b49128b0fd26dd44a97234568b095_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-f55b49128b0fd26dd44a97234568b095_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-17]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-1956deb77af4aebc282f44f5c59a1606_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-1956deb77af4aebc282f44f5c59a1606_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-18]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-6226fdffc336f8fc3f9828776c0fcbd0_1440w.webp" >https://pic1.zhimg.com/80/v2-6226fdffc336f8fc3f9828776c0fcbd0_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-19]:	<a class="link"   href="https://pic2.zhimg.com/80/v2-cb6720b15cffe47fbc5ec5517339f37d_1440w.webp" >https://pic2.zhimg.com/80/v2-cb6720b15cffe47fbc5ec5517339f37d_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-20]:	<a class="link"   href="https://pic2.zhimg.com/80/v2-b9829ec32df5dae2edcba0a169d7f341_1440w.webp" >https://pic2.zhimg.com/80/v2-b9829ec32df5dae2edcba0a169d7f341_1440w.webp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-21]:	<a class="link"   href="https://picx.zhimg.com/80/v2-22e559d6a940b84222f7abd7dc0cd3bf_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-22e559d6a940b84222f7abd7dc0cd3bf_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-22]:	<a class="link"   href="https://picx.zhimg.com/80/v2-07ecce5018031970a22685e756425439_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-07ecce5018031970a22685e756425439_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-23]:	<a class="link"   href="https://picx.zhimg.com/80/v2-427db6c8180ae58110efe500c22f25bd_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-427db6c8180ae58110efe500c22f25bd_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-24]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-bbe3187629743d22ac83997ebc5e9571_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-bbe3187629743d22ac83997ebc5e9571_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-25]:	<a class="link"   href="https://picx.zhimg.com/80/v2-fee9c44957a28944a767a374e1817c07_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-fee9c44957a28944a767a374e1817c07_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-26]:	<a class="link"   href="https://pica.zhimg.com/80/v2-e0ae571822e9bcff4f71dd3b1d550e0a_1440w.png?source=d16d100b" >https://pica.zhimg.com/80/v2-e0ae571822e9bcff4f71dd3b1d550e0a_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-27]:	<a class="link"   href="https://pica.zhimg.com/80/v2-548d557e14ed43a3cd8c39e15264aed2_1440w.png?source=d16d100b" >https://pica.zhimg.com/80/v2-548d557e14ed43a3cd8c39e15264aed2_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-28]:	<a class="link"   href="https://picx.zhimg.com/80/v2-f630914c3dc6397a4b1ddc4cff70085e_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-f630914c3dc6397a4b1ddc4cff70085e_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-29]:	<a class="link"   href="https://picx.zhimg.com/80/v2-4dc01259f506f9692149f1cafdbe821d_1440w.png?source=d16d100b" >https://picx.zhimg.com/80/v2-4dc01259f506f9692149f1cafdbe821d_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-30]:	<a class="link"   href="https://pic1.zhimg.com/80/v2-55b5a674e2e44320f17f093b842e1b16_1440w.png?source=d16d100b" >https://pic1.zhimg.com/80/v2-55b5a674e2e44320f17f093b842e1b16_1440w.png?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>[image-31]:	<a class="link"   href="https://pica.zhimg.com/80/v2-908b7d7291d6094c20d8b699fb4a0d62_1440w.jpeg?source=d16d100b" >https://pica.zhimg.com/80/v2-908b7d7291d6094c20d8b699fb4a0d62_1440w.jpeg?source=d16d100b <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+      <categories>
+        <category>macOS</category>
+        <category>维护</category>
+      </categories>
+      <tags>
+        <tag>macOS维护</tag>
+        <tag>热门</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Codesign：高效设计的秘诀</title>
+    <url>/p/20240501.html</url>
+    <content><![CDATA[<blockquote>
+<p>引入：之前发现了腾讯的许多新的产品，其中有AiLogo、Codesign等系列。然后发现Codesign是一个不错的设计师工具，可以用来制作图标库，于是便欣然尝试……</p>
+</blockquote>
+<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>类似Codesign工具不少人应该用过～注册账号后，他看起来就像这样：</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://s2.loli.net/2024/06/10/du4nNjt7yWCE1fx.png"
+                      alt="Codesign主界面"
+                ><figcaption>Codesign主界面</figcaption></figure>在“项目”这一板块中，可以看到正在设计的许多项目。这大多为设计网页&#x2F;APP这类产品而提供的功能，包括统一的UI设计、交互设计。</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122215562.png"
+                      alt="Codesign产品设计页"
+                ><figcaption>Codesign产品设计页</figcaption></figure></p>
+<h2 id="素材板块"><a href="#素材板块" class="headerlink" title="素材板块"></a>素材板块</h2><p>这一块我用的不多，不过Solitude团队会用它来分享主题素材，还是非常方便的！！<figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406102215144.png"
+                      alt="Solitude素材分享"
+                ><figcaption>Solitude素材分享</figcaption></figure></p>
+<h2 id="图标板块"><a href="#图标板块" class="headerlink" title="图标板块"></a>图标板块</h2><p>这一块是我重磅推荐的，因为之前我想在博客里用自己的图标库，但是太太太麻烦了，而Codesign却解决了我的燃眉之急。</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406102214039.png"
+                      alt="图标板块"
+                ><figcaption>图标板块</figcaption></figure>图标工具中有自带的CDN地址和自定义iconfont前缀，非常方便！</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>总而言之，如果你是一个设计师，那么你一定会喜欢Codesign！</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+        <category>设计类</category>
+      </categories>
+      <tags>
+        <tag>热门</tag>
+        <tag>分享</tag>
+        <tag>工具</tag>
+        <tag>高效</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【双语 Two Language】 Welcome to use hexo-theme-redefine</title>
     <url>/p/20240628.html</url>
     <content><![CDATA[
@@ -33,67 +166,67 @@
 <a class="button  regular" href='https://redefine-docs.ohevan.com' title='文档'><i class='fa-duotone fa-book'></i> 文档</a>
 
 <h2 id="其他信息-Other-Information"><a href="#其他信息-Other-Information" class="headerlink" title="其他信息 &#x2F;&#x2F; Other Information"></a>其他信息 &#x2F;&#x2F; Other Information</h2><a href="https://www.npmjs.com/package/hexo-theme-redefine">
-        <img  
+        <figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.shields.io/npm/v/hexo-theme-redefine?color=F38181&amp;label=version&amp;logo=npm&amp;logoColor=F38181&amp;style=for-the-badge"
                       referrerpolicy="no-referrer" alt="NPM version" 
-                >
-    </a><a href="https://www.npmjs.com/package/hexo-theme-redefine"><img  
+                ><figcaption>NPM version</figcaption></figure>
+    </a><a href="https://www.npmjs.com/package/hexo-theme-redefine"><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.shields.io/npm/dm/hexo-theme-redefine?color=FCE38A&amp;logo=npm&amp;logoColor=FCE38A&amp;style=for-the-badge"
                       referrerpolicy="no-referrer" alt="npm downloads" 
-                ></a><a href="https://www.npmjs.com/package/hexo-theme-redefine">        <img  
+                ><figcaption>npm downloads</figcaption></figure></a><a href="https://www.npmjs.com/package/hexo-theme-redefine">        <figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.shields.io/npm/dt/hexo-theme-redefine?color=95E1D3&amp;label=total&amp;logo=npm&amp;logoColor=95E1D3&amp;style=for-the-badge"
                       referrerpolicy="no-referrer" alt="npm-total" 
-                >
-    </a><a href="https://hexo.io"><img  
+                ><figcaption>npm-total</figcaption></figure>
+    </a><a href="https://hexo.io"><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.shields.io/badge/hexo-%3E=5.0.0-8caaee?style=for-the-badge&amp;logo=hexo&amp;logoColor=8caaee"
                       referrerpolicy="no-referrer" alt="Required Hexo version" 
-                ></a><img  
+                ><figcaption>Required Hexo version</figcaption></figure></a><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.shields.io/badge/node-%3E=12.0-a6d189?style=for-the-badge&amp;logo=node.js&amp;logoColor=a6d189"
                       referrerpolicy="no-referrer" alt="NodeJS Version" 
-                >
+                ><figcaption>NodeJS Version</figcaption></figure>
 
 <h2 id="主题介绍-Introduction"><a href="#主题介绍-Introduction" class="headerlink" title="主题介绍 &#x2F;&#x2F; Introduction"></a>主题介绍 &#x2F;&#x2F; Introduction</h2><p>Redefine主题考虑到用户的交互方面，在侧边栏、工具栏等位置均设有灵活的调整模块</p>
 <p>The Redefine theme takes into account the user’s interaction, and has flexible adjustment modules in the sidebar, toolbar, etc</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406282040889.webp"
                       alt="丰富的侧边栏控件 Abundant sidebar control"
-                ></p>
+                ><figcaption>丰富的侧边栏控件 Abundant sidebar control</figcaption></figure></p>
 <p>针对不熟悉代码的朋友，我们准备了精美的页面模板，将来也将添加更多的页面模板供大家使用。这样可以通过yaml文件减少用户自行编写代码的情况</p>
 <p>For those who are not familiar with the code, we have prepared beautiful page templates, and we will add more page templates for everyone to use in the future. This reduces the need for users to write their own page by yaml files</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406290819065.webp"
                       alt="美观的内置页面 Beautiful built-in pages"
-                ></p>
+                ><figcaption>美观的内置页面 Beautiful built-in pages</figcaption></figure></p>
 <p>为了让用户在主题部署上更加顺利，主题团队编写了一套可读性极高的文档，秉承着“手把手教”的信念，使文档更加完善</p>
 <p>In order to make theme deployment smoother for users, the theme team has written a highly readable set of documents, with the belief of “teaching by hand” to improve the documentation</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://s2.loli.net/2024/06/28/8pSfMcBNgRIbHXn.webp"
                       alt="可读性极高的文档 Hightly readable documentation"
-                ></p>
+                ><figcaption>可读性极高的文档 Hightly readable documentation</figcaption></figure></p>
 <p>当然，还有不少用户对我们的支持，这是截止2024&#x2F;06&#x2F;28日的star情况，我们在Github拥有1.3k+的Stars。所以，你还没心动吗？</p>
 <p>Of course, there is also a lot of user support for us, this is the star situation as of 2024&#x2F;06&#x2F;28, we have 1.3k+ Stars on Github. So, you’re not tempted yet?</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://s2.loli.net/2024/06/28/pJTvmetDgR21U6I.webp"
                       alt="拥有1.3k+ Stars"
-                ></p>
+                ><figcaption>拥有1.3k+ Stars</figcaption></figure></p>
 <h2 id="支持主题-Support"><a href="#支持主题-Support" class="headerlink" title="支持主题 &#x2F;&#x2F; Support"></a>支持主题 &#x2F;&#x2F; Support</h2><p>欢迎 <strong>pull request</strong> 或者 提交 <strong>issues</strong>.</p>
 <p>如有问题，请发邮件到 <a class="link"   href="mailto:contact@ohevan.com" >contact@ohevan.com  <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. 作者会及时回复</p>
 <p>如果主题还不错的话，欢迎给主题在 Github 点个 Star，谢谢</p>
@@ -109,329 +242,11 @@
       </tags>
   </entry>
   <entry>
-    <title>macOS：选择合适的清理软件</title>
-    <url>/p/20240428.html</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直都是用的腾讯柠檬清理，可总觉得功能有那么一点点少，决定买一个CleanMyMacX。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-6f19fa512ffbd7d7dd77894137d9710b_1440w.png?source=d16d100b"
-                      alt="Tencent Lemon与CleanmymacX"
-                ></p>
-<p>首先需要说明，CleanmymacX是Macpaw公司的，官网是以下两个</p>
-<p>国外官网：<a href="macpaw.com/cleanmymac">macpaw.com&#x2F;cleanmymac</a></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-3f5a1195e7f927df8cdf994ab2af49dd_1440w.png?source=d16d100b"
-                      alt="macpaw官网截图"
-                ></p>
-<p><a href="www.cleanmymac.cn/">mac杀毒软件|mac删除软件|mac清理缓存|Cleanmymac X官网</a></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-d6276c663e16d1e1ef1aeb7ec2b6b7cc_1440w.png?source=d16d100b"
-                      alt="Cleanmymac中国🇨🇳官网"
-                ></p>
-<p>看完以上内容，咱们就开始进入正题吧～～</p>
-<blockquote>
-<p>🔔提示：本文含有部分个人观点！！</p>
-</blockquote>
-<h2 id="项目一：快速扫描"><a href="#项目一：快速扫描" class="headerlink" title="项目一：快速扫描"></a>项目一：快速扫描</h2><p>一个清理软件最需要的功能就是快速扫描，它应该算是用户使用频率最高的功能，让我们来看看两款软件的这个功能表现如何吧！！</p>
-<p>CleanmymacX</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-53583000f684743eb32c556c859671a2_1440w.png?source=d16d100b"
-                      alt="CleanmymacX智能扫描"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-4f011b5e86d9043878d67c221a4fd503_1440w.png?source=d16d100b"
-                      alt="Tencent Lemon 一键扫描"
-                ></p>
-<p>可以看到，在扫描方向上，CleanmymacX分成了清理、保护、速度三个方面，而腾讯清理则是指扫描清理项目～</p>
-<p>让我们再看看扫描结果：</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-373ff5810bec0e6f548b98613d1c6d9d_1440w.png?source=d16d100b"
-                      alt="CleanmymacX结果"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-7239c612104e4bdb2ff5805913162a9b_1440w.png?source=d16d100b"
-                      alt="Tencent Lemon结果"
-                ></p>
-<p>到这了可以明显地看出，CleanmymacX的结果实际上并没有Lemon多。那这时候就有人要问了，CleanmymacX是不是有点逊色了呀？其实并不是的，CleanmymacX真正干这事的不是这个功能，仔细观察侧边栏，会发现有一个“系统垃圾”功能～</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-5737da39f52cc8a4ab12bb9ac9b67b98_1440w.webp"
-                      alt="系统垃圾"
-                ></p>
-<p>这个系统垃圾功能才是真正深度扫描系统垃圾的功能，让我们来看一看！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic4.zhimg.com/80/v2-1969d33c05e121e23b4d6d8b564fa61f_1440w.webp"
-                      alt="CleanmymacX系统垃圾检查器"
-                ></p>
-<p>可以看到，这个功能同样扫描出了系统垃圾，而且扫描总计大小比Lemon大得多（上面腾讯只有1点几个G，CleanmymacX有足足三个G）！！</p>
-<p>且CleanmymacX的检查项目也很多，除了上图展示出的以外，还有以下这些：</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-60edb4d0511ae1ba073950c98d3b5cd1_1440w.png?source=d16d100b"
-                      alt="其他可清理项目"
-                ></p>
-<p>所以，单从系统垃圾这一块的清理上，CleanmymacX是略胜一筹的！！</p>
-<h2 id="项目二：系统保护"><a href="#项目二：系统保护" class="headerlink" title="项目二：系统保护"></a>项目二：系统保护</h2><p>对于macOS系统的安全问题虽然不大，但也不能忽视，这里带大家看看</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-91c9e07fcb1f9228bd0613616f259014_1440w.webp"
-                      alt="ClanmymacX清理页面"
-                ></p>
-<p>很可惜，腾讯柠檬清理并没有这个功能！！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic4.zhimg.com/v2-9ef4a79fede69a94ddc72af60e54ecdb_r.jpg"
-                      alt="Tencent Lemon主页"
-                ></p>
-<p>所以来看看CleanmymacX吧</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pica.zhimg.com/80/v2-718ed3229fbe63460b4bf9a0055294c3_1440w.png?source=d16d100b"
-                      alt="保护功能设置界面"
-                ></p>
-<p>可以看到，CleanmymacX的保护功能做的还是比较到位，这里扫描模式推荐选深层扫描，毕竟你肯定不想只知道个大概吧～</p>
-<h2 id="项目三：隐私保护功能"><a href="#项目三：隐私保护功能" class="headerlink" title="项目三：隐私保护功能"></a>项目三：隐私保护功能</h2><p>隐私保护功能主要涵盖了个人网络隐私保护，快来瞅瞅</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-50774c5b955e58aad4d292ed014921d0_1440w.webp"
-                      alt="CleanmymacX隐私保护功能"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-e274a3ad3582bffb4625e212a2c5e9a8_1440w.webp"
-                      alt="Tencent Lemon隐私清理功能"
-                ></p>
-<p>看看效果👀</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-f55b49128b0fd26dd44a97234568b095_1440w.png?source=d16d100b"
-                      alt="CleanmymacX结果"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-1956deb77af4aebc282f44f5c59a1606_1440w.png?source=d16d100b"
-                      alt="Tencent Lemon结果"
-                ></p>
-<p>可以看到，CleanmymacX不仅扫描了浏览器记录，还扫描了其他系统功能，比Lemon详细的多</p>
-<h2 id="功能三：应用管理"><a href="#功能三：应用管理" class="headerlink" title="功能三：应用管理"></a>功能三：应用管理</h2><p>mac的传统卸载应用方式一般是无法卸载残留项目，这是需借助其他工具</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-6226fdffc336f8fc3f9828776c0fcbd0_1440w.webp"
-                      alt="CleanmymacX应用管理工具"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic2.zhimg.com/80/v2-cb6720b15cffe47fbc5ec5517339f37d_1440w.webp"
-                      alt="Tencent Lemon应用管理工具"
-                ></p>
-<p>这里可以看到CleanmymacX除了对应用有卸载功能以外，还有更新与Safari扩展管理等功能，且还对卸载应用做了分类，也添加了重置软件功能！！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic2.zhimg.com/80/v2-b9829ec32df5dae2edcba0a169d7f341_1440w.webp"
-                      alt="CleanmymacX卸载器"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-22e559d6a940b84222f7abd7dc0cd3bf_1440w.png?source=d16d100b"
-                      alt="CleanmymacX更新工具"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-07ecce5018031970a22685e756425439_1440w.png?source=d16d100b"
-                      alt="CleanmymacX扩展管理"
-                ></p>
-<h2 id="功能四：空间分析"><a href="#功能四：空间分析" class="headerlink" title="功能四：空间分析"></a>功能四：空间分析</h2><p>有的时候个人文件不知道怎么整理删除，现在有了最优解</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-427db6c8180ae58110efe500c22f25bd_1440w.png?source=d16d100b"
-                      alt="CleanmymacX空间透镜功能"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-bbe3187629743d22ac83997ebc5e9571_1440w.png?source=d16d100b"
-                      alt="Tencent Lemon磁盘空间分析功能"
-                ></p>
-<p>利用两个软件的可视化储存图，再利用“抓大放小”的点击策略，可以快速找到大的及不需要的文件。如果你只是想找找大文件，也可以试试大文件查找的功能。</p>
-<p>而且很细节化的是，CleanmymacX有一个移除按钮，移除前还会再次确认，细节满满！！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-fee9c44957a28944a767a374e1817c07_1440w.png?source=d16d100b"
-                      alt="CleanmymacX移除文件"
-                ></p>
-<h2 id="功能四：菜单栏"><a href="#功能四：菜单栏" class="headerlink" title="功能四：菜单栏"></a>功能四：菜单栏</h2><p>这个功能怎么说，就是主打一个方便，利用mac独有的菜单栏，你可以干很多需要打开窗口做的事情</p>
-<p>两款软件在菜单栏上都做了不同的设计，来看看</p>
-<h3 id="CleanmymacX-Menu"><a href="#CleanmymacX-Menu" class="headerlink" title="CleanmymacX Menu"></a>CleanmymacX Menu</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pica.zhimg.com/80/v2-e0ae571822e9bcff4f71dd3b1d550e0a_1440w.png?source=d16d100b"
-                      alt="CleanmymacX Menu Logo"
-                ></p>
-<p>从它的图标中可以看出，这是一个功能丰富的菜单。让我们看一下～</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pica.zhimg.com/80/v2-548d557e14ed43a3cd8c39e15264aed2_1440w.png?source=d16d100b"
-                      alt="CleanmymacX Menu 主界面"
-                ></p>
-<p>这个面板显示出了你当前设备的状况，可以监测到你mac的实时状况（玩原神呢CPU101ºC哈哈😄）。也可以快速打开CleanMyMacX的一些工具</p>
-<h3 id="Tencent-Lemon"><a href="#Tencent-Lemon" class="headerlink" title="Tencent Lemon"></a>Tencent Lemon</h3><p>这个面板相对简洁，不过有一个功能值得一提……</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-f630914c3dc6397a4b1ddc4cff70085e_1440w.png?source=d16d100b"
-                      alt="Tencent Lemon Menu"
-                ></p>
-<p>这家伙可以一键清理垃圾，释放内存。点击“系统功能可以看到”更多系统信息</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://picx.zhimg.com/80/v2-4dc01259f506f9692149f1cafdbe821d_1440w.png?source=d16d100b"
-                      alt="第二页菜单"
-                ></p>
-<p>你可以在这一页面开启隐私保护，这是CleanmymacX没有的功能～</p>
-<p>还有，Lemon还可以显示更多</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic1.zhimg.com/80/v2-55b5a674e2e44320f17f093b842e1b16_1440w.png?source=d16d100b"
-                      alt="Lemon信息显示"
-                ></p>
-<p>他可以直接在显示你的系统信息（2020后的mac book小心你的菜单栏不够哈），就是很碍事而已🤔。</p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>这两款应用其实还有很多Different的地方，这里附一张图，是由Lemon Blog提供的</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pica.zhimg.com/80/v2-908b7d7291d6094c20d8b699fb4a0d62_1440w.jpeg?source=d16d100b"
-                      alt="对比图，来源：Lemon blog"
-                ></p>
-<p>这张图展示了三款（其中Mac booster是今天没提到的，其功能类似且需付费）清理软件的不同功能，大家可以按需选择～</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>终于到总结啦！总的来说，CleanmymacX毕竟是一个付费软件，其功能是比Lemon多得多的，但Lemon也能满足大部分用户的需求，而且CleanmymacX的价格也不菲，且这种软件不推荐大家使用破解版，所以经费不足的可以先用Lemon，等攒够钱了再去购买CleanmymacX！</p>
-]]></content>
-      <categories>
-        <category>macOS</category>
-        <category>维护</category>
-      </categories>
-      <tags>
-        <tag>macOS维护</tag>
-        <tag>热门</tag>
-        <tag>分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Codesign：高效设计的秘诀</title>
-    <url>/p/20240501.html</url>
-    <content><![CDATA[<blockquote>
-<p>引入：之前发现了腾讯的许多新的产品，其中有AiLogo、Codesign等系列。然后发现Codesign是一个不错的设计师工具，可以用来制作图标库，于是便欣然尝试……</p>
-</blockquote>
-<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>类似Codesign工具不少人应该用过～注册账号后，他看起来就像这样：</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://s2.loli.net/2024/06/10/du4nNjt7yWCE1fx.png"
-                      alt="Codesign主界面"
-                >在“项目”这一板块中，可以看到正在设计的许多项目。这大多为设计网页&#x2F;APP这类产品而提供的功能，包括统一的UI设计、交互设计。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122215562.png"
-                      alt="Codesign产品设计页"
-                ></p>
-<h2 id="素材板块"><a href="#素材板块" class="headerlink" title="素材板块"></a>素材板块</h2><p>这一块我用的不多，不过Solitude团队会用它来分享主题素材，还是非常方便的！！<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406102215144.png"
-                      alt="Solitude素材分享"
-                ></p>
-<h2 id="图标板块"><a href="#图标板块" class="headerlink" title="图标板块"></a>图标板块</h2><p>这一块是我重磅推荐的，因为之前我想在博客里用自己的图标库，但是太太太麻烦了，而Codesign却解决了我的燃眉之急。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406102214039.png"
-                      alt="图标板块"
-                >图标工具中有自带的CDN地址和自定义iconfont前缀，非常方便！</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>总而言之，如果你是一个设计师，那么你一定会喜欢Codesign！</p>
-]]></content>
-      <categories>
-        <category>工具</category>
-        <category>设计类</category>
-      </categories>
-      <tags>
-        <tag>热门</tag>
-        <tag>分享</tag>
-        <tag>工具</tag>
-        <tag>高效</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的豆包AI智能体上线啦！！！</title>
-    <url>/p/20240612.html</url>
-    <content><![CDATA[<p>在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！</p>
-<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2>
-  <div class="note p-4 mb-4 rounded-small warning">
-    <p>AI模型内容仅供学习和参考使用，请勿用于其他内容。也请带着辩证思维理性看待AI生成内容，因为没有人可以保证其内容可靠性与真实性！！！</p>
-
-  </div>
-
-<h2 id="模型简介"><a href="#模型简介" class="headerlink" title="模型简介"></a>模型简介</h2><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122129186.png"
-                      alt="模型缩略图" width="300" 
-                >
-
-<p>首先呢得说明一点，这个模型未经充分测试，还是请大家帮忙训练一下哦！</p>
-<p>他的主要功能是你可以尝试将题目链接或者题目markdown喂给它（先尝试后者），然后它会生成对应代码和题解。</p>
-<h2 id="模型愿景"><a href="#模型愿景" class="headerlink" title="模型愿景"></a>模型愿景</h2><p>希望能够越来越准确吧，也不知道能对他说点啥。。。</p>
-<h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><p>打开<kbd>豆包AI</kbd> ➔ <kbd>登陆</kbd> ➔ 点击<kbd>发现AI智能体</kbd> ➔ 在搜索框中输入<kbd>OI做题能手</kbd> ➔ 找到和上方信息相同（热度除外）的智能体并点击使用就可以开始体验啦！</p>
-]]></content>
-      <categories>
-        <category>人工智能</category>
-        <category>智能体</category>
-      </categories>
-      <tags>
-        <tag>AI</tag>
-        <tag>人工智能</tag>
-        <tag>豆包AI智能体</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FlowUs - 记笔记？计划日程？个人工作台？</title>
     <url>/p/20240807.html</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 密码错误, 请重新尝试。" data-whm="抱歉, 这个文章不能被Hash校验, 不过您还是能看看解密后的内容～">
-  <script id="hbeData" type="hbeData" data-hmacdigest="6c3f467840f9e888849307911bb48f5d0faf1fe2c4f9fcbefb4e86ebd0434032">23a3c315f097ef08a4dbe2692b1d9dcbba94f6cf7d4b3ba7cfb785f5f7e430db967e8a2a8b33f281e0b769526a48dae8b8a8393a82e2dbd6b193051097a31cda073584c8e7a2239c2349285ca97c4c16660da517bb53c2a5ffd75fe56fc91df8ff90b1db6341014ae12320ef81e21e4da1802e6c8b15cc36cb5ce9fd8d90ecc51411e24deef5f6581235cd256ee42620aadd0049d84b8da07dad651e33431ab476958270336114b84cc35c3f3c3fd13f5062acbbf7abfad0b138c48a4bc5fe17ae7293208c78a73be388d1641367af85341860b084336a5d219624c29da6f2f91f785e40f0545d4fd40a48b34d940f92c26ab2effe81542014698eee6704a1619f6df4b5275ea253ce2c9d91fcf652c248f98f6773fa9189470290fff2a9ed54c955c72df96fd674bffc01b612bef6a5c4603deb3b3b76e6a9f0990e657b607be5c4a7edee2797b29b70e0b46804be51e612e682b9dc2e28b437306f3a916545c6a5c5e2dd3be0ec1a7a7eb49ad36a024cae658933bcc3a824abb00c34556c9bad7e5dfae682246ad42fce85a3620101b16e8ffbd18a4a628d573134921884b85ae20f650babe17238e08a447f6f7b6ec7baf53f14ba8a41ed189a60a17873d7519007bf4b5321b12e3215cc7fffaca27ffa70142b349de1fc56acbadad035b195b8ea2a91598806c40b4cb892b9f1430a4403ddcc89971a74d84c5d9a236bb8c9a5c281a10dd095c0a9996678361ef246b5152733373a121d986c1f38fd292ed92aa52bfd461bb2d62c6fb819dc23f38fc7d56dfb90605076848750db8436da592a47e721a2daeafb9cc2df677e147627d5af1c19a9dc5881ed36d5d1f29f3c87d5c3b4c5b9d75314d40ec3f4a9f51139a501ca4a378b45892f6bfeacaa47af16b07203133f524582062501568720080fad1703337590296c3ce55dd6ac44ce41c0bdf20f59cf6498a301ac2a997a59e65c712a8efc46efa9932a9175d9d5a6a6a317ecc12baeaf1bcd72ce42ab973b25ec10a6a73a115b42fa81683365c068b4cd397d766d11ed1e33d4ca6c7e3d28743186697cc401fe6525ca60d604e359d56921c173d16050b47ea7dc2af2a64e39fbbfa0bc4420d775a20ceb0a2e85af948a2cf9659ea98e34278d41e61b14322cdcfe46b2cec7f3350190f150ea26d02468cf05ea52bac7c2917928b40231008c912d91acbda9a2124041a8424d3e7458e5ba9ed3f585ee6fa731a52befecb1df15a3131bf00a483fce21638626d016c53270204533e182a3d907585c05c5441a5b28616c1f2803568a0d7a19dd48d38e46f26ea892bc60a5833bdf1d04380ee9e2033ba6978ba03c1291d9a2ad0e702a1ad0636bba428d1926b3c569055ed217a39c313e15ebb1a433ab0e73202c26239d13b9ed6478a4bb14824d042764e01a37ca0dbcbd2ac7605c8cc1da1401b32898f83b4c80e0f71140d16d919e2edd4817df593c289d68b26f6a8e9d229be004db177ea895d2181ff3020da9e5863bbd363f7bd6af3d4d56d28d75a35b2580454430b3c177f7bdc647e4ce4610d00292fd9f8488569de103751ae71bfccfa5d1eeb38bee0dde8f768138cf62f4883b2e6a1613da167b9cdc554e778c924a0da5e3dd5858ea3a67b5d0052041b9f570b7cd3d0cb064dd569b8e187f986f4c3a2d1a08d372d40167d18505a7fbe68a9a0d0460de993cf76ec1eb383294fadf3a5370ef6883ac308e1e14dd18c8c9e03b9cbb078f1e416441dc7c33f6fb1e604499cc5129b5489aecb99fbd0c034778d5d8be52f3809a775ac144ba3ed081664e7e77c413d7788656db2290e9cf453af8d4acb14d0260db20663ff0b33f84a20e2bc8a6649d1821c0362240f4f6fb23416e8821a57b8a528387ca46006d1baeaece60e8c5bd7aeae7eb81e90e94a6ed9e8a5c82513ee7bb7ae6abdac80d76bba48fd2ee54d784ac1ae54cb77fb7c81b604d9a11141120e69e9fbe5f4bbe2fc867cd2484ca208a9466f9b88307e3a32beb4ec8b2520c93c6396a6e29827054526fe8e129ed22c90594882dada863011af510e2c5ab0f47ed5ec0181ccadb008917b515cb5671e2fa599d6f7549e7bd224d7135af92fb39966bb5306ccb87fbbde0dc238de149390eced635ff377a56ed53047fd8f06ad8877a3bc6774d7f64709ecc49a184605e0dbf082417b496ab83416a7e2e84c22238a82700481c72a1d05aae1ca00a82892cb91bbdd2574bb4dec32cb1d2d9ee0e9e68fe39f31743d23b1ab3d0684344c85db529f71fbc70501499b0808fb98b043d44e234c411c6022bb8e1a8f14a0ee6fe389ee09bc3f461b0724eb112d9db43d0e481b4905d084367dfb2be7be87396f9c44b3f99b59035713cb82cec5f07fd36deb3df478bdf97e9cddb437c1b67d84fcfebf17dcb13cc978e07710cc76ffa89e07e15754d3e7d87ea98b92168d8977e491199ef976f8505847dd058dc6751159f6f37369d2dac7e44555915c1a964818bd52853331ef2476f2fa818edbc75bc14ba953935823e1c0f2f8873773a6d65b19502f7024bb4730197c60f2b7937b4b59fe193f6caa2635e2742de68ff91e3c8ea0c27004d680b77a7be25c28a8037e083112fa2450404b1caf9e1ec246532efe7a079a344833a9a3622e4f82fd4578b6da6474fec8e181971c4bcc83392f257fdba02ca75a066e4a5113067adfb3d0b7194be05b928c283946e89486362726bfc03b40acb05adbd7edc4af476f5d3d5c121e04f056f42c01fdb16db64c4365d2213958b77915d8cf2d2bb0653ddb9af67a3d4325bcb6b276870f3b9e35e9e01a5f1fddf8160056f3ed80171079ffaf51eb1d58cd90811db95bcf055644dbd875138bfc1792e2a89f6fd6d232ef1734dcc9c48595aae47bf4848b6d5d40b12252c7ae77d473a00eb4472870160893954967229787e501e7bb67d8a7395a880711d5ed329e2c3768b12a1d12468262e45f69467bafbeafadf4689c8a7260802c58fe79134c0d567d84e2b345ff5102d334ecddc79bfebe1c16faa94ad5f24aa6d90f304b431ffcdd327100c14271c0d7f51c83f00626757ee613541d8521b09c145567c1a1d0045d169cd59c0415f149026cf377e16fece0aa5ab69b5c01c0d4a7bb1a566e5707b5c4fd4ba7ef93fbef882b9585ed7b56758a3e27ff996645af29f9a9007608b87283dd7c5855e601e6fc5c63fcdc3982f174762adac5c55220d86bd71dfe421dfc08c370ef87ff676862aeaa5395ced059d03e9618488c4485febd0484eeedb3a31ace42e3da9d810315f888969933c40dce203cfd5b5098be5822119f0a9dafad9cd7702a7b7750a9bf27227621bc692a5d7c7401adfc8cc58cd36d8c479233491bdbae8307ee6b2379ac3c2446d01328d1446806b65d616b4627829373bab06649b200f0ba125cdd67ddd7c5c07f05d9b0a888b0d0725e7ed784d024c21c0a0b8f19749116d979c3ab5a0985ddb2620de8a27abaf8b99a3e9779f9dcf03147d0d0a67f588b39ae6adbe02fb5582ec7672b03030d8023c17edf2e80c94e961e1161f73aa14d65787e0fbbf362f8c46108651ebf290374fab315a709264ab8faf258c5cc35d3a87a9e7cfe62e3fb32493eab4181895faa2f545fff99cc22959162e83fe70f847995260c99e97b5df270409e18de8cabb95713675dafa8d28598e877c054994d6fbc880f1ca59413bcdcac039c62332f133c3ec29db02918a75335b59d41b312e18cf98dff6ad4618a52eee5ed2ce91c9646dd9a14cf03934b1ae9e7195cccde90d2aadf741b0b867f3363122a6f5ad14349f94b735ff9b949852646c0061731293baad760963b2fd168774c7227f5119efa08dd953c522aa6ae3b5a328bbaf8294f83961d562c56882cd4d50f68ea77e940720f010f70d705b01f6248281097e4f7944bc1c80a039ff1a75f22bcd6fcdae23d325b032141a9c2072faaceaa2286da0a9b75827c76ab302544a3ba38491755da74aaa0c27cd82ea03bda783064f5188a747ec907e4cc84dd33f1db6688644012bb03de5ec96be413359d2c19816cecba8564721337c01f67b717ac30b524f6388725cf7130f40b3a5d97ea6f1dc751636f251b9a4918c404af58377b05ddff41f5b5cdc4051218abec779f1587d588d0a91b250366fef7b86840022e9d31907a001d1b46b2b9cabd4fa81b93e3965629c26ad5ce0e835118f1e367a64eed16ed02c23c4190ed1f24cdbcb8f740c3aa0bda6c0137136e5ea1925c6e2654b053b6f60a3a29452cbdfcbde37cd310dd93174ad359dc1d36dcafe310177417322dfd76e78618730df23660df23e4530c87eafff19fb48467217449262e4f958d1d13345914c5ff9694bccb3facc7845c5aba4b14bb93114805718ba5b18afb16c8f907ff98d87d206b6ba0ad46f97f2d4afeb4d288c1693388bc3d1427e6c69d8b379dc7688c2f53a02228bfa6744ef7b0ebf3b6ec329b1ae35c2d86910654597a70364a8e99cbb41c7b62729cb84185f2a185f0dc9afe3011766b5cdb186331dbf2894ab2274965303b10f428fa5a75fb41e96759054966a1514db59fc288510a264b9ea263eb5856a615d18a409b40f101577ee24d6c1321746b59e8da778f3f5ac11efa8d6a71e91c78262be682f0395227a991469ea96262f1743bb221151ac4be86427546a224aeb24904fcbd8ce997c7dbe59559eda053462cf2e89ecd4df3ad3ca8549934ad4ba8501f3d5eb18d3bbcf5f35ed8742496fb07e7caf1d9421bfe23b3e73b37e0485116cec8fe1c43f1e9a1702d6109563b14df610aa39eea881defe8613d58e5d8621d5cf4d9215f610853629caedb54c0086902d33692dfc6613ddb3197f00be10d43f50952926f2fd2d91bb8f409d74d883a46486cccaf0d67a72b167adb45835bceb7edc1a420273f0da8a4a7df1c69c3fcf901e9b4e663a633d1293cce4583b5e393ae1f975be177606975ffeefae62ed51e8dbf5036b10b9b9a37212fe7782e3cc815c6927cdca1a493f1046b5510cedd52c559812a307f6843801dfc6040eff8fd1bd136f2da1f378eb9b91a62d0d452ac63ac1f64eb0c62cfd4a3a37700424ab177daa9a9e8aacc18628bd0b2f114fab0347c47ba9a47031151650d837a3dededed55f2a5771389bb111c080efa3048eddb310362871ff83aeaa9f6b6fde2278f0bc926900d4dc4a4218ca429c49fa6c34aec2aa80345a746d249195bf647c54d4ff7271b2994e91b2e9d19bc51f1f59a8f47a6f4e3f9dbae1da50aba01e835b327b96c2724003c7ff484501caa8a7365f6950bd8e0c66679d733ee18308159e7320c6d14da6c6a7f8f4634262b677e4bd1babeed8baefa4c8ae496483229f3aa282beb8c3e42eacc58242add6f7d0f1d2b80dfe0547d4a14f36c94b51e36cce030e2cfb892bcd4f487f44f8a5788c87779cf532507464aa3d85c1b0763514753f60c6037a67ebb3841550e4a82fe92f1a6fc3c114cab5fc24c3a8064246d00147e15541e12954d3790d8afa79f8ed64aa3a0bd283ab51c691f2800f5f2ed72596e1e9fa3a8cebeb14a88aad94aab0af9f254e1c20e9bd30faa946de1454c7b1c1ac194adcf51eda8c61385922da17e8ac94ffd1fe25c1896d00e8bcbab5114301ee26057c7bd03dc827a29dd619640dc8262e87ae4480c973d95bf819205f584c3b164be5c6af9c2e870657644fbe3b35559ebb7b689cf39a67648f4eb1fb9a99c7f6fd5e8a85c3162eaaf04f382db027e829d05fc9f55e43761529391bc7d41f873eb4b20161731b42b9eec8a01de1ac051645bd64f8d74faf7fcdccb3845df1ec361c268a7b3f93d2c223ebfdabfe8ae460efee2f1f2fee42db2739cc76c21c339619d291ac06dec799e858226b0d0ec394d7b394beedb6201a47ff06c78af32570641bf90fa9a559a42899f78cd0a18bbd2c099fd2e8fd831852b8909f2678ef642cb1c468056b248b3d3194bd92f5f4d51d12b51d082282491533bed8bcf2fd9366563e0e07f412e4a31cc41e36135b68990070afe25eb6f52775538ddb9bd115c59f0081b389db90a86ad37298f6023546245f7c760e0c3014fbc191285b219ff2cbe5c3459c20e08b4a4702fdfdf8198a67c143156fd47a3c20891b7d7987c2825fa455a8961332b5bfaab6460258b9a81afa02ac425ae807e47bd98b75716d1675b8b539db477d67d948e2185e2fc75f4873c0d73e921b2497b4944a42cad6f5ce2bab496e1d51b44b4555d136d1dc0f4e274f3fd1ca80884f24d5d55a00d2eef73229b2ef05e9618ed83a76ce341f87b4e61b7e04190eedd791019e6c0d97b565d3cb26d429c7cee82533e49523c009486fe7a2c25fda24b9f27ac06d1575b0d5e7aef3686acb8f1b5527a0479217ad4a20d407c8ddfa2bd0c65a54e14b86f947d813d2efd36d2fcbebb5a6791321858b9c7c0e100b6b6c182f03790077d8c63234e55693a1f23fba87a151e5ffab279f083d76c55d3667072d74df69c2a5047a5bc7db01e366b4727604624238f5bd4d6cea6aaa06d707b30074c0ca609a162830f40b20f8aacdafc4ef43452598be1a026100c4b4724b4819db0016e42e3802eb7d5460ff92d102257b9bb521ffd96bcf5ab61e82881cee5df63ff65742f6e3ca4df6bfd39db3c1474be7dfc20985d9825e18c25d9433c905ce1905ad6d3b296fe232ee5d8d6981e4d558474f8ccfc912c7a65ceeb66dd0755b6475cdf93a5c917c0075b1b8e3d7d2133fdd5c49e65f4e7d83439bba4bb9176b4529432cf00c46ec721d505008c694debc5de7a9d5510dfc785a84ba976ad210ece708c6bf518aefa77dd278696340b22a170527d0ceed789b00e752401443a96ca656e42963b191acff7cc3bd9b541643972901a0ed5c63e25d8a5d2cfa0ea79fc64e97b5535517c97849825cc5c4860407aad22781b2bf98a5aec004ee5c88bac5f01d210e6ad1255674ddccfd727e1ee75c9e3a75d1141e698373c8454b00e89d38248c8072c4c56ada6ce7f8862302f2da769af27d65cfc81aa3155fb31f318dc826f8dadad37bd50b6eb428cf4764a56023ade531d0f09f7f30171c49ec388fdd65d8f0a0d2dae152cf89fa8302528cc53337dd263f1aa4d9ca609b1be6c27fe4b2f1bb2cc5ef1399df2c2318ffdc837b4f1c31eff09a0fbb480dce9b1d6d16170312a99505b871962f83fc5643764e420273e36251fe6c0699f70dec7fab5c74db1429b6be8a87918ccc4433c9f17c82d71f8a786c8b820a7229dcb4b24a17c6bf8f82924ad27264e208ca9c3911db6062c58cc93ea539e97222a5420e70d14953999dc4bc4c4f5f95a5fd9027ef9e19f2075097c184f84eba416fe7e3bfb3d424157f916528cf14e07bd5ec28734ca0486e22db7ff1e5082a3faf16aff5ca4f497d54357484f8d8fb12165b0ff4a9856d204f51404e12b4f9ec7af815a1adaf87368d1c07fc3a3e12dca9b86a2ba8adf785caaa61ad2a35661828068b9d5b9f20c75584a704a23b809bedf0ad13494a804dcdab66f92e99db6ef62dbf2b030cf628172730e13722842319623560f5857066df7f5dc456086147cba7bdc136969df7d61f9f97c7485f863cd76cd5de07ab5b0ca70741e1bed69c247d3db183c9fd56a01fc7f4d28cd9ceb09a409142a387889150a5e4403e66b65b65b52b36d889dda5a12154c36728e5cac28e192955c0f7743527a13a87eef2a97e67bb66d0fa1a9010e298a96e2e35c2f03d3ead9702c577815f9d10b611a1dea545f88418febe621a08d99a6c4dddacdbe07d2c954451bc69f25df4c8ae51070bf1b47e9ba5aea75eb70415462cb9722db67256d244b05c67399bc801c589c4f69adbed822c19bae5603b3e505581b6e98be59a4ef627de52ee53a09886c27cacd11442a88fe3af9851ae78beb61a2603abdc1ac299b7222a39e3deb32be8592c2b7e07cafdf92eb79bbc54f080fb0601880b2eb1900779b2ac8dfa14e6b22f2c7dc64a89a3a3fb68be09f7880523af21ede36377554eeb5f86f108dde76b17fe55bfb893d577cf8964e19ef988e9901c1b3353b43b228062c0e10ef518b8d1a87e22b8e8c9c62bab75da6d8b617e559860c66cab6e472cf259c4afab71d7371518157ddf8972066e65297e7127333ecd339cb910d15ebd9ae08628ffe480e436bcca084150fd4a24d1a062e25d9cea0c3c3d621b4cc1075e2b174bc9ff890e64a76dcb87b3e5f697772640ac3565cec1af2945ed0961e1ab81761badf716d4ec14095781adc264235bf5134dd7a6cfcd8c4cc2780b82d4c1e3116347e14522d6c95ccff182bd6427f16b7cb03e4a7d02f4cce8318b655ebb493100c1331544a80838cca09e5c6a005d500a5f59290bc83f0b87a3de92141d1c330a505dd50efbbad98a568b9dcffe6de36aaef730465b699e1e012ca2f529b299a713bdd3ce1132fb5aace658f76acb834562bf39ae300feaa88779288ebc3fbfdbe24557fdd7c6444abf3faa3e2290beac1801e6c42bb0e7f103f42ce581aaf55f0cf692f97f7d7d85ad1f424d313fe21c836422dc1ef080c5c2dbf63fabd0d13a042d0f1d4692a432897a31b281a6e4abe14b55f6ca461ea9d4cf01e0dd60adf05343a2d7707534f8e9b3b69d9b44a22ef9de32606928044a5744df0c679d88eb103ca9b438e0486964677a512030bc4423670ee62f7346adf1a0683877280efe9ee321bad02eda156611267e3d3eeff4e9f8328fae5a9bc85181ac6a149fc58ccc29e723062eeda3df30c768d720f4638fe807fdaaa0cd10264e0a3b04fdabfc9f10bcf1fc786716ac990b8705e33f0bc4c751a48ac6b78f58294aa9c9bd60f2b2d77663fab9dd941ce2640d1172ea7607ceea693bd8c3562b98ffcf8c7d25bf5b6a4a392a02847cd6be48034d3534bc2dfdba67d92d0e2ebdabf75cd27d8442743eb81fc6694d208461ec70c7e7ed9f904889026611d0b7a34a79b1b3360e4ebe7b293f8756a2fd7fee836e64118fc68892be67769a9dea4fe9a0d5be59802a79a2405e59dc7b15a07a23f77246a6b99f4ec651abc6f0485cbdf6f3dab3e30baca1f436044dd040ca894bbd1fd76a65b8d89e3e38148cb1ed948f5a441adbd6d2a41a74d6088c1d4da88c201f0253483212452b9a748a5409918471627370233e672ac6e3f358fa92f69121e4b68af488a1eba0226d904dcce971d24a15fd3d82391d101c8ca27c3550f7b15bea234e73492dc74381248c375107ce746e8288d26a263f77e5e7da6676f6e6bddb7ebc1998dd2358293cd0a0cc2a935c32111623e95e7ec343c53a64e86fb80b4d4394e0c2ae9d131377f14a35ae0ee0e0e5ee833bbcbfcb4aaa17253083fafeb3dfe2e082ed6b3f2d5c422f0fb06e092b0d3ff2f3fb574b46a418e481b6e4d19af43040ed955bb6cab1b704615ea12669acc95d4ef1ab8136e9ac7b485b6bbc83c3d0f4cd3b996ec91edaa85b55253d3607f6ef4acd1303</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="5910e296ca503840b08c975c067ce8261d7874b32c7f363e61c5a169833ecdbf">23a3c315f097ef08a4dbe2692b1d9dcbba94f6cf7d4b3ba7cfb785f5f7e430db967e8a2a8b33f281e0b769526a48dae8b8a8393a82e2dbd6b193051097a31cda073584c8e7a2239c2349285ca97c4c16660da517bb53c2a5ffd75fe56fc91df8ff90b1db6341014ae12320ef81e21e4da1802e6c8b15cc36cb5ce9fd8d90ecc51411e24deef5f6581235cd256ee42620aadd0049d84b8da07dad651e33431ab476958270336114b84cc35c3f3c3fd13f5062acbbf7abfad0b138c48a4bc5fe17ae7293208c78a73be388d1641367af85341860b084336a5d219624c29da6f2f91f785e40f0545d4fd40a48b34d940f92c26ab2effe81542014698eee6704a1619f6df4b5275ea253ce2c9d91fcf652c248f98f6773fa9189470290fff2a9ed54c955c72df96fd674bffc01b612bef6a5c4603deb3b3b76e6a9f0990e657b607be5c4a7edee2797b29b70e0b46804be51e612e682b9dc2e28b437306f3a916545c6a5c5e2dd3be0ec1a7a7eb49ad36a024cae658933bcc3a824abb00c34556c9bad7e5dfae682246ad42fce85a3620101b16e8ffbd18a4a628d573134921884b85ae20f650babe17238e08a447f6f7b6ec7baf53f14ba8a41ed189a60a17873d7519007bf4b5321b12e3215cc7fffaca27ffa70142b349de1fc56acbadad035b195b8ea2a91598806c40b4cb892b9f1430a4403ddcc89971a74d84c5d9a236bb8c9a5c281a10dd095c0a9996678361ef246b5152733373a121d986c1f38fd292ed92aa52bfd461bb2d62c6fb819dc23f38fc7d56dfb90605076848750db8436da592a47e721a2daeafb9cc2df677e147627d5af1c19a9dc5881ed36d5d1f29f3c87d5c3b4c5b9d75314d40ec3f4a9f51139a501ca4a378b45892f6bfeacaa47af16b07203133f524582062501568720080fad1703337590296c3ce55dd6ac44ce41c0bdf20f59cf6498a301ac2a997a59e65c712a8efc46efa9932a9175d9d5a6a6a317ecc12baeaf1bcd72ce42ab973b25ec10a6a73a115b42fa81683365c068b4cd397d766d11ed1e33d4ca6c7e3d28743186697cc401fe6525ca60d604e359d56921c173d16050b47ea7dc2af2a64e39fbbfa0bc4420d775a20ceb0a2e85af948a2cf9659ea98e34278d41e61b14322cdcfe46b2cec7f3350190f150ea26d02468cf05ea52bac7c2917928b40231008c912d91acbda9a2124041a8424d3e7458e5ba9ed3f585ee6fa731a52befecb1df15a3131bf00a483fce21638626d016c53270204533e182a3d907585c05c5441a5b28616c1f2803568a0d7a19dd48d38e46f26ea892bc60a5833bdf1d04380ee9e2033ba6978ba03c1291d9a2ad0e702a1ad0636bba428d1926b3c569055ed217a39c313e15ebb1a433ab0e73202c26239d13b9ed6478a4bb14824d042764e01a37ca0dbcbd2ac7605c8cc1da1401b32898f83b4c80e0f71140d16d919e2edd4817df593c289d68b26f6a8e9d229be004db177ea895d2181ff3020da9e5863bbd363f7bd6af3d4d56d28d75a35b2580454430b3c177f7bdc647e4ce4610d00292fd9f8488569de103751ae71bfccfa5d1eeb38bee0dde8f768138cf62f4883b2e6a1613da167b9cdc554e778c924a0da5e3dd5858ea3a67b5d0052041b9f570b7cd3d0cb064dd569b8e187f986f4c3a2d1a08d372d40167d18505a7fbe68a9a0d0460de993cf76ec1eb383294fadf3a5370ef6883ac308e1e14dd18c8c9e03b9cbb078f1e416441dc7c33f6fb1e604499cc5129b5489aecb99fbd0c034778d5d8be52f3809a775ac144ba3ed081664e7e77c413d7788656db2290e9cf453af8d4acb14d0260db20663ff0b33f84a20e2bc8a6649d1821c0362240f4f6fb23416e8821a57b8a528387ca46006d1baeaece60e8c5bd7aeae7eb81e90e94a6ed9e8a5c82513ee7bb7ae6abdac80d76bba48fd2ee54d784ac1ae54cb77fb7c81b604d9a11141120e69e9fbe5f4bbe2fc867cd2484ca208a9466f9b88307e3a32beb4ec8b2520c93c6396a6e29827054526fe8e129ed22c90594882dada863011af510e2c5ab0f47ed5ec0181ccadb008917b515cb5671e2fa599d6f7549e7bd224d7135af92fb39966bb5306ccb87fbbde0dc238de149390eced635ff377a56ed53047fd8f06ad8877a3bc6774d7f64709ecc49a184605e0dbf082417b496ab83416a7e2e84c22238a82700481c72a1d05aae1ca00a82892cb91bbdd2574bb4dec32cb1d2d9ee0e9e68fe39f31743d23b1ab3d0684344c85db529f71fbc70501499b0808fb98b043d44e234c411c6022bb8e1a8f14a0ee6fe389ee09bc3f461b0724eb112d9db43d0e481b4905d084367df31916069fa7fd7445b6a972e971ea6666685c3361e3e748731a22091fe0f341026331dc0e7c4196b83cb20a9fefd82475209e3a3f57c49b96b00e0ed5c30b59004585c4c9d86ceaef603685ae385859c3a8e9b60e315f1fbfb23108aa3be1bae3927cae6ed84bffeb4ffa44b681d1912ae281801a7a4b4a8fb673918d4d9903454217135f40e681c282d56b6c6320675342caf437f73f4f336e89bf896e383b1da7a58cc6f8aa54a756b7af9fd54440475eee76245047ab0753478bc0c19f5b85a7ca1c845d377f4325bb206959f646b07e654b60a2b01471ac1025c68d510cfd7e254a3e88c382b7a3c6e6886540571d03275293f37e9b68a0e804676cce4b0bcc54ca32006e393d9554dad9a3c0c2acadc6897597b46b3f19eddd98bbedd19ab6366b147f7fe6bdc863f3adc0e39f3cea55a15db0faad1ab359bd00aada2ba98a3f539edad642a8a67669a99274204f1771661b0bec70411cf6b328d4f9bfdc847a2610f26b7a2a11a44d52fdf71091429a16dc5cc25ab6c5a911047e9482083bfd0682a010ff64862776a2dacc77016a56394a982acb51ff646c721689727e0cd61d0a1daae338afffa23e8cf40473199a4ab13f2d649e450eea5bff32c2403ce02980a6d18405f1a955252bfd68a47896602d69c526fac61474e02cdc065681c438ffd733e63c4646dc8269d18b28152321eadafeccc69a7be7714dc4540b25a5a0b79fc9a0bec4b6553d028bbf3d3b2ab0f1663ea0de83b1abff21056bbf31f06f144152bd6171dce0a2672ad36410f1d253a0c67991eef673d964d3c4f59213d4310a4c330d2d5cd8fbc75903d64107863cec67fa9730270395a5d7708beadef4f42353ca90564fc9c9d6240dc841ff6e4bbea8586e03a49620b23a151302a5b676a76347e573712aeb5eddc042ca1b2c0ea787507b841ac81bdf13c6dc659beecc334704a3da64b191ff19db6da8beb0dbaada307d15399c7bb587da2f05fbd495cc642f1084d6a4990a8a2221c535f023dedaf49451f5df16040a40da0f167de3d9d7b887a41c0ae43239866284a7cca61f0f45c130b270f8c01c31e84eee781f3634e8f3f46fa194570149334cb5d14174b8dc5afdb23f1a99df50d00ca00a1129075cf1e80491228dd9949fc541d8d514662fa621d1bfff219e70fa4d46f80ccc9ee0c60faa9f025ea209a4c04a4b9e7b11771cf91422da16dbf034c9aeca3881e2fe14835a5fda69ba7392b2b62daa18985623d85e80e5782bb6c4cf6f865c7bf54fbca3b70a2582496e2bf1b7ccabadfdbadae5fe656c62179c1094dc98209d407340df12766db883d27f6f4c73a2f57cf82e629c5e852861fb7c47f971852b3e2833d95c8fff40945bede51a82e51865da1e33db72e3c954d1241a4efc65d2b550b2c8c9d699215fdc49e250964427c1395bb8442c7457afd69703095dd7c0553fecbd45a360dc85db22f9c1ac4747ffb98e685e1f6b43a52344774d9b916ad4ca8d259e9d4c54d687ccc843a7c11d55c690697fe06ca61167a3624cc279239fb4e29ab7f2992ad9d41e543e8e63aa4f33594e890194e7033365589610b3fa00782efd479f409c205690c86182c96f897bef847c9ee3a2a306ba377b30a656041b9517518cc9aa95fb8a82970cb8e0969315902d4f3c0202bdd71b0030e48898a549f2ffbd5c9ea2e946f94985b201815fba50005c10c67e4a00464f6610da97da03175394f7dcf1d930a222e94732c0e78759ae4675f51ef29cb72545100ca5e5bd5429df96d2f59588878ecc8a632d4afc7c5c4e1bb1ae7bf8924333787a90941a7fb9551b3487dfe35c3ef63c95152e9b92ebb7cf9888ebf37dc1c60eef93d71ff2824c0750903acb2c51336f96627141097584a186ae9d6ca781fb4d52e946698d081dfa8808c86e2cdc2a2a7983f160c243cc793733dcceca30a46499328ea2584d53ad25a7ca3c0db80f0561b47064a104215595f8ecbd308ee4c4b65915572f4313b6169d3d4982c37ee82b9913306eb6ab742019e1be860d5f25bad2d32ffdb8b609dc369feac54f3297e74f69af7283ea6b4fd78b5a5e492591607fe7eca9d4b4732bdef96eb7b369079ce6d51ed0e2d9e0a71615de0a1768481fc585118b908c432ea25102edc628836e883b2fa36c0226401da2f7e4bd5de5586d2de69efda445332112cefce2a268dff6b382f51f19852d94e21876eaaac283a3843f40631b036b2e7d5283cd2fe6c1ec271f7d2006549d79c7ec9781d036465e7c9b79942e0824c751938a788a41ee3d908b03f5881bb06baba868b298ffbedde079d22f34f7f02cc4922ceba4e312874866992234eb7d1d470b47f31d039e34c668779c2888a399de015f9a4d07cbd5e9fff981222e66aede6a4fa4285eed5d64793c617fcd76c293164224a031b9356bfb6b5468352c953327a4ef2a60bc70647bfdd1e56139f458fb5c8b1f7984723776925636a8c7164025a6e45b0d84ac9f36f49b534c9c616a0239c5a53021d9c2470b1cdf19d7a227c8643b2bf1484e764947854c72f66314e2bc742105d899c7383c75ed470f8d3eb9bf1ff5763429b34f9e69405fd00c503af71eb7991cc2b8d147137acf56ac54c07aaa8335bf92c3e354d595fd35cd118cf762eee7648e727b4afd200f2d4c142034fc7856fd0935e04ff3274929cd6121179383daa105416da4170d0d1d6ca9c8cbb69842d80df577b96e399b5fe11e0aa3614c73c3e0d2579dbb9c9023aae28378e46de38a4bce538f94118eaa8018e667e69a6a32d0a5c8e56b40b12d63e50ec4763c27034873985b3723c10357265da8fcd5e640f91de9406671d0a578b29f773889edd71d9d3b7dbc14569ae67c1f5c2717327a66c98e93032a1dda6fcec702596faae9a555cf8cb2741c7422f6d8fd9e407baea7c0870f947ace4ab7879f583876a42b63184bc7b22fcc5056402dd9c65641be5b4c44cf8d5d7409bd8e6bbf0483f63b4322bb54e8c59ec734e7b8c0e232902ea36dcfb0fe5949d2de84a011da8a1e24ddebba57ba25e7834fb22977a9933950fd4904ed98f46acb559b4f342c0d23ef1dcb17504069edf32b50f9f68eb2a807a9f6903fad6b9e0f8ddc1bece7763e83ddc4427f96012476575b532ef4bf9d337ab4128e90c67066fb04ee0ca15a1042ee2c8e348bea597828a602c9e34e2c22a559b5629a0d965980c50f5bee4e235f078960a01b7cb812f36a5b213ef944ef4e8393cc7a8ba46df6ecabac741d00878942fd0407c7e558e59601d3353518c734a1d8bd7191d3fd6efd208f4ba7df4d3a375793b63493c636b3a38eb6d1ee3a052cc8cc0ba84fd8d426fa92fabbf7c4cb07b55dfd1014986e56b1a9e57d371c74d8fd623624f62e8660a63af3a3dc5a2e4e4a392538108f075750a604dac8ca6caa5dddf7bd3b4502001c64a7e81f90b9030b2b6af79c8c5f4bdd905b8ed0adedcd4dfe7da441c73da24d3c57afbbbf491de2af343b9df628af1996942c74bedbccfb3667476cbccdfcf7bf3573770364527e4e85f87cf515433dde30a57763d2204a68a13f170ce156db681e4416b72d14563915dd3fde54b1036bd39e6adff3c27cac4a33415bf11dbbacbdc7ff4c69298aee61fbe33be68ce539c2eeadcc8477e09d02bfa0438acd6b25f3e76f04d8cb4e0695be6e9b30fab98b2ff5eac1dd1adb0669952f37fbeff25045764f84602902fd32fd8bca7129a9b2a25e1e98218c4d0ce4e09009241e131fe701a0d19bb63078a99de30229414685874e9651bac560f0d0f423e6abd1648d5933d3b024c0f9c989e645cfcb381755287049893fab1c69050b153fb3d46d583f108dcddf55f7efec060959b432175ea12ac4cf18a01af03439be2ce3f44dde4863c55d71ec584151813d902ffbc6fca20892e1b9c2948475b3f778f343cf13ef502db52d57c25c0a8355e72503b1bf50082535290e206620733202bdfafd98287176b37f5daec6a19b812f8212e58d7eb9ca4e9b69d1b203e009c1b4c65f5bd8330d17d7b2290cb1cc330683b14f95a76a98bb8b9f52a7857992c6b253d78f8272ad29f33f629d408a86079f96d13f354822cb1a18ff29814a87922e3089d43a61578ad621827d5993b87e61b00e77d33b9a93b87bc974c7407baebbe55800ca4a6cc55ea5b333c67c13e3c1e16b4fc1d4ed9a1d887e1ae69a1bffe00bdf5c71b52e9deeb2b24fb64e1ed2caab4d4c1ddf24bbfe1f64aa891cd7de1504af994987a222d7ddc026c1cea7e6a2d623559eb15b16675884296dc5d18b64eea5db890fcce9c5c98be359d76cce3819d0547f729f4ee5fec705831bb1addef846a90acbabd4ba3d139a538cc88a6d5d8b8f1302acf52d66010650166950a9ff199b05c96d26a49d6e5f30ae5699b392acc01e6a9bdfc58f92c7fcf45ecec92de7966eb2112cce15ac64ed8199df58b826d3a7a8354817fbc4976efd41f75e01c639c6590619cd46c377c86c7173d834fb9810325f831d88fb591b9f85aa2ef65fcdf1a538f418c6c140d7810cda5d5cde4f4ca9b64045b9ab903ffd664dd4509d11a41b4413e6900b4038e85336e1095a5357ed6d7da7590ff31114c59cad007426dfc130932f939238787ccb6d3f62fb5cb15389f72ebd28c785d99cb3efebf66d300f50cb0059646dd70abae4b31520cf12405066d2a63af69796144d629dfe716e37749130d9633f1f6b6ded6146f3e12709ac055f5b1ada17c920d1fa0dbc431e08eff892b9d0f82f6cc3e280c3a8cefe245dc4ab386354393db65c9cba528b88c4e6dbc74b8ee03bfbf5836ea1b565a3139028648808dcd29de675fd5adaa94280744ed9725461454cb755ffe9cb2608c2650190d9f6c314166b3f5dd9d9bbdf6e549de67916295379f3f9d8b15ce6512097c8d63ebce6b6a9b280191ab15b2d7473dab23fc23b30e6ac45a4f8efee7a4faed854303b5990a3b654d8912cdc837a97a826de1f114c5d2d75f132a162a30d1f2219b19ad3bfeedccafc0150714e162b07cb36d7a686a00c9cbf8aa24c219d49646faac8b7bd1121bd2b468f3e8fcb1aff8efd92d97150772d92645eaa2058ef2ee1a1beec3fcc5e19e2900be0cfb3fc96cb90efc24b2c7fbe31d342888723c46144e15457fb8a35fca8b5db551d8e36d5f21dfc81c1d667da84a4b6c0c40193ffd0976a9c86b1708ae3d3bc8df780cd070b51360f38d61057ac0dc6ad6eb9f6cd82194d5aecaf8d75efd54d81e50c37668d60600101dd85debb0cc728e2cc78ff641c1255c0d35db7849a091d8319fb81fa1935b1d04520d4974a22d64af381da0615ecfa8f6ef30e5fded4bbbd4a4600cb2984faf3076b287ae11ee569036b539ef5a12924373349f5150b59116849683e579e36d376bbe2a7bbe2762220e8246a75c599be847b1db783fdd45900b59e91a734f685c503a419ed803f98f00dee4137f50858f5df2b91f920cc2bb118442e81120c38cc48e1b31f626d550e282f8116d9e07f21d91b96dc5623cb2b2a5a7e6d65665711c1513010ab28025ecb6e43832a968c3bd2f4b3e7eea158e011d970525e3d30319d21f57691e66e809f5cb718dc1a1f42e33d9c28b3834fa09faa5058de2f0cb0af8678b637d5dd75cc75ed0df9b7eafe3213820560e11a0edc266220a198e6142786a4520fcec54fade637602598aef84507a3acca03c1738b4b0efacb23ff6e179d8c23bef18ff4dea4e8c4c4e8be1504a30b4e692eacffa8588ff24c3c2a65545222608d93626aeae9d47773c33f254ecbe9745143fba422f51c37366ac0e2cea64b4f992e537229103cb2ffbf0de9d7bead338791205f950211eb8bda856de0abef52df5bd787e8cc18466a44fc33fd324a593560fde7bca20038ca4e8322f0c2913b400f19035d715bdaf3de91948eb39e2612e1192c9f6925aa5c6cb67c0195a489588be608152cf12dd4920ee73096bc581c2dca6bff56f81f03ec9ca26a6ad019d002ea0e9c3a3c6ec7a98d5b828bf7d049a322f46a3ce772f43fdcab7b7f46fb361eef106be6d22c428c38cabe4b491b88354486b93c6a93ca8fb7ffd8651c3ef140f51cef53842a825d8a8f32c21080f421582717230c34cd593695cabddc5ad5dad87bcec4a8d11141cee45be330e03a6c67b9ea496b5bfb2e064ed6aa5ccb0c72f738455b1b69d8f4f821af685da8a37f687db08ca66c284438c010866de48e4e088e4dd3e96a39bbfb1284494d2ee3d516a7282712f95958a605be925c65ce666db0028899ac7493feeb4e76b0eb9a9b2238be7832f11f7cb7c1d2ee373aef83c3c726bc157151c87d1c1916583df551492d6681924de8641b15247dafb9bd7cc573bac6f431b57d79f3d35b5086e786144fe81042998aada881a95665fab22721f251721efc67ac7da8112afcb3f9ffef20f108b38fddeefef981605b1e2931427ec1ffd8d2334e6707d8f785f8be63ea8815de876075d711ab49600964060c12aabce0290a8f1f19931102bac9c345eeabfad26650fe31c5424c40a21002b40c2cc9f4962dabc3ffc5b676248659587c3cdcff87abb1dc6511dc9cbfaf83932745ecd312c179365d5ce58ac4a475520a72197b3257b2ab8872dedb8134f91fcf1dabb0c4d52714dcd67f28eb21f6bbcdbb92018465cc95397266a413a7a4b8f98d2e1bf2873217cac913a78577e05e4db9ab70942ec7cb7d007dc88dfbbd79fbd1cfbd513956f14dec572a0762ba7170411ec2a00d75f0b2d92f971798ae51d5eacdf1e9d52e9365825f7b233deacf7481dcb781c239fd83ea3a16a079483b99117aa094975971a32061e8aab1af4538444f2a7b5901c2f2d551edd715f12c4dbb0c8a8b9a456e3a53ca72080082a29684095dc6d7ed8ea6228983c8ff1cb17f8d327d31ac59037af010d681eb8fab18cd9da53496e00a6c45377a2dbd109ac82606ab863df25feeccb3366489ab43a4a23e91ac557dfb08b7e6ac4a291a90f65e00c09f0b449c685f1e1ce9eacc440fc9da362b2af1afadadfa06fb431db21c4f176579e6ffea4c9b7062faeb99f9b0b276768a48473f47a556718ab72505fcd453e53c3f6b76a22e69dd139b101c0e9a8358ddedce6e0a264f4b437d70cf5e4d465b2de2f0700d7f7040555b8902393db2cf1ad84b1235d5340a4d47602751fe75ec0e1df456579fc0be28761bb3e3fb13e46d852478d764b22c75247750cf9a80f24834bcb6dbbb7e791fd121cd784b6d1bd27db1f0acdd45deff7cc655b7f504be0d086092c1d613975f3c4706c4e175fb1196a89039b5d3f2af85a20c346f564ea3d5b52c33dc3cd16a751acff6f751f1b0de994bc8c70ff4e79fb5083fb14e729f10bee6580605ffe84fedcae93bc5a54b99c874bb8896db81a209fdc59f61c09b09318c1598ca1993083865092bbb12f52cd3f68796179e875143462e496331e24297b66d91aa2586dbfcfefe755f12c211c51e3716aa438a63eb7bbff6b5126e0cc98d471b6ce0e9fcdfe614c2e7017dfc40d0eefcfc249827e4a67c9c9744067ac0d869d90b28ea5a1bc9d970bca3d4e2f944799e2bde1e2c89382beecb046c5f5caea58176ab48a1f4cc3c1984af17e66fa558f13d59ef9cb84309d9242834806adfc4690ce0cba2e50dca856a7853999a2338a5d2e4d82148a544fc105f2253f558bc8e936e2c7325eb6e473b01f16d782a6b06964260be5cae3e5ac29837b34d7165eb9fb4e2fe9f8081ead0fcf7b458f9ea794538e631cf8734a6626ced1fe3b1320e075bf10e90f52773b6b8f7f584c1c36b3a3510df4f1d1e33ff43fdbb1dd8df5becf7f4198de5c2e5d6e81e77c950c9f881ef4161c</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -465,74 +280,106 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>我的豆包AI智能体上线啦！！！</title>
+    <url>/p/20240612.html</url>
+    <content><![CDATA[<p>在AI时代咱得研究点新的东西，最近不是智能体这玩意火了嘛，咱也来玩玩！</p>
+<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2>
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>AI模型内容仅供学习和参考使用，请勿用于其他内容。也请带着辩证思维理性看待AI生成内容，因为没有人可以保证其内容可靠性与真实性！！！</p>
+
+  </div>
+
+<h2 id="模型简介"><a href="#模型简介" class="headerlink" title="模型简介"></a>模型简介</h2><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406122129186.png"
+                      alt="模型缩略图" width="300" 
+                ><figcaption>模型缩略图</figcaption></figure>
+
+<p>首先呢得说明一点，这个模型未经充分测试，还是请大家帮忙训练一下哦！</p>
+<p>他的主要功能是你可以尝试将题目链接或者题目markdown喂给它（先尝试后者），然后它会生成对应代码和题解。</p>
+<h2 id="模型愿景"><a href="#模型愿景" class="headerlink" title="模型愿景"></a>模型愿景</h2><p>希望能够越来越准确吧，也不知道能对他说点啥。。。</p>
+<h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><p>打开<kbd>豆包AI</kbd> ➔ <kbd>登陆</kbd> ➔ 点击<kbd>发现AI智能体</kbd> ➔ 在搜索框中输入<kbd>OI做题能手</kbd> ➔ 找到和上方信息相同（热度除外）的智能体并点击使用就可以开始体验啦！</p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>智能体</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>人工智能</tag>
+        <tag>豆包AI智能体</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Github：设置两步验证（2FA）</title>
     <url>/p/20240426.html</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天准备上Github传项目，结果收到要求两步验证的提示。于是我翻了一下Github博客</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://picx.zhimg.com/80/v2-16d73cc24793146f8f43c6981517f87d_1440w.png?source=d16d100b"
                       alt="Github官方博客指明了必须添加两步验证"
-                ></p>
+                ><figcaption>Github官方博客指明了必须添加两步验证</figcaption></figure></p>
 <p><a class="link"   href="https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/" >博客链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>这篇新闻总的意思来说就是要求用户必须添加“两步验证”方式，否则无法访问某些功能</p>
 <p>这里给大家出了一个设置Github两步验证的教程，希望大家喜欢！</p>
 <h2 id="1-找到Github设置“两步验证”的地方"><a href="#1-找到Github设置“两步验证”的地方" class="headerlink" title="1. 找到Github设置“两步验证”的地方"></a>1. 找到Github设置“两步验证”的地方</h2><p>在Github设置可以找到，不过你可以通过下面的链接👇快速进入</p>
 <p><a class="link"   href="https://github.com/settings/two_factor_authentication/setup/intro" >https://github.com/settings/two_factor_authentication&#x2F;setup&#x2F;intro <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>进入后应该会看到这样的界面</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://pic1.zhimg.com/80/v2-c70baceb98dc300fba35bff6109172db_1440w.jpeg?source=d16d100b"
                       alt="Github“两步验证（2FA）“设置中心"
-                ></p>
+                ><figcaption>Github“两步验证（2FA）“设置中心</figcaption></figure></p>
 <h2 id="2-使用“两步验证”App进行验证"><a href="#2-使用“两步验证”App进行验证" class="headerlink" title="2. 使用“两步验证”App进行验证"></a>2. 使用“两步验证”App进行验证</h2><p>这里先把电脑放一边，拿出移动设备（手机或平板，为了排版好看我使用的是iPad），下载一个两步验证App（推荐1Password和Microsoft Authenticator，我比较喜欢用Microsoft Authenticator）。下载完成后，打开你的两步验证App：</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://picx.zhimg.com/80/v2-90b1c518a3c250078f84283235bb2618_1440w.jpeg?source=d16d100b"
                       alt="Microsoft Authenticator主界面"
-                ></p>
+                ><figcaption>Microsoft Authenticator主界面</figcaption></figure></p>
 <p>这里以Microsoft Authenticator为例，进入后点击右上角加号会看到如下界面</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://picx.zhimg.com/80/v2-5c1165f3b55f388f28ce8db2898e1ef3_1440w.jpeg?source=d16d100b"
                       alt="Microsoft Authenticator账户选择页面"
-                ></p>
+                ><figcaption>Microsoft Authenticator账户选择页面</figcaption></figure></p>
 <p>点击“其他”（另外的是Microsoft帐户，如果使用了Microsoft365订阅，应该用过这个），会出现一个扫码界面，只需扫描刚刚Github出现的二维码就可以了！</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://picx.zhimg.com/80/v2-c1ab419592cc7da79f32943e5a5f12fa_1440w.png?source=d16d100b"
                       alt="扫描红框里的二维码"
-                ></p>
+                ><figcaption>扫描红框里的二维码</figcaption></figure></p>
 <p>扫描之后你的两步验证App应该会出现以下界面</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://pic1.zhimg.com/80/v2-28f514bf9f3a932ba26648bf4193f8c3_1440w.jpeg?source=d16d100b"
                       alt="img"
-                ></p>
+                ><figcaption>img</figcaption></figure></p>
 <p>可以看到两步验证App中已经添加了Github了</p>
 <p>这时候你会得到一串数字，将其填入刚刚Github页面的输入框中（在30秒内，否则数字会更换，这时候如果没有及时填入就只能填新的了）</p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://picx.zhimg.com/80/v2-565d69289d33a76af34370e20525a31d_1440w.png?source=d16d100b"
                       alt="在红框内填入那串数字"
-                ></p>
+                ><figcaption>在红框内填入那串数字</figcaption></figure></p>
 <h2 id="备份“两步验证数据”"><a href="#备份“两步验证数据”" class="headerlink" title="备份“两步验证数据”"></a>备份“两步验证数据”</h2><blockquote>
 <p>这里我操作的时候忘截图了，遇到问题的可以问题评论一下</p>
 </blockquote>
 <p>首先点击Download按钮，下载一个txt文件，请将此文件妥善保管，这是很重要的备份信息！！</p>
 <p>然后会发现下面激活“下一步”按钮，点击它进行下一步</p>
-<h2 id="3-VOILA"><a href="#3-VOILA" class="headerlink" title="3. VOILA!"></a>3. VOILA!</h2><p><img  
+<h2 id="3-VOILA"><a href="#3-VOILA" class="headerlink" title="3. VOILA!"></a>3. VOILA!</h2><p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://picx.zhimg.com/80/v2-55dc32527916a6be85a326ca2c3bb308_1440w.png?source=d16d100b"
                       alt="成功设置“两步验证”页面"
-                ></p>
+                ><figcaption>成功设置“两步验证”页面</figcaption></figure></p>
 <p>看到这个界面，就说明成功啦！！那么本次教程也就进入尾声啦～</p>
 <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>本次教程主要是说明了在Github上设置“两步验证”的方法～新人作者，烦请各位大佬指点！有任何问题欢迎评论，虽然很忙，但一定会看的！</p>
 ]]></content>
@@ -546,31 +393,50 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>Pixel-Chat Boom项目介绍</title>
-    <url>/p/20240729.html</url>
-    <content><![CDATA[<h2 id="Pixel-Chat是啥？"><a href="#Pixel-Chat是啥？" class="headerlink" title="Pixel-Chat是啥？"></a>Pixel-Chat是啥？</h2><p>哎，最近在集训，本来说发了项目就更博，结果拖到<kbd>Boom</kbd>项目还没发</p>
-<p>这是我最近和朋友写的一个<a class="link"   href="https://www.bing.com/search?q=%E5%8D%B3%E6%97%B6%E8%81%8A%E5%A4%A9&PC=U316&FORM=CHROMN" >即时聊天 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>项目，项目地址：<a class="link"   href="https://github.com/AlignPixel/Pixel-Chat-App" >https://github.com/AlignPixel/Pixel-Chat-App <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>欢迎点Star支持</p>
-<p>具体说明请阅读项目的 <code>README.md</code>，这里就不过多赘述</p>
-<h2 id="那Pixel-Chat-Boom又是啥？"><a href="#那Pixel-Chat-Boom又是啥？" class="headerlink" title="那Pixel-Chat Boom又是啥？"></a>那Pixel-Chat Boom又是啥？</h2><p><del>好的，我来说说</del></p>
-<p>他是一个用于测试服务端性能的玩意，原理是通过不断访问来挑出BUG</p>
-<h4 id="有BUG咋整？"><a href="#有BUG咋整？" class="headerlink" title="有BUG咋整？"></a>有BUG咋整？</h4><p><del>好问题</del></p>
-<p>如果您自己能够解决，那么你可以自行更改服务端，若你想帮助大家还可以为项目提交PR，大家共同进步</p>
-<p>如果您自己不能够解决，那么请你提一个issue，等待大家帮你解决</p>
-<h3 id="废话这么多，那我问你：“咋用啊？”"><a href="#废话这么多，那我问你：“咋用啊？”" class="headerlink" title="废话这么多，那我问你：“咋用啊？”"></a>废话这么多，那我问你：“咋用啊？”</h3><p>本项目本身就是循环访问，所以是直接修改客户端文件，这里给出样本</p>
-<script src="https://gist.github.com/FrederickBun/d1b8868125299cbe628ee00dd1c9e16b.js"></script>
+    <title>「随笔」 云盘太重要了</title>
+    <url>/p/20240828.html</url>
+    <content><![CDATA[<p>最近不是从新加坡回来了吗，整理照片的时候照片都备份在了 iCloud 上，然后整理的时候不小心删了一部分，急了一晚上。</p>
+<p>第二天早上起来花钱预约个数据恢复，准备去找照片。</p>
+<p>结果当我在中午无意中打开 iCloud 的时候，发现我的照片都在里面。</p>
+<p>你不知道我当时的心情真的是有多那啥。</p>
+<p>（然后灰溜溜的把钱退了）</p>
+<p>所以提醒了大家：数据无价，备份无忧</p>
+<p>找一个靠谱的、性价比较高的、传输较快的云盘，备份、储存都非常方便，关键时刻可以帮到你！</p>
+<h6 id="顺便提一嘴"><a href="#顺便提一嘴" class="headerlink" title="顺便提一嘴"></a>顺便提一嘴</h6><p>由于太高兴了，创建文章的时候手抖写了个这</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082831947077%E2%80%AFPM-20240828-1724829587266-d3d43c17625bb904.png"
+                      alt="命令行输了很多 o"
+                ><figcaption>命令行输了很多 o</figcaption></figure></p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082832019287%E2%80%AFPM-20240828-1724829619348-3f1fd03b4c71e711.png"
+                      alt="结果文件名长这样（真的，没有改）"
+                ><figcaption>结果文件名长这样（真的，没有改）</figcaption></figure></p>
+<p>今天就这样啦，<del>水了一篇</del>，拜拜👋</p>
+<h6 id="AD"><a href="#AD" class="headerlink" title="AD"></a>AD</h6><p>最近《黑神话：悟空》火了，有人入库了吗？</p>
+<p>想买戳⬇️</p>
+<iframe src="https://store.steampowered.com/widget/2358720/847489/" frameborder="0" width="646" height="190"></iframe>
 
-<p>大概就是这个样子，官方不提供此技术支持，如果你有问题请到<a class="link"   href="https://github.com/AlignPixel/Pixel-Chat-App/discussions" >项目讨论 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>与其他小伙伴交流、分享测试经验</p>
-<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p>本项目仅供测试程序，禁止用作违法违规用途，发生事故本人概不负责！</p>
+<blockquote>
+<p><strong>为什么没有其他平台？</strong></p>
+<p>WeGame 似乎被某讯阉割，不推荐；蒸汽平台未上架</p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>开发</category>
-        <category>个人项目</category>
-        <category>Pixel-Chat</category>
+        <category>随笔</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>Python</tag>
-        <tag>Pixel-Chat</tag>
+        <tag>工具</tag>
+        <tag>效率</tag>
+        <tag>办公</tag>
+        <tag>评测</tag>
+        <tag>随笔</tag>
+        <tag>文件整理</tag>
+        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -637,45 +503,6 @@ import {initHBE} from "/js/plugins/hbe.js";
         <tag>信息竞赛</tag>
         <tag>OI</tag>
         <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「随笔」 云盘太重要了</title>
-    <url>/p/20240828.html</url>
-    <content><![CDATA[<p>最近不是从新加坡回来了吗，整理照片的时候照片都备份在了 iCloud 上，然后整理的时候不小心删了一部分，急了一晚上。</p>
-<p>第二天早上起来花钱预约个数据恢复，准备去找照片。</p>
-<p>结果当我在中午无意中打开 iCloud 的时候，发现我的照片都在里面。</p>
-<p>你不知道我当时的心情真的是有多那啥。</p>
-<p>（然后灰溜溜的把钱退了）</p>
-<p>所以提醒了大家：数据无价，备份无忧</p>
-<p>找一个靠谱的、性价比较高的、传输较快的云盘，备份、储存都非常方便，关键时刻可以帮到你！</p>
-<h6 id="顺便提一嘴"><a href="#顺便提一嘴" class="headerlink" title="顺便提一嘴"></a>顺便提一嘴</h6><p>由于太高兴了，创建文章的时候手抖写了个这</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082831947077%E2%80%AFPM-20240828-1724829587266-d3d43c17625bb904.png"
-                      alt="命令行输了很多 o"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/image-2024082832019287%E2%80%AFPM-20240828-1724829619348-3f1fd03b4c71e711.png"
-                      alt="结果文件名长这样（真的，没有改）"
-                ></p>
-<p>今天就这样啦，<del>水了一篇</del>，拜拜👋</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-        <tag>效率</tag>
-        <tag>办公</tag>
-        <tag>评测</tag>
-        <tag>随笔</tag>
-        <tag>文件整理</tag>
-        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -760,90 +587,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>「题解」 素数环</title>
-    <url>/p/20240627.html</url>
-    <content><![CDATA[<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h2><p>在学校信息队训练的时候布置了这一道题目，但是只求一次。然后上洛谷发现UVA题库求多次，因为方法一样只需嵌套，所以就做了一下（没有账号提交不了=m=）</p>
-<h2 id="信息队原题"><a href="#信息队原题" class="headerlink" title="信息队原题"></a>信息队原题</h2><p><img lazyload="" src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272146771.png" alt="原题图片"></p>
-<h2 id="1-题目分析"><a href="#1-题目分析" class="headerlink" title="1.题目分析"></a>1.题目分析</h2><p>题目要求将整数 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewBox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container> 到 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 组成一个环，使得相邻的两个整数之和均为素数。</p>
-<p>我们需要找到所有满足条件的素数环，并按照要求输出。</p>
-<p>由于 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 的值不超过 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.557ex" role="img" focusable="false" viewBox="0 -666 1000 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="36" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z" transform="translate(500,0)"></path></g></g></g></svg></mjx-container> ，我们可以使用回溯法来尝试所有可能的组合。</p>
-<h2 id="2-做题思路"><a href="#2-做题思路" class="headerlink" title="2.做题思路"></a>2.做题思路</h2><p>判断当前取出的数字是否和前一个组成素数，这一步可以用一个 <code>check</code>函数来解决（num的值为两个数字的和）</p>
-<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">bool</span> <span class="title">check</span><span class="params">(<span class="type">int</span> num)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (num &lt; <span class="number">2</span>)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i * i &lt;= num; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (num % i == <span class="number">0</span>)</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
-
-
-
-<p>在创建一个 <code>back</code> 函数用于回溯：</p>
-<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">void</span> <span class="title">back</span><span class="params">(<span class="type">int</span> cur)</span>  <span class="comment">// cur 表示当前位置</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (cur == n)  <span class="comment">// 检查最后一个数字和第一个数字之和是否为素数</span></span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">check</span>(arr[<span class="number">0</span>] + arr[n - <span class="number">1</span>]))</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; arr[i] &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">            }</span><br><span class="line">            cout &lt;&lt; endl;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i &lt;= n; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (!vis[i] &amp;&amp; <span class="built_in">check</span>(arr[cur - <span class="number">1</span>] + i))</span><br><span class="line">        {</span><br><span class="line">            vis[i] = <span class="literal">true</span>;</span><br><span class="line">            arr[cur] = i;</span><br><span class="line">            <span class="built_in">back</span>(cur + <span class="number">1</span>);</span><br><span class="line">            vis[i] = <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
-
-<p>在back函数中，首先判断是否已经放置了 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 个数字。如果是，则检查最后一个数字和第一个数字之和是否为素数。如果是素数，则输出这个环。</p>
-<p>然后，从数字 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewBox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g></svg></mjx-container> 到 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 依次尝试将每个数字放在环的下一个位置。如果该数字没有被使用过，并且与前一个数字之和为素数，就将其放在环的下一个位置，并标记为已使用，然后继续递归放置下一个数字。</p>
-<p>如果放置过程中出现相邻两个数字之和不是素数的情况，就回溯到上一个数字，重新选择下一个数字。</p>
-<p>最后是 <code>main</code> 函数，在main函数中，读取输入的 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> ，初始化标记数组和环的第一个数字，然后调用 <code>back</code> 函数从数字 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewBox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container> 开始回溯。</p>
-<h2 id="3-复杂度计算"><a href="#3-复杂度计算" class="headerlink" title="3.复杂度计算"></a>3.复杂度计算</h2><p>时间复杂度：由于需要尝试所有可能的组合，时间复杂度为 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="5.473ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2419 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752,0)"><path data-c="21" d="M78 661Q78 682 96 699T138 716T180 700T199 661Q199 654 179 432T158 206Q156 198 139 198Q121 198 119 206Q118 209 98 431T78 661ZM79 61Q79 89 97 105T141 121Q164 119 181 104T198 61Q198 31 181 16T139 1Q114 1 97 16T79 61Z"></path></g><g data-mml-node="mo" transform="translate(2030,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> ，其中 n 是输入的数字个数</p>
-<p>空间复杂度：主要是使用了标记数组和环数组，空间复杂度为 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="4.844ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2141 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> </p>
-<h2 id="4-完整代码"><a href="#4-完整代码" class="headerlink" title="4.完整代码"></a>4.完整代码</h2><div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> MAXN = <span class="number">16</span>;</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"><span class="type">int</span> arr[MAXN];</span><br><span class="line"><span class="type">bool</span> vis[MAXN];</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断一个数是否为素数</span></span><br><span class="line"><span class="function"><span class="type">bool</span> <span class="title">check</span><span class="params">(<span class="type">int</span> num)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (num &lt; <span class="number">2</span>)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i * i &lt;= num; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (num % i == <span class="number">0</span>)</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="comment">// 回溯</span></span><br><span class="line"><span class="comment">// cur表示当前位置</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">back</span><span class="params">(<span class="type">int</span> cur)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (cur == n)  <span class="comment">// 检查最后一个数字和第一个数字之和是否为素数</span></span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">check</span>(arr[<span class="number">0</span>] + arr[n - <span class="number">1</span>]))</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; arr[i] &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">            }</span><br><span class="line">            cout &lt;&lt; endl;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i &lt;= n; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (!vis[i] &amp;&amp; <span class="built_in">check</span>(arr[cur - <span class="number">1</span>] + i))</span><br><span class="line">        {</span><br><span class="line">            vis[i] = <span class="literal">true</span>;</span><br><span class="line">            arr[cur] = i;</span><br><span class="line">            <span class="built_in">back</span>(cur + <span class="number">1</span>);</span><br><span class="line">            vis[i] = <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">    vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">    arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">    <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
-
-<h2 id="洛谷UVA题库版"><a href="#洛谷UVA题库版" class="headerlink" title="洛谷UVA题库版"></a>洛谷UVA题库版</h2><p>前面不是说了吗，UVA也有一个版本，是给出多个值，这里给出题目：</p>
-<p><img lazyload="" src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272200565.png" alt="洛谷UVA题目"></p>
-<h3 id="样例组"><a href="#样例组" class="headerlink" title="样例组"></a>样例组</h3><p><strong>INPUT #1</strong></p>
-<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><figcaption><span>1</span></figcaption><table><tr><td class="code"><pre><span class="line">6</span><br><span class="line">8</span><br></pre></td></tr></table></figure></div>
-
-<p><strong>OUTPUT #1</strong></p>
-<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Case 1:</span><br><span class="line">1 4 3 2 5 6</span><br><span class="line">1 6 5 2 3 4</span><br><span class="line"></span><br><span class="line">Case 2:</span><br><span class="line">1 2 3 8 5 6 7 4</span><br><span class="line">1 2 5 8 3 4 7 6</span><br><span class="line">1 4 7 6 5 8 3 2</span><br><span class="line">1 6 7 4 3 8 5 2</span><br></pre></td></tr></table></figure></div>
-
-<p>其实就是多次输入，用 <code>while</code> 循环解决，终止条件为 <code>n == EOF</code>，所以可以这样写。</p>
-<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span>(n != EOF)</span><br><span class="line">    {</span><br><span class="line">        cin &gt;&gt; n;</span><br><span class="line">        <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">        vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">    }</span><br></pre></td></tr></table></figure></div>
-
-<p>现在是把刚才信息队版本的输入和操作套在了循环里，<del>这就完了</del>，是不是很简单？</p>
-<p>其实没完，题目中说要在第 <code>i</code> 行添加上 <code>Case i</code> ，所以再搞一个变量就完事了！</p>
-<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> idx = <span class="number">1</span>;  <span class="comment">// 此处 idx 变量即 i 变量</span></span><br><span class="line"><span class="keyword">while</span>(n != EOF)</span><br><span class="line">{</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    cout &lt;&lt; <span class="string">"Case "</span> &lt;&lt; idx++ &lt;&lt; <span class="string">":"</span> &lt;&lt; endl;  <span class="comment">// 输出 Case i 因为 "++" 在后是先赋值再运算，所以可以这么写，就相当于先输出 idx 当前值再加</span></span><br><span class="line">    <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">    vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">    arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">    <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
-
-<h3 id="最终代码"><a href="#最终代码" class="headerlink" title="最终代码"></a>最终代码</h3><div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> MAXN = <span class="number">16</span>;</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"><span class="type">int</span> arr[MAXN];</span><br><span class="line"><span class="type">bool</span> vis[MAXN];</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断一个数是否为素数</span></span><br><span class="line"><span class="function"><span class="type">bool</span> <span class="title">check</span><span class="params">(<span class="type">int</span> num)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (num &lt; <span class="number">2</span>)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i * i &lt;= num; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (num % i == <span class="number">0</span>)</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="comment">// 回溯</span></span><br><span class="line"><span class="comment">// cur表示当前位置</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">back</span><span class="params">(<span class="type">int</span> cur)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (cur == n)  <span class="comment">// 检查最后一个数字和第一个数字之和是否为素数</span></span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">check</span>(arr[<span class="number">0</span>] + arr[n - <span class="number">1</span>]))</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; arr[i] &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">            }</span><br><span class="line">            cout &lt;&lt; endl;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i &lt;= n; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (!vis[i] &amp;&amp; <span class="built_in">check</span>(arr[cur - <span class="number">1</span>] + i))</span><br><span class="line">        {</span><br><span class="line">            vis[i] = <span class="literal">true</span>;</span><br><span class="line">            arr[cur] = i;</span><br><span class="line">            <span class="built_in">back</span>(cur + <span class="number">1</span>);</span><br><span class="line">            vis[i] = <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="type">int</span> idx = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span>(n != EOF)</span><br><span class="line">    {</span><br><span class="line">        cin &gt;&gt; n;</span><br><span class="line">        cout &lt;&lt; <span class="string">"Case "</span> &lt;&lt; idx++ &lt;&lt; <span class="string">":"</span> &lt;&lt; endl;</span><br><span class="line">        <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">        vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
-
-<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>到这里本片题解就结束了，UVA版本没提交，前面说了注册不起账号，但是代码应该没问题，有问题评论告知，谢谢支持🙏</p>
-]]></content>
-      <categories>
-        <category>信息竞赛OI</category>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>信息竞赛</tag>
-        <tag>OI</tag>
-        <tag>C++</tag>
-        <tag>题解</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「题解」 字符串反转</title>
-    <url>/p/20240702.html</url>
-    <content><![CDATA[<h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407022210276.png" alt="题目，此处展示的为个人训练题库（http://154.3.2.170/p/XF1）"></p>
-<h2 id="1-题目分析"><a href="#1-题目分析" class="headerlink" title="1.题目分析"></a>1.题目分析</h2><p>一道简单的字符串操作题，直接套用C++中字符串对应的操作即可</p>
-<h2 id="2-做题思路"><a href="#2-做题思路" class="headerlink" title="2.做题思路"></a>2.做题思路</h2><ol>
-<li>使用 <code>while</code> 循环读入字符串 <code>inpt </code> 为 <code>.</code> 时停止读入<ol>
-<li>对 <code>inpt</code> 字符串执行 <code>inpt.append(1,' ')</code> 意思是在读入的字符串后加一个空格，因为 <code>cin</code> 会排掉空格</li>
-<li>定义一个 <code>str</code> 字符串用来储存答案</li>
-<li>对 <code>str </code> 字符串执行 <code>str.insert(0, inpt)</code> 即将输入内容添加至 <code>str</code> 字符串最前面</li>
-</ol>
-</li>
-<li>输出 <code>str</code> 即可</li>
-</ol>
-<h2 id="3-复杂度计算"><a href="#3-复杂度计算" class="headerlink" title="3.复杂度计算"></a>3.复杂度计算</h2><p>由于只需要循环长度次，所以时间复杂度为 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="4.844ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2141 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> 是完全不会超的</p>
-<h2 id="4-完整代码"><a href="#4-完整代码" class="headerlink" title="4.完整代码"></a>4.完整代码</h2><h6 id="希望大家不要让我强行上反作弊"><a href="#希望大家不要让我强行上反作弊" class="headerlink" title="希望大家不要让我强行上反作弊"></a>希望大家不要让我强行上反作弊</h6><div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">	string str;</span><br><span class="line">	string inpt;</span><br><span class="line">	<span class="keyword">while</span>(<span class="literal">true</span>)</span><br><span class="line">	{</span><br><span class="line">		cin &gt;&gt; inpt ;</span><br><span class="line">		<span class="keyword">if</span>(inpt == <span class="string">"."</span>)</span><br><span class="line">		{</span><br><span class="line">			<span class="keyword">break</span>;</span><br><span class="line">		}</span><br><span class="line">		inpt.<span class="built_in">append</span>(<span class="number">1</span>, <span class="string">' '</span>);</span><br><span class="line">		str.<span class="built_in">insert</span>(<span class="number">0</span>, inpt);</span><br><span class="line">	}</span><br><span class="line">	cout &lt;&lt; str ;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
-
-<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>有问题请及时评论，我会做出对应的修改！</p>
-]]></content>
-      <categories>
-        <category>信息竞赛OI</category>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>信息竞赛</tag>
-        <tag>OI</tag>
-        <tag>C++</tag>
-        <tag>题解</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>「题解」 『FLA - I』冲云霄</title>
     <url>/p/20240803.html</url>
     <content><![CDATA[<h1 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h1><p><a class="link" href="https://www.luogu.com.cn/problem/P10835">题目传送门 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
@@ -872,6 +615,60 @@ import {initHBE} from "/js/plugins/hbe.js";
 <p>请遵守<a class="link" href="https://help.luogu.com.cn/rules/community">《洛谷社区规则》 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，重视<strong>学术诚信</strong>，不要当C玩以达成刷AC率的目的！</p>
 </blockquote>
 <div class="highlight-container" data-rel="C++"><figure class="iseeu highlight c++"><figcaption><span>『FLA - I』冲云霄.cpp</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> int long long</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> endl <span class="string">"\n"</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> fp(_a, _b, _c, _d) for(int _a = _b; _a &lt;= _c; _a += _d)</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> fm(_a, _b, _c, _d) for(int _a = _b; _a &lt;= _c; _a -= _d)</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> fin(_a, _b) for(int ss = 1; ss <span class="string">&lt;= _a; ss ++ ) cin &gt;</span>&gt; _b[ss];</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> fout(_a, _b, _c) for(int ss = 1; ss &lt;= _a; ss ++ ) cout &lt;&lt; _b[ss] &lt;&lt; _c ;</span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> N = <span class="number">1e7</span> + <span class="number">10</span>;</span><br><span class="line"><span class="type">const</span> <span class="type">int</span> M = <span class="number">2e3</span> + <span class="number">5</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">int</span> t, n, m, k, a[N];</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">signed</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="string">"toothless. #17"</span>;</span><br><span class="line">    cin &gt;&gt; t;</span><br><span class="line">    <span class="built_in">fp</span>(ss, <span class="number">1</span>, t, <span class="number">1</span>)</span><br><span class="line">    {</span><br><span class="line">        cin &gt;&gt; n &gt;&gt; m ;</span><br><span class="line">        <span class="keyword">if</span>(m % <span class="number">2</span> == <span class="number">0</span>)  <span class="comment">// 如果  m  是偶数且  n  为  0 ，输出 Yes。否则输出 No。</span></span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">if</span>(n == <span class="number">0</span>)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; <span class="string">"Yes"</span> &lt;&lt; endl;</span><br><span class="line">            }</span><br><span class="line">            <span class="keyword">else</span></span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; <span class="string">"No"</span> &lt;&lt; endl;</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">else</span>  <span class="comment">// 如果  m  是奇数且  n  为正整数，输出 Yes 。否则输出 No。</span></span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">if</span>(n &gt; <span class="number">0</span>)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; <span class="string">"Yes"</span> &lt;&lt; endl;</span><br><span class="line">            }</span><br><span class="line">            <span class="keyword">else</span></span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; <span class="string">"No"</span> &lt;&lt; endl;</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>信息竞赛OI</category>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>信息竞赛</tag>
+        <tag>OI</tag>
+        <tag>C++</tag>
+        <tag>题解</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「题解」 素数环</title>
+    <url>/p/20240627.html</url>
+    <content><![CDATA[<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h2><p>在学校信息队训练的时候布置了这一道题目，但是只求一次。然后上洛谷发现UVA题库求多次，因为方法一样只需嵌套，所以就做了一下（没有账号提交不了=m=）</p>
+<h2 id="信息队原题"><a href="#信息队原题" class="headerlink" title="信息队原题"></a>信息队原题</h2><p><figure class="image-caption"><img lazyload="" src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272146771.png" alt="原题图片"><figcaption>原题图片</figcaption></figure></p>
+<h2 id="1-题目分析"><a href="#1-题目分析" class="headerlink" title="1.题目分析"></a>1.题目分析</h2><p>题目要求将整数 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewBox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container> 到 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 组成一个环，使得相邻的两个整数之和均为素数。</p>
+<p>我们需要找到所有满足条件的素数环，并按照要求输出。</p>
+<p>由于 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 的值不超过 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.557ex" role="img" focusable="false" viewBox="0 -666 1000 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="36" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z" transform="translate(500,0)"></path></g></g></g></svg></mjx-container> ，我们可以使用回溯法来尝试所有可能的组合。</p>
+<h2 id="2-做题思路"><a href="#2-做题思路" class="headerlink" title="2.做题思路"></a>2.做题思路</h2><p>判断当前取出的数字是否和前一个组成素数，这一步可以用一个 <code>check</code>函数来解决（num的值为两个数字的和）</p>
+<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">bool</span> <span class="title">check</span><span class="params">(<span class="type">int</span> num)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (num &lt; <span class="number">2</span>)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i * i &lt;= num; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (num % i == <span class="number">0</span>)</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+
+
+<p>在创建一个 <code>back</code> 函数用于回溯：</p>
+<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">void</span> <span class="title">back</span><span class="params">(<span class="type">int</span> cur)</span>  <span class="comment">// cur 表示当前位置</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (cur == n)  <span class="comment">// 检查最后一个数字和第一个数字之和是否为素数</span></span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">check</span>(arr[<span class="number">0</span>] + arr[n - <span class="number">1</span>]))</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; arr[i] &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">            }</span><br><span class="line">            cout &lt;&lt; endl;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i &lt;= n; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (!vis[i] &amp;&amp; <span class="built_in">check</span>(arr[cur - <span class="number">1</span>] + i))</span><br><span class="line">        {</span><br><span class="line">            vis[i] = <span class="literal">true</span>;</span><br><span class="line">            arr[cur] = i;</span><br><span class="line">            <span class="built_in">back</span>(cur + <span class="number">1</span>);</span><br><span class="line">            vis[i] = <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<p>在back函数中，首先判断是否已经放置了 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 个数字。如果是，则检查最后一个数字和第一个数字之和是否为素数。如果是素数，则输出这个环。</p>
+<p>然后，从数字 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewBox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g></svg></mjx-container> 到 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> 依次尝试将每个数字放在环的下一个位置。如果该数字没有被使用过，并且与前一个数字之和为素数，就将其放在环的下一个位置，并标记为已使用，然后继续递归放置下一个数字。</p>
+<p>如果放置过程中出现相邻两个数字之和不是素数的情况，就回溯到上一个数字，重新选择下一个数字。</p>
+<p>最后是 <code>main</code> 函数，在main函数中，读取输入的 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></svg></mjx-container> ，初始化标记数组和环的第一个数字，然后调用 <code>back</code> 函数从数字 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewBox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container> 开始回溯。</p>
+<h2 id="3-复杂度计算"><a href="#3-复杂度计算" class="headerlink" title="3.复杂度计算"></a>3.复杂度计算</h2><p>时间复杂度：由于需要尝试所有可能的组合，时间复杂度为 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="5.473ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2419 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752,0)"><path data-c="21" d="M78 661Q78 682 96 699T138 716T180 700T199 661Q199 654 179 432T158 206Q156 198 139 198Q121 198 119 206Q118 209 98 431T78 661ZM79 61Q79 89 97 105T141 121Q164 119 181 104T198 61Q198 31 181 16T139 1Q114 1 97 16T79 61Z"></path></g><g data-mml-node="mo" transform="translate(2030,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> ，其中 n 是输入的数字个数</p>
+<p>空间复杂度：主要是使用了标记数组和环数组，空间复杂度为 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="4.844ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2141 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> </p>
+<h2 id="4-完整代码"><a href="#4-完整代码" class="headerlink" title="4.完整代码"></a>4.完整代码</h2><div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> MAXN = <span class="number">16</span>;</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"><span class="type">int</span> arr[MAXN];</span><br><span class="line"><span class="type">bool</span> vis[MAXN];</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断一个数是否为素数</span></span><br><span class="line"><span class="function"><span class="type">bool</span> <span class="title">check</span><span class="params">(<span class="type">int</span> num)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (num &lt; <span class="number">2</span>)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i * i &lt;= num; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (num % i == <span class="number">0</span>)</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="comment">// 回溯</span></span><br><span class="line"><span class="comment">// cur表示当前位置</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">back</span><span class="params">(<span class="type">int</span> cur)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (cur == n)  <span class="comment">// 检查最后一个数字和第一个数字之和是否为素数</span></span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">check</span>(arr[<span class="number">0</span>] + arr[n - <span class="number">1</span>]))</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; arr[i] &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">            }</span><br><span class="line">            cout &lt;&lt; endl;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i &lt;= n; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (!vis[i] &amp;&amp; <span class="built_in">check</span>(arr[cur - <span class="number">1</span>] + i))</span><br><span class="line">        {</span><br><span class="line">            vis[i] = <span class="literal">true</span>;</span><br><span class="line">            arr[cur] = i;</span><br><span class="line">            <span class="built_in">back</span>(cur + <span class="number">1</span>);</span><br><span class="line">            vis[i] = <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">    vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">    arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">    <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="洛谷UVA题库版"><a href="#洛谷UVA题库版" class="headerlink" title="洛谷UVA题库版"></a>洛谷UVA题库版</h2><p>前面不是说了吗，UVA也有一个版本，是给出多个值，这里给出题目：</p>
+<p><figure class="image-caption"><img lazyload="" src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272200565.png" alt="洛谷UVA题目"><figcaption>洛谷UVA题目</figcaption></figure></p>
+<h3 id="样例组"><a href="#样例组" class="headerlink" title="样例组"></a>样例组</h3><p><strong>INPUT #1</strong></p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><figcaption><span>1</span></figcaption><table><tr><td class="code"><pre><span class="line">6</span><br><span class="line">8</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>OUTPUT #1</strong></p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Case 1:</span><br><span class="line">1 4 3 2 5 6</span><br><span class="line">1 6 5 2 3 4</span><br><span class="line"></span><br><span class="line">Case 2:</span><br><span class="line">1 2 3 8 5 6 7 4</span><br><span class="line">1 2 5 8 3 4 7 6</span><br><span class="line">1 4 7 6 5 8 3 2</span><br><span class="line">1 6 7 4 3 8 5 2</span><br></pre></td></tr></table></figure></div>
+
+<p>其实就是多次输入，用 <code>while</code> 循环解决，终止条件为 <code>n == EOF</code>，所以可以这样写。</p>
+<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span>(n != EOF)</span><br><span class="line">    {</span><br><span class="line">        cin &gt;&gt; n;</span><br><span class="line">        <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">        vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">    }</span><br></pre></td></tr></table></figure></div>
+
+<p>现在是把刚才信息队版本的输入和操作套在了循环里，<del>这就完了</del>，是不是很简单？</p>
+<p>其实没完，题目中说要在第 <code>i</code> 行添加上 <code>Case i</code> ，所以再搞一个变量就完事了！</p>
+<div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> idx = <span class="number">1</span>;  <span class="comment">// 此处 idx 变量即 i 变量</span></span><br><span class="line"><span class="keyword">while</span>(n != EOF)</span><br><span class="line">{</span><br><span class="line">    cin &gt;&gt; n;</span><br><span class="line">    cout &lt;&lt; <span class="string">"Case "</span> &lt;&lt; idx++ &lt;&lt; <span class="string">":"</span> &lt;&lt; endl;  <span class="comment">// 输出 Case i 因为 "++" 在后是先赋值再运算，所以可以这么写，就相当于先输出 idx 当前值再加</span></span><br><span class="line">    <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">    vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">    arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">    <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<h3 id="最终代码"><a href="#最终代码" class="headerlink" title="最终代码"></a>最终代码</h3><div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="type">const</span> <span class="type">int</span> MAXN = <span class="number">16</span>;</span><br><span class="line"><span class="type">int</span> n;</span><br><span class="line"><span class="type">int</span> arr[MAXN];</span><br><span class="line"><span class="type">bool</span> vis[MAXN];</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断一个数是否为素数</span></span><br><span class="line"><span class="function"><span class="type">bool</span> <span class="title">check</span><span class="params">(<span class="type">int</span> num)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (num &lt; <span class="number">2</span>)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i * i &lt;= num; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (num % i == <span class="number">0</span>)</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="comment">// 回溯</span></span><br><span class="line"><span class="comment">// cur表示当前位置</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">back</span><span class="params">(<span class="type">int</span> cur)</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">if</span> (cur == n)  <span class="comment">// 检查最后一个数字和第一个数字之和是否为素数</span></span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (<span class="built_in">check</span>(arr[<span class="number">0</span>] + arr[n - <span class="number">1</span>]))</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++)</span><br><span class="line">            {</span><br><span class="line">                cout &lt;&lt; arr[i] &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">            }</span><br><span class="line">            cout &lt;&lt; endl;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">2</span>; i &lt;= n; i++)</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">if</span> (!vis[i] &amp;&amp; <span class="built_in">check</span>(arr[cur - <span class="number">1</span>] + i))</span><br><span class="line">        {</span><br><span class="line">            vis[i] = <span class="literal">true</span>;</span><br><span class="line">            arr[cur] = i;</span><br><span class="line">            <span class="built_in">back</span>(cur + <span class="number">1</span>);</span><br><span class="line">            vis[i] = <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="type">int</span> idx = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span>(n != EOF)</span><br><span class="line">    {</span><br><span class="line">        cin &gt;&gt; n;</span><br><span class="line">        cout &lt;&lt; <span class="string">"Case "</span> &lt;&lt; idx++ &lt;&lt; <span class="string">":"</span> &lt;&lt; endl;</span><br><span class="line">        <span class="built_in">memset</span>(vis, <span class="literal">false</span>, <span class="built_in">sizeof</span>(vis));</span><br><span class="line">        vis[<span class="number">1</span>] = <span class="literal">true</span>;</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="built_in">back</span>(<span class="number">1</span>);</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>到这里本片题解就结束了，UVA版本没提交，前面说了注册不起账号，但是代码应该没问题，有问题评论告知，谢谢支持🙏</p>
 ]]></content>
       <categories>
         <category>信息竞赛OI</category>
@@ -979,6 +776,88 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>「题解」 字符串反转</title>
+    <url>/p/20240702.html</url>
+    <content><![CDATA[<h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407022210276.png" alt="题目，此处展示的为个人训练题库（http://154.3.2.170/p/XF1）"><figcaption>题目，此处展示的为个人训练题库（http://154.3.2.170/p/XF1）</figcaption></figure></p>
+<h2 id="1-题目分析"><a href="#1-题目分析" class="headerlink" title="1.题目分析"></a>1.题目分析</h2><p>一道简单的字符串操作题，直接套用C++中字符串对应的操作即可</p>
+<h2 id="2-做题思路"><a href="#2-做题思路" class="headerlink" title="2.做题思路"></a>2.做题思路</h2><ol>
+<li>使用 <code>while</code> 循环读入字符串 <code>inpt </code> 为 <code>.</code> 时停止读入<ol>
+<li>对 <code>inpt</code> 字符串执行 <code>inpt.append(1,' ')</code> 意思是在读入的字符串后加一个空格，因为 <code>cin</code> 会排掉空格</li>
+<li>定义一个 <code>str</code> 字符串用来储存答案</li>
+<li>对 <code>str </code> 字符串执行 <code>str.insert(0, inpt)</code> 即将输入内容添加至 <code>str</code> 字符串最前面</li>
+</ol>
+</li>
+<li>输出 <code>str</code> 即可</li>
+</ol>
+<h2 id="3-复杂度计算"><a href="#3-复杂度计算" class="headerlink" title="3.复杂度计算"></a>3.复杂度计算</h2><p>由于只需要循环长度次，所以时间复杂度为 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="4.844ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 2141 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> 是完全不会超的</p>
+<h2 id="4-完整代码"><a href="#4-完整代码" class="headerlink" title="4.完整代码"></a>4.完整代码</h2><h6 id="希望大家不要让我强行上反作弊"><a href="#希望大家不要让我强行上反作弊" class="headerlink" title="希望大家不要让我强行上反作弊"></a>希望大家不要让我强行上反作弊</h6><div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">	string str;</span><br><span class="line">	string inpt;</span><br><span class="line">	<span class="keyword">while</span>(<span class="literal">true</span>)</span><br><span class="line">	{</span><br><span class="line">		cin &gt;&gt; inpt ;</span><br><span class="line">		<span class="keyword">if</span>(inpt == <span class="string">"."</span>)</span><br><span class="line">		{</span><br><span class="line">			<span class="keyword">break</span>;</span><br><span class="line">		}</span><br><span class="line">		inpt.<span class="built_in">append</span>(<span class="number">1</span>, <span class="string">' '</span>);</span><br><span class="line">		str.<span class="built_in">insert</span>(<span class="number">0</span>, inpt);</span><br><span class="line">	}</span><br><span class="line">	cout &lt;&lt; str ;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>有问题请及时评论，我会做出对应的修改！</p>
+]]></content>
+      <categories>
+        <category>信息竞赛OI</category>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>信息竞赛</tag>
+        <tag>OI</tag>
+        <tag>C++</tag>
+        <tag>题解</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）</title>
+    <url>/p/20240713.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>本文仅代表本人观点，如有问题请评论指出，但请不要使用过激语言！</p>
+
+  </div>
+
+<p>在《微信隐私协议》的1.2条中写道：同时，为了预防病毒、木马程序或其他恶意程序、网站，我们可能会收集你设备安装的应用信息、正在运行的进程信息或设备内存中寄存的数据，以防止你的个人信息泄露。<br>“手机设备安装的应用信息、正在运行的进程信息或设备内存中寄存的数据”这听着有点刁钻，我来分析一下：<br>简单来说，就是相当于监视你的设备<br>等等，监视👀<br>这……<br>也就是说，你不管在干啥，只要微信在后台，腾讯都看的一清二楚！<br>比如：打游戏输了，在干什么工作<br>那么，只能说明了一个点：<br>据不精确，国内微信用户数量共580亿，就相当于腾讯共监视者580亿设备！<br>580亿设备，你说腾讯拿这些东西来干什么呢（此问题只是单纯题问，并无恶意）<br>回归正题，WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别，就单单上文所描述的这一“变态”的协议在WeChat是没有的。还是那个问题，腾讯为什么要在中国微信中干这种事，我们不得而知！<br>关键是现在隐私安全🔐🔏问题还要你操心吗，你确定你的协议真的是说了实话（单纯发问，并无他意）？<br>所以说，对于这个点，你有什么看法？</p>
+<p><figure class="image-caption"><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407131127093.png" alt="《微信隐私保护指引》中提到上文内容的部分（高亮）直达链接：https://arc.net/l/quote/rfcrcgqz）"><figcaption>《微信隐私保护指引》中提到上文内容的部分（高亮）直达链接：https://arc.net/l/quote/rfcrcgqz）</figcaption></figure></p>
+<h1 id="Ad"><a href="#Ad" class="headerlink" title="Ad"></a>Ad</h1><p>想要知道更多微信与WeChat隐私协议的不同，请观看下面的视频</p>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1755876387&bvid=BV1z4421S77K&cid=1587655687&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+]]></content>
+      <categories>
+        <category>随笔</category>
+        <category>当代软件</category>
+      </categories>
+      <tags>
+        <tag>微信</tag>
+        <tag>隐私安全</tag>
+        <tag>软件协议</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pixel-Chat Boom项目介绍</title>
+    <url>/p/20240729.html</url>
+    <content><![CDATA[<h2 id="Pixel-Chat是啥？"><a href="#Pixel-Chat是啥？" class="headerlink" title="Pixel-Chat是啥？"></a>Pixel-Chat是啥？</h2><p>哎，最近在集训，本来说发了项目就更博，结果拖到<kbd>Boom</kbd>项目还没发</p>
+<p>这是我最近和朋友写的一个<a class="link"   href="https://www.bing.com/search?q=%E5%8D%B3%E6%97%B6%E8%81%8A%E5%A4%A9&PC=U316&FORM=CHROMN" >即时聊天 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>项目，项目地址：<a class="link"   href="https://github.com/AlignPixel/Pixel-Chat-App" >https://github.com/AlignPixel/Pixel-Chat-App <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>欢迎点Star支持</p>
+<p>具体说明请阅读项目的 <code>README.md</code>，这里就不过多赘述</p>
+<h2 id="那Pixel-Chat-Boom又是啥？"><a href="#那Pixel-Chat-Boom又是啥？" class="headerlink" title="那Pixel-Chat Boom又是啥？"></a>那Pixel-Chat Boom又是啥？</h2><p><del>好的，我来说说</del></p>
+<p>他是一个用于测试服务端性能的玩意，原理是通过不断访问来挑出BUG</p>
+<h4 id="有BUG咋整？"><a href="#有BUG咋整？" class="headerlink" title="有BUG咋整？"></a>有BUG咋整？</h4><p><del>好问题</del></p>
+<p>如果您自己能够解决，那么你可以自行更改服务端，若你想帮助大家还可以为项目提交PR，大家共同进步</p>
+<p>如果您自己不能够解决，那么请你提一个issue，等待大家帮你解决</p>
+<h3 id="废话这么多，那我问你：“咋用啊？”"><a href="#废话这么多，那我问你：“咋用啊？”" class="headerlink" title="废话这么多，那我问你：“咋用啊？”"></a>废话这么多，那我问你：“咋用啊？”</h3><p>本项目本身就是循环访问，所以是直接修改客户端文件，这里给出样本</p>
+<script src="https://gist.github.com/FrederickBun/d1b8868125299cbe628ee00dd1c9e16b.js"></script>
+
+<p>大概就是这个样子，官方不提供此技术支持，如果你有问题请到<a class="link"   href="https://github.com/AlignPixel/Pixel-Chat-App/discussions" >项目讨论 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>与其他小伙伴交流、分享测试经验</p>
+<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p>本项目仅供测试程序，禁止用作违法违规用途，发生事故本人概不负责！</p>
+]]></content>
+      <categories>
+        <category>开发</category>
+        <category>个人项目</category>
+        <category>Pixel-Chat</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>Pixel-Chat</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>「题解」 [NOIP2014 普及组] 螺旋矩阵</title>
     <url>/p/20240712.html</url>
     <content><![CDATA[<h1 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h1><h2 id="题目背景"><a href="#题目背景" class="headerlink" title="题目背景"></a>题目背景</h2><p>NOIP2014 普及组 T3</p>
@@ -1015,30 +894,6 @@ import {initHBE} from "/js/plugins/hbe.js";
         <tag>OI</tag>
         <tag>C++</tag>
         <tag>题解</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）</title>
-    <url>/p/20240713.html</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small default">
-    <p>本文仅代表本人观点，如有问题请评论指出，但请不要使用过激语言！</p>
-
-  </div>
-
-<p>在《微信隐私协议》的1.2条中写道：同时，为了预防病毒、木马程序或其他恶意程序、网站，我们可能会收集你设备安装的应用信息、正在运行的进程信息或设备内存中寄存的数据，以防止你的个人信息泄露。<br>“手机设备安装的应用信息、正在运行的进程信息或设备内存中寄存的数据”这听着有点刁钻，我来分析一下：<br>简单来说，就是相当于监视你的设备<br>等等，监视👀<br>这……<br>也就是说，你不管在干啥，只要微信在后台，腾讯都看的一清二楚！<br>比如：打游戏输了，在干什么工作<br>那么，只能说明了一个点：<br>据不精确，国内微信用户数量共580亿，就相当于腾讯共监视者580亿设备！<br>580亿设备，你说腾讯拿这些东西来干什么呢（此问题只是单纯题问，并无恶意）<br>回归正题，WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别，就单单上文所描述的这一“变态”的协议在WeChat是没有的。还是那个问题，腾讯为什么要在中国微信中干这种事，我们不得而知！<br>关键是现在隐私安全🔐🔏问题还要你操心吗，你确定你的协议真的是说了实话（单纯发问，并无他意）？<br>所以说，对于这个点，你有什么看法？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407131127093.png" alt="《微信隐私保护指引》中提到上文内容的部分（高亮）直达链接：https://arc.net/l/quote/rfcrcgqz）"></p>
-<h1 id="Ad"><a href="#Ad" class="headerlink" title="Ad"></a>Ad</h1><p>想要知道更多微信与WeChat隐私协议的不同，请观看下面的视频</p>
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1755876387&bvid=BV1z4421S77K&cid=1587655687&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-]]></content>
-      <categories>
-        <category>随笔</category>
-        <category>当代软件</category>
-      </categories>
-      <tags>
-        <tag>微信</tag>
-        <tag>隐私安全</tag>
-        <tag>软件协议</tag>
       </tags>
   </entry>
 </search>

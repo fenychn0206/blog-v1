@@ -8,8 +8,6 @@ comment: true
 
 ![](https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202405261739325.svg)
 
-<a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://www.travellings.cn/assets/logo.svg" alt="开往-友链接力" width="120"></a>
-
 👋嗨，这里是 [@Frederick Chen](/) 的个人站，采用 [hexo](https://hexo.io) 框架与 [Redefine](https://redefine.ohevan.com) 主题进行搭建。目前采用 [Github](https://github.com) + [Vercel](https://vercel.com) 的方式进行部署，今后可能切换服务器部署～
 
 本人目前是一名 `学生` + `OIer` ，就读于西南大学附中，正处于探索期还请大家多见谅！
@@ -54,84 +52,51 @@ comment: true
 
 所有文章若无特殊声明均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) 协议，转载时请注明原文链接与原作者，谢谢配合！
 
-![⬇️有关开源项目⬇️](https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatattentionreverse.png)
+# 开源项目
 
 开源项目无任何盈利目的，只在学习闲暇时间进行维护，有相关需求请前往对应项目提 Issue 进行反馈，通过私人邮件询问开源项目问题可能得不到答复。
 
-# 订阅
-
 <style>
-    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
-  display: flex !important;
-  flex-direction: column !important;
-  justify-content: center !important;
-  margin-top: 30px !important;
-  padding: clamp(17px, 5%, 40px) clamp(17px, 7%, 50px) !important;
-  max-width: none !important;
-  border-radius: 6px !important;
-  box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview,
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview *{
-  box-sizing: border-box !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading {
-  width: 100% !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading h5{
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field {
-  margin-top: 20px !important;
-  width: 100% !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
-  width: 100% !important;
-  height: 40px !important;
-  border-radius: 6px !important;
-  border: 2px solid #e9e8e8 !important;
-  background-color: #fff;
-  outline: none !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
-  color: #000000 !important;
-  font-family: "Montserrat" !important;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 20px;
-  text-align: center;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::placeholder {
-  color: #000000 !important;
-  opacity: 1 !important;
-}
+    .timeline-container {
+        margin-left: 1rem;
+    }
+    a.no-link {
 
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input:-ms-input-placeholder {
-  color: #000000 !important;
-}
+    }
+    li.article-item::marker {
+        content: '';
+    }
+</style>
 
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::-ms-input-placeholder {
-  color: #000000 !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button {
-  margin-top: 10px !important;
-  width: 100% !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button {
-  width: 100% !important;
-  height: 40px !important;
-  border: 0 !important;
-  border-radius: 6px !important;
-  line-height: 0px !important;
-}
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button:hover {
-  cursor: pointer !important;
-}
+# 感谢名单
 
-  </style>
-  <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
-    <form data-v-bc091608="" action="https://api.follow.it/subscription-form/MEx2N2g2YUVyWDZzMmM3aUZpQWloSEhpWENzWDRDd2NiaGExN29SclBSaXBsOGNPTmdBUStWSjZIcm54eEZzaXFEMEN4UlBQN0JTM3VVc0U1OXRCUHh5ZitvVW1EZjZPbTZtbHI4ekNiMU5ES1NoSExRalNRS1h6UUQvdEx1OVJ8cGhRU0tyZndzeEtabTV0T256SG14enl4SCtJUGE3Um1wQVB2eVlwRFVJST0=/8" method="post"><div data-v-bc091608="" class="form-preview" style="background-color: rgb(255, 255, 255); position: relative; border-style: solid; border-width: 1px; border-color: rgb(105, 178, 113);"><div data-v-bc091608="" class="preview-heading"><h5 data-v-bc091608="" style="text-transform: none !important; font-family: Arial; font-weight: bold; color: rgb(0, 0, 0); font-size: 16px; text-align: center;">获取 磅说宇宙 的最新更新！</h5></div><div data-v-bc091608="" class="preview-input-field"><input data-v-bc091608="" type="email" name="email" required="" placeholder="输入您的E-mail，承诺不发送任何垃圾邮件" spellcheck="false" style="text-transform: none !important; font-family: Arial; font-weight: 400; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"></div><div data-v-bc091608="" class="preview-submit-button"><button data-v-bc091608="" type="submit" style="text-transform: none !important; font-family: Arial; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(105, 178, 113);">订阅</button></div></div></form>
+感谢以下朋友的访问，不管你们来自哪里，都值得被感谢！
+
+> 注：按照 Waline 账号的注册顺序从上（旧）至下（新）排序！持续更新，直到不更新~
+
+<div class="timeline-container">
+  <div class="archive-list-container">
+    <section class="archive-item mb-spacing-unit last:mb-0">
+      <ul class="article-list">
+        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is="Teacher Du（杜老师）">
+            <a href="https://dusays.com"><span class="article-title mb-0.5 text-2xl">杜老师说</span></a>
+            <a href="https://7bu.top"><span class="article-title mb-0.5 text-2xl">去不图床</span></a>
+        </li>
+        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is="黑客少年">
+            <a href="https://zhaohonghao-qwq.com/"><span class="article-title mb-0.5 text-2xl">主页</span></a>
+            <a href="https://blog.zhaohonghao-qwq.com/"><span class="article-title mb-0.5 text-2xl">博客</span></a>
+        </li>
+        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is="Kegongteng">
+            <a href="https://kegongteng.cn/"><span class="article-title mb-0.5 text-2xl">博客</span></a>
+        </li>
+        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is="klcdm">
+            <a href="https://koxiuqiu.cn/"><span class="article-title mb-0.5 text-2xl">博客</span></a>
+        </li>
+        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is="Chlorine">
+            <a href="https://www.yoghurtlee.com/"><span class="article-title mb-0.5 text-2xl">博客</span></a>
+        </li>
+      </ul>
+    </section>
+
   </div>
-
-<script src="https://gist.github.com/FrederickBun/33375fc8d8639d6947aa9d8ff85b1de2.js"></script>
+</div>
