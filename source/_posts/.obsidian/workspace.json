@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csp-j-2024.md",
+                "file": "csp-j-2024-inn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "csp-j-2024.md",
+                "file": "csp-j-2024-inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "csp-j-2024.md",
+                "file": "csp-j-2024-inn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "csp-j-2024.md"
+                "file": "csp-j-2024-inn.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "db13a0dfe6fc070f",
   "lastOpenFiles": [
-    "sg-memories.md",
     "icloud-goooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooood.md",
+    "csp-j-2024-inn.md",
+    "dbai-oibot.md",
+    "b5817ac82414dd1bb327ef5f16b585",
+    "csp-j-2024.md",
+    "sg-memories.md",
     "REDEFINE-UNOFFICIAL-README.md",
     "pixel-chat-boom.md"
   ]
