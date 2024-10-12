@@ -228,7 +228,7 @@ navbar:
     # Whether to enable
     enable: true
     # Preload search data when the page loads
-    preload: true
+    preload: false
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
